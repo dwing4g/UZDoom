@@ -205,6 +205,7 @@ void SettingsPage::UpdateLanguage()
 void SettingsPage::OnLanguageChanged(int i)
 {
 	GStrings.UpdateLanguage(languages[i].first.GetChars());
+	GetCanvas()->setLanguage(languages[i].first.GetChars());
 	UpdateLanguage();
 	Update();
 	Launcher->UpdateLanguage();
