@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 16:36+0000\n"
-"Last-Translator: Маркич <zurovmark61@gmail.com>\n"
-"Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/common/sv/"
-">\n"
+"PO-Revision-Date: 2026-02-13 06:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/common/"
+"sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
-"HeaderCode: sv\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: sv\n"
 
 msgid "PRESSYN"
 msgstr "Tryck på Y eller N."
@@ -24,7 +24,10 @@ msgid "TXT_NO"
 msgstr "Nej"
 
 msgid "SAVEDEAD"
-msgstr "Du kan inte spara om du inte spelar! Tryck på en tangent."
+msgstr ""
+"Du kan inte spara om du inte spelar!\n"
+"\n"
+"Tryck på en tangent."
 
 msgid "SAFEMESSAGE"
 msgstr "Vill du verkligen göra det här?"
@@ -34,12 +37,18 @@ msgstr "Inte inställd"
 
 msgid "QSPROMPT"
 msgstr ""
-"Snabbspara över ditt spel som heter %s?\n"
+"Snabbspara över ditt spel som heter\n"
+"\n"
+"'%s'?\n"
+"\n"
 "Tryck på Y eller N."
 
 msgid "QLPROMPT"
 msgstr ""
-"Vill du snabbladda spelet som heter \"%s\"?\n"
+"Vill du snabbladda spelet som heter\n"
+"\n"
+"'%s'?\n"
+"\n"
 "Tryck på Y eller N."
 
 # This is a gender sensitive message where %s represents the player
@@ -83,6 +92,7 @@ msgstr "Annan version"
 msgid "MNU_NOFILES"
 msgstr "Inga filer"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Vill du verkligen radera sparfilen?"
 
@@ -1260,7 +1270,7 @@ msgid "GLPREFMNU_SECLIGHTMODE"
 msgstr "Sektorljusläge"
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr "Dimläge"
+msgstr "Dimläget"
 
 msgid "OPTVAL_RADIAL"
 msgstr "Radial"
@@ -1493,6 +1503,7 @@ msgstr "Rotation av snabbregistrering"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Antal quicksaves i rotation"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Inaktivera ren menyskalning"
 
@@ -1664,6 +1675,7 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Skapa"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Spara..."
 
@@ -1717,7 +1729,7 @@ msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Gamla xBRZ"
 
 msgid "OS_TITLE"
-msgstr "Sökning av alternativ"
+msgstr "Alternativ Sök"
 
 msgid "OS_ANY"
 msgstr "Sök efter valfri term"
@@ -1731,121 +1743,10 @@ msgstr "Inga resultat hittades."
 msgid "OS_LABEL"
 msgstr "Sök:"
 
-msgid "TXT_OBITUARY1"
-msgstr "%k benade %o som en fisk"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k kastrerade %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k gräddade %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k decimerade %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k förstörde %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k skar %o i tärningar"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k tog upp %o i bitar"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k plattade %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k gav %o anal rättvisa"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k gav %o anal rättvisa"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k dödade %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k gjorde köttfärs av %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k massakrerade %o"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k lemlästade %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k har gjort %o illa."
-
-msgid "TXT_OBITUARY16"
-msgstr "%k slet upp en ny öppning i %o"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k slaktade %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k krossade %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k sodomiserade %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k sprutade %o."
-
-msgid "TXT_OBITUARY21"
-msgstr "%k krossade %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k tog strypgrepp på %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k slösade bort %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k dödade %o"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k skickade %o till helvetet"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k rostade %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k snusade %o"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k sprutade %o"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k sprayade %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k gjorde hundkött av %o"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k rostade %o"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o är avföring"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o är hamburgare"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o fick pungen separerad"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o anmälde sig frivilligt till befolkningskontroll"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o har begått självmord"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o fick Darwinpriset"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character

@@ -2,17 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 06:45+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Portuguese <https://hosted.weblate.org/projects/uzdoom/"
-"zdoom-engine-strings/pt/>\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
+"engine-strings/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
-"HeaderCode: ptg\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: ptg\n"
 
 msgid "PRESSKEY"
 msgstr "Carrega numa tecla qualquer."
@@ -97,6 +97,7 @@ msgstr ""
 "Por favor não te vás embora, há mais\n"
 "demônios para matar!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Falando a sério -- Isto está se a tornar\n"
@@ -107,11 +108,13 @@ msgstr ""
 "Se fosse a ti não saia daqui.\n"
 "O DOS é bem pior."
 
+#, fuzzy
 msgid "QUITMSG4"
 msgstr ""
-"Estás a tentar dizer que gostas mais do \n"
-"do DOS do que eu, é isso?"
+"Estás a tentar dizer que gostas mais\n"
+"do DOS do que de mim, é isso?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Não te vás embora agora -- Está um\n"
@@ -180,12 +183,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr ""
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Eu achei que eras diferente..."
 
 msgid "QUITMSG20"
 msgstr "Pronto! Mata e foge!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Podes sair...\n"
@@ -211,6 +216,7 @@ msgstr ""
 "Não te vás embora agora.\n"
 "Nós precisamos da tua ajuda!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Espero que só estejas a fazer uma\n"
@@ -266,6 +272,7 @@ msgstr "Assustas-te a ti propri@[ao_ptb]"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Começas a delirar"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Enlouqueceste"
 
@@ -326,7 +333,7 @@ msgid "STSTR_CHOPPERS"
 msgstr ""
 
 msgid "STSTR_CLEV"
-msgstr "A mudar de nível...\n"
+msgstr "A mudar de nível…"
 
 msgid "TXT_BUDDHAON"
 msgstr ""
@@ -385,6 +392,7 @@ msgstr ""
 msgid "TXT_FREEZEOFF"
 msgstr ""
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Tu sentes-te estranh@[ao_ptb]."
 
@@ -2064,12 +2072,15 @@ msgstr "Apanhaste as setas electricas."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Apanhaste a mochila de munição."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Tens um pressentimento que não devias ter mexido nisso."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "O que quer que isso seja, não pertence a este mundo..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Devia fazer alguma coisa."
 
@@ -2565,9 +2576,11 @@ msgstr "Pareces ter o suficiente!"
 msgid "TXT_GOAWAY"
 msgstr "Vai-te embora!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "A Receber Mensagem..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "A Receber Mensagem de BlackBird..."
 
@@ -2578,9 +2591,11 @@ msgstr "Procura ajuda"
 msgid "TXT_TRADE"
 msgstr ""
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Apanhaste uma Armadura Chex(R)."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Apanhaste uma Super Armadura Chex(R)!"
 
@@ -2756,6 +2771,7 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr ""
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Missão cumprida.\n"
@@ -2822,6 +2838,7 @@ msgstr ""
 "\n"
 "Carrega Y ou N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Este é o Chex(R) Quest. Procure por\n"
@@ -4422,16 +4439,10 @@ msgstr ""
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr ""
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr ""
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
-msgstr ""
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
 msgstr ""
 
 msgid "GLPREFMNU_ENV"
@@ -4456,9 +4467,6 @@ msgid "GLPREFMNU_SPRBILLFACECAMERA"
 msgstr ""
 
 msgid "GLPREFMNU_PARTICLESTYLE"
-msgstr ""
-
-msgid "GLPREFMNU_RENDERQUALITY"
 msgstr ""
 
 msgid "GLPREFMNU_VRMODE"
@@ -4523,9 +4531,6 @@ msgid "OPTVAL_SQUARE"
 msgstr ""
 
 msgid "OPTVAL_ROUND"
-msgstr ""
-
-msgid "OPTVAL_RADIAL"
 msgstr ""
 
 msgid "OPTVAL_PIXELFUZZ"
@@ -4605,21 +4610,6 @@ msgstr ""
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr ""
-
-msgid "OS_TITLE"
-msgstr "Procurar opção"
-
-msgid "OS_ANY"
-msgstr "Procurar por um termo qualquer"
-
-msgid "OS_ALL"
-msgstr "Procurar por todos os termos"
-
-msgid "OS_NO_RESULTS"
-msgstr ""
-
-msgid "OS_LABEL"
-msgstr "Procura:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Exibir chaves sempre"
@@ -4704,9 +4694,6 @@ msgstr "Não foi possível capturar ecrã"
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr ""
-
-msgid "TXT_QUITENDOOM"
-msgstr "Carrega numa tecla ou clique em qualquer lugar na janela para sair."
 
 msgid "HUDMNU_FLASH"
 msgstr "Opções de mistura de ecrã"

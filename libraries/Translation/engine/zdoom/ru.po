@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-08 02:01+0000\n"
-"Last-Translator: egoranuchin <Egoranuchin@gmail.com>\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
 "Language: ru\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: ru\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: ru\n"
 
 msgid "PRESSKEY"
 msgstr "Нажмите любую клавишу."
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Обнаружен тайник!"
 
 msgid "D_DEVSTR"
-msgstr "Бесполезный режим ВКЛ.\n"
+msgstr "Бесполезный режим ВКЛ."
 
 msgid "QUITMSG"
 msgstr ""
@@ -98,6 +98,7 @@ msgstr ""
 "Пожалуйста, не уходи,\n"
 "тут ещё полно демонов для поджарки!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Давай покончим с этим — оно превращается\n"
@@ -109,8 +110,11 @@ msgstr ""
 "DOS намного скучнее."
 
 msgid "QUITMSG4"
-msgstr "Ты хочешь сказать, что DOS тебе нравится больше, чем я, а?"
+msgstr ""
+"Ты хочешь сказать, что DOS\n"
+"тебе нравится больше, чем я, а?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Не уходи! За тем углом\n"
@@ -168,6 +172,7 @@ msgstr ""
 "Куда ты собрался?!\n"
 "А как же восстание?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Вот так всегда...\n"
@@ -181,12 +186,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Ещё никто не ушёл от «Чёрного дрозда»."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Я думал о тебе иначе..."
 
 msgid "QUITMSG20"
 msgstr "Отлично! Пострелял и смылся!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Ты можешь уйти...\n"
@@ -212,6 +219,7 @@ msgstr ""
 "Не уходи сейчас.\n"
 "Нам нужна твоя помощь!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Надеюсь, ты лишь делаешь\n"
@@ -227,6 +235,7 @@ msgstr ""
 "Не оставляй\n"
 "Межгалактическую Федерацию Хлопьев!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Настоящий воин Chex(R)\n"
@@ -271,6 +280,7 @@ msgstr "Что это было?"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Вы бредите."
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Какая досада..."
 
@@ -328,9 +338,11 @@ msgstr "Усиление включено"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "...не отстой — GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Смена уровня..."
 
@@ -391,6 +403,7 @@ msgstr "Режим заморозки включён"
 msgid "TXT_FREEZEOFF"
 msgstr "Режим заморозки отключён"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Вы чувствуете себя странно..."
 
@@ -1925,7 +1938,7 @@ msgid "TXT_SCANNER"
 msgstr "Получен сканер."
 
 msgid "TXT_NEEDMAP"
-msgstr "Сканер не будет работать без карты!\n"
+msgstr "Сканер не будет работать без карты!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Получен пропуск в тюрьму."
@@ -2068,12 +2081,15 @@ msgstr "Получены электрические болты."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Получен ранец боеприпасов."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Кажется, эту вещь лучше не трогать..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Что бы это ни было, оно не из этого мира..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Оно ведь зачем-то нужно?.."
 
@@ -2569,9 +2585,11 @@ msgstr "Кажется, тебе хватит!"
 msgid "TXT_GOAWAY"
 msgstr "Уходи!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Входящее сообщение..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Входящее сообщение от «Чёрного дрозда»..."
 
@@ -2582,9 +2600,11 @@ msgstr "Найди помощь"
 msgid "TXT_TRADE"
 msgstr "за %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Получена Chex(R)-броня."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Получена Chex(R)-сверхброня!"
 
@@ -2760,6 +2780,7 @@ msgstr "E1M4: Дендрарий"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Пещеры Базоика"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Миссия выполнена.\n"
@@ -2827,6 +2848,7 @@ msgstr ""
 "\n"
 "Нажмите Y или N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Вы играете в Chex(R) Quest. Остальные\n"
@@ -2865,6 +2887,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Получен суперзорч"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "...ешь Chex(R)!"
@@ -4438,17 +4461,11 @@ msgstr "Качество карт светотеней"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Фильтр карт светотеней"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Режим тумана"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Туман включает режим максимальной яркости"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Интенсивность вспышек оружия"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Карта окружения на зеркалах"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Улучшенный режим ночного видения"
@@ -4473,9 +4490,6 @@ msgstr "Спрайты направлены к камере"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Тип частиц"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Качество обработки"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "Стерео 3D VR-режим"
@@ -4541,9 +4555,6 @@ msgstr "Квадратные"
 
 msgid "OPTVAL_ROUND"
 msgstr "Круглые"
-
-msgid "OPTVAL_RADIAL"
-msgstr "Радиальный"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Пиксельный шум"
@@ -4623,21 +4634,6 @@ msgstr "Применять MIP-текстурирование"
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Динамическое освещение (программное)"
 
-msgid "OS_TITLE"
-msgstr "Поиск настройки"
-
-msgid "OS_ANY"
-msgstr "Искать любое из слов"
-
-msgid "OS_ALL"
-msgstr "Искать все слова"
-
-msgid "OS_NO_RESULTS"
-msgstr "Результаты не найдены."
-
-msgid "OS_LABEL"
-msgstr "Поиск:"
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Всегда отображать ключи"
 
@@ -4714,9 +4710,6 @@ msgstr "Ошибка создания снимка экрана."
 msgid "TXT_BY"
 msgstr "игроком %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Нажмите любую клавишу или нажмите по окну, чтобы выйти."
-
 msgid "HUDMNU_FLASH"
 msgstr "Настройки смешивания экрана"
 
@@ -4747,6 +4740,7 @@ msgstr "Быстрый выход"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Настроить цвета при неуязвимости"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Тёмный цвет"
 
@@ -4923,10 +4917,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Отключить подбирание выпавших предметов на стороне клиента"
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Перезапуск уровня после смерти"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Пистолет в начале"
 
@@ -5341,9 +5337,6 @@ msgstr "Строгий"
 
 msgid "PICKER_FILELOADING"
 msgstr "Загрузка файла"
-
-msgid "MISCMNU_CLEANMENU"
-msgstr "Классический масштаб меню из ZDoom"
 
 msgid "DSPLYMNU_IMAGEADJUST"
 msgstr "Калибровка изображения"

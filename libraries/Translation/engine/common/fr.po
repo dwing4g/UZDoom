@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 16:40+0000\n"
-"Last-Translator: Маркич <zurovmark61@gmail.com>\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/common/fr/>"
 "\n"
 "Language: fr\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
-"HeaderCode: fr\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: fr\n"
 
 msgid "PRESSYN"
 msgstr "Appuyez sur Y ou N."
@@ -30,7 +30,7 @@ msgstr ""
 "Appuyez sur une touche."
 
 msgid "SAFEMESSAGE"
-msgstr "Voulez-vous vraiment faire ça?"
+msgstr "Voulez-vous vraiment faire ça ?"
 
 msgid "NOTSET"
 msgstr "Pas paramétré"
@@ -56,13 +56,13 @@ msgid "TXT_X_CHEATS"
 msgstr "%s triche."
 
 msgid "MSGOFF"
-msgstr "Messages désactivés."
+msgstr "Messages désactivés"
 
 msgid "MSGON"
-msgstr "Messages activés."
+msgstr "Messages activés"
 
 msgid "TXT_SAY"
-msgstr "Parler:"
+msgstr "Parler :"
 
 msgid "TXT_QUITENDOOM"
 msgstr "Appuyez sur une touche ou cliquez pour quitter."
@@ -92,7 +92,7 @@ msgid "MNU_NOFILES"
 msgstr "Pas de fichiers"
 
 msgid "MNU_DELETESG"
-msgstr "Voulez vous vraiment effacer cette sauvegarde?\n"
+msgstr "Voulez vous vraiment effacer cette sauvegarde ?"
 
 msgid "OPTVAL_OFF"
 msgstr ""
@@ -504,7 +504,7 @@ msgid "JOYMNU_NOCON"
 msgstr "Aucun Contrôleur détecté."
 
 msgid "JOYMNU_CONFIG"
-msgstr "Configurer contrôleurs:"
+msgstr "Configurer contrôleurs :"
 
 msgid "JOYMNU_DISABLED1"
 msgstr "Le Support de contrôleur doit être activé"
@@ -1369,7 +1369,7 @@ msgid "VIDMNU_FULLSCREEN"
 msgstr "Plein écran"
 
 msgid "VIDMNU_HIDPI"
-msgstr "Support Retina/HiDPI "
+msgstr "Support Retina/HiDPI"
 
 msgid "VIDMNU_ASPECTRATIO"
 msgstr "Rapport D'Aspect"
@@ -1503,6 +1503,7 @@ msgstr "Rotation Sauvegardes Rapides"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Nombre de sauvegardes en rotation"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Ne pas utiliser mise à l'échelle menu propre"
 
@@ -1674,6 +1675,7 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Créer"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Sauvegarder..."
 
@@ -1699,7 +1701,7 @@ msgid "VKMNU_HDR"
 msgstr ""
 
 msgid "VK_WARNING"
-msgstr "Attention: Le moteur de rendu Vulkan est très expérimental!"
+msgstr "Attention : Le moteur de rendu Vulkan est très expérimental !"
 
 msgid "VK_RESTART"
 msgstr "Ces options nécessitent un redémarrage."
@@ -1739,123 +1741,12 @@ msgid "OS_NO_RESULTS"
 msgstr "Pas de résultat trouvé"
 
 msgid "OS_LABEL"
-msgstr "Recherche:"
-
-msgid "TXT_OBITUARY1"
-msgstr "%k a désossé %o comme un poisson"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k a castré %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k a battu %o à plate couture "
-
-msgid "TXT_OBITUARY4"
-msgstr "%k a décimé %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k a détruit %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k a coupé en dés %o"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k a étripé %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k a aplati %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k a rendu une justice anale a %o"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k a donné la FOLIE ANALE a %o"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k a tué %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k a fait de la viande hachée de %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k a massacré %o"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k a mutilé %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k a découpé en fines lamelles %o"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k a ouvert un nouvel orifice a %o"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k a meurtri %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k a enfoncé %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k y a sodomisé n %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k a explosé de %o"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k a écrabouillé %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k a étouffé %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k a décharné %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k a placé %o dans son linceul"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k a envoyé %o en enfer"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k a grillé %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k a crevé %o"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k a arrosé %o"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k a pulvérise %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k a fait de la pâtée pour chien de %o"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k a battu %o"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o est une merde"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o est un hamburger"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o a souffert d'une séparation du scrotum"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o s'est proposé pour un contrôle de la population"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o s'est suicidé"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o a recu la médaille Darwin"
+msgstr "Recherche :"
 
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character
@@ -1898,7 +1789,7 @@ msgid "OPTVAL_HUDANDMAP"
 msgstr "ATH + Carte"
 
 msgid "TXT_SAVEGAMENEEDS"
-msgstr "Cette sauvegarde nécessite les fichiers suivants:"
+msgstr "Cette sauvegarde nécessite les fichiers suivants"
 
 msgid "OPTMNU_MULTIPLAYER"
 msgstr "Options multijoueurs"

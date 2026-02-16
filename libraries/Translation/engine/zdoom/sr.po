@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-03 22:01+0000\n"
-"Last-Translator: Александар Урошевић <alek.sandar0@yandex.com>\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
 "Language: sr\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: sr\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: sr\n"
 
 msgid "PRESSKEY"
 msgstr "Притисните било који тастер."
@@ -22,10 +22,13 @@ msgid "SECRETMESSAGE"
 msgstr "Откривена тајна!"
 
 msgid "D_DEVSTR"
-msgstr "Програмерски режим УКЉ.\n"
+msgstr "Програмерски режим УКЉ."
 
+#, fuzzy
 msgid "QUITMSG"
-msgstr "Желиш ли заиста да изађеш из ове чудесне игре?"
+msgstr ""
+"Желиш ли заиста да изађеш\n"
+"из ове чудесне игре?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
@@ -61,8 +64,14 @@ msgstr ""
 "\n"
 "Притисните Y или N."
 
+#, fuzzy
 msgid "SWSTRING"
-msgstr "Доступно само у регистрованој верзији"
+msgstr ""
+"Доступно само у регистрованој верзији\n"
+"\n"
+"\n"
+"\n"
+"Притисните тастер."
 
 msgid "NETEND"
 msgstr ""
@@ -91,6 +100,7 @@ msgstr ""
 "Молим те, не одлази!\n"
 "Има још демона да се побије!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Хајде, бриши одавде\n"
@@ -106,6 +116,7 @@ msgstr ""
 "Више ти допада DOS\n"
 "него ја, је ли?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Немој да одеш --\n"
@@ -163,6 +174,7 @@ msgstr ""
 "Где идеш?!\n"
 "Шта је са побуном?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Покољ се прекида...\n"
@@ -176,12 +188,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Нико још није побегао од Црне птице."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "О теби сам мислила другачије..."
 
 msgid "QUITMSG20"
 msgstr "Добро! Само убијај и бежи!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Можеш да одеш...\n"
@@ -205,6 +219,7 @@ msgstr ""
 "Не излази сада.\n"
 "Треба нам твоја помоћ!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Надам се да само паузираш\n"
@@ -220,6 +235,7 @@ msgstr ""
 "Не напуштај Интергалактичку\n"
 "федерацију овсених пахуљица!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Прави Чекс ратници не\n"
@@ -264,6 +280,7 @@ msgstr "Плашите самог себе"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Брбљате"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Лудите..."
 
@@ -320,9 +337,11 @@ msgstr "Супер моћи заглављене"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... Једи Чекс(Р)!"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Мењам ниво..."
 
@@ -383,6 +402,7 @@ msgstr "Мод замрзавања УКЉУЧЕН"
 msgid "TXT_FREEZEOFF"
 msgstr "Мод замрзавања ИСКЉУЧЕН"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Осећате се чудно..."
 
@@ -1920,7 +1940,7 @@ msgid "TXT_SCANNER"
 msgstr "Покупили сте скенер."
 
 msgid "TXT_NEEDMAP"
-msgstr "Скенер неће радити без мапе!\n"
+msgstr "Скенер неће радити без мапе!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Покупили сте затворску пропусницу."
@@ -2063,12 +2083,15 @@ msgstr "Покупили сте електричне стреле."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Покупили сте торбицу муниције."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Имаш осећај да није требало бити дирано..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Шта год да је, не припада овом свету..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Мора урадити нешто..."
 
@@ -2564,9 +2587,11 @@ msgstr "Изгледа да ти је доста!"
 msgid "TXT_GOAWAY"
 msgstr "Одлази!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Наилази порука..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Наилази порука од Црне птице...."
 
@@ -2577,9 +2602,11 @@ msgstr "Нађи помоћ"
 msgid "TXT_TRADE"
 msgstr "за %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Покупили сте Чех оклоп."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Покупили сте Супер Чех Оклоп!"
 
@@ -2755,6 +2782,7 @@ msgstr "Е1М4: Ботаничка башта"
 msgid "CHUSTR_E1M5"
 msgstr "Е1М5: Пећине Базоика"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Мисија је извршена.\n"
@@ -2813,6 +2841,7 @@ msgstr ""
 "\n"
 "Притисните Y или N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Ово је Chex Quest. Тражите нове\n"
@@ -2851,6 +2880,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Супер зорч додат"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Једи Chex(R)!"
@@ -4413,17 +4443,11 @@ msgstr "Мапа сенки квалитет"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Мапа сенки филтер"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Магла мод"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Магла присиљава пуну светлост"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Блага снага оружја"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Околинска мапа на прозорима"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Побољшана ноћна визија мод"
@@ -4448,9 +4472,6 @@ msgstr "Спрајт камера фаце"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Честице стајл"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Квалитет рендовања"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "Стереотоно 3D VR"
@@ -4515,9 +4536,6 @@ msgstr "Квадрат"
 
 msgid "OPTVAL_ROUND"
 msgstr "Круг"
-
-msgid "OPTVAL_RADIAL"
-msgstr "Радијално"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Пикселизовани фаз"
@@ -4597,21 +4615,6 @@ msgstr "Користи мипмаповане текстуре"
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Динамичко осветљење (софтвер)"
 
-msgid "OS_TITLE"
-msgstr "Претрага"
-
-msgid "OS_ANY"
-msgstr "Тражи било коју од речи"
-
-msgid "OS_ALL"
-msgstr "Тражи све речи"
-
-msgid "OS_NO_RESULTS"
-msgstr "Нема резултата."
-
-msgid "OS_LABEL"
-msgstr "Претрага:"
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Увек приказуј кључеве"
 
@@ -4690,10 +4693,6 @@ msgstr "Није успело направити снимак екрана."
 msgid "TXT_BY"
 msgstr "Од %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Притисните било који тастер или кликните било где на екрану да одустанете."
-
 msgid "HUDMNU_FLASH"
 msgstr "Подешавања блед екрана"
 
@@ -4725,7 +4724,7 @@ msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Прилагођена обрнута мапа"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr "Прилагођена инверзна боја тамна\n"
+msgstr "Прилагођена инверзна боја тамна"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr "Прилагођено инверзно светло у боји"
@@ -4900,10 +4899,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Онемогући преузимање остављених предмета са стране клијента"
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Поново покрените ниво након смрти"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Старт пиштоља"
 

@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-24 17:00+0000\n"
-"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
 "Language: sv\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: sv\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: sv\n"
 
 msgid "PRESSKEY"
 msgstr "Tryck på en tangent."
@@ -21,52 +21,66 @@ msgid "SECRETMESSAGE"
 msgstr "En hemlighet avslöjas!"
 
 msgid "D_DEVSTR"
-msgstr "Oanvändbart läge på.\n"
+msgstr "Oanvändbart läge på."
 
+#, fuzzy
 msgid "QUITMSG"
-msgstr "Är du säker på att du vill sluta med detta fantastiska spel?"
+msgstr ""
+"Är du säker på att du vill sluta\n"
+"med detta fantastiska spel?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
 msgid "LOADNET"
 msgstr ""
 "Du kan inte göra lastning när du är i ett nätspel!\n"
+"\n"
 "Tryck på en tangent."
 
 msgid "QLOADNET"
 msgstr ""
 "Du kan inte snabblasta under ett nätspel!\n"
+"\n"
 "Tryck på en tangent."
 
 msgid "QSAVESPOT"
 msgstr ""
 "Du har inte valt en plats för snabbsparning ännu!\n"
+"\n"
 "Tryck på en tangent."
 
 msgid "NEWGAME"
 msgstr ""
-"Du kan inte starta ett nytt spel när du är i ett nätspel. \n"
+"Du kan inte starta ett nytt\n"
+"spel när du är i ett nätspel. \n"
+"\n"
 "Tryck på en tangent."
 
 msgid "NIGHTMARE"
 msgstr ""
 "Är du säker? Den här färdighetsnivån\n"
 "är inte ens tillnärmelsevis rättvis.\n"
+"\n"
 "Tryck på Y eller N."
 
 msgid "SWSTRING"
 msgstr ""
-"Detta är sharewareversionen av Doom. Du måste beställa hela trilogin.\n"
+"Detta är sharewareversionen av Doom.\n"
+"\n"
+"Du måste beställa hela trilogin.\n"
+"\n"
 "Tryck på en tangent."
 
 msgid "NETEND"
 msgstr ""
 "Du kan inte avsluta ett nätspel!\n"
+"\n"
 "Tryck på en tangent."
 
 msgid "ENDGAME"
 msgstr ""
 "Är du säker på att du vill avsluta spelet?\n"
+"\n"
 "Tryck på Y eller N."
 
 msgid "RAVENQUITMSG"
@@ -80,19 +94,29 @@ msgid "DOSY"
 msgstr "(Tryck på Y för att avsluta)"
 
 msgid "QUITMSG1"
-msgstr "Lämna inte spelet, det finns fler demoner att skåla för!"
+msgstr ""
+"Lämna inte spelet, det finns\n"
+"fler demoner att skåla för!"
 
 msgid "QUITMSG2"
-msgstr "Vi sticker - det här håller på att bli ett blodbad!"
+msgstr ""
+"Vi sticker—det här håller\n"
+"på att bli ett blodbad!"
 
 msgid "QUITMSG3"
-msgstr "Jag skulle inte lämna om jag var du. DOS är mycket värre."
+msgstr ""
+"Jag skulle inte lämna om jag var du.\n"
+"DOS är mycket värre."
 
 msgid "QUITMSG4"
-msgstr "Du försöker säga att du gillar DOS bättre än mig, eller hur?"
+msgstr ""
+"Du försöker säga att du gillar DOS\n"
+"bättre än mig, eller hur?"
 
 msgid "QUITMSG5"
-msgstr "Gå inte än -- det finns en demon runt hörnet!"
+msgstr ""
+"Gå inte än—det finns\n"
+"en demon runt hörnet!"
 
 msgid "QUITMSG6"
 msgstr "Nästa gång du kommer hit ska jag skåla för dig."
@@ -128,6 +152,7 @@ msgstr "Du har tur att jag inte slår dig för att du funderar på att gå."
 msgid "QUITMSG15"
 msgstr "Vart är du på väg?! Hur blir det med upproret?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr "Carnage interruptus... Vilket hångel!"
 
@@ -137,12 +162,14 @@ msgstr "Men du är hoppet - min enda chans!!"
 msgid "QUITMSG18"
 msgstr "Ingen lämnar Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Jag trodde att du var annorlunda..."
 
 msgid "QUITMSG20"
 msgstr "Okej! Döda bara och spring!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Du kan sluta... \n"
@@ -162,6 +189,7 @@ msgstr "Ge inte upp - flemoiderna kommer att ta överhanden!"
 msgid "QUITMSG25"
 msgstr "Gå inte nu. Vi behöver din hjälp!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr "Jag hoppas att du bara tar en paus för Chex(R) party mix."
 
@@ -171,6 +199,7 @@ msgstr "Sluta inte nu! Vi behöver din hjälp!"
 msgid "QUITMSG28"
 msgstr "Överge inte Intergalactic Federation of Cereals!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr "Den riktiga Chex(R)-krigaren skulle inte ge upp så snabbt!"
 
@@ -213,6 +242,7 @@ msgstr "Du skrämmer dig själv."
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Du börjar rasa."
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Du har förlorat det..."
 
@@ -269,9 +299,11 @@ msgstr "Start av strömmen växlade"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... suger inte - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Ändrad nivå ..."
 
@@ -332,6 +364,7 @@ msgstr "Frysningsläge på"
 msgid "TXT_FREEZEOFF"
 msgstr "Frysningsläge av"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Du känner dig konstig..."
 
@@ -1869,7 +1902,7 @@ msgid "TXT_SCANNER"
 msgstr "Du plockade upp skannern."
 
 msgid "TXT_NEEDMAP"
-msgstr "Skannern fungerar inte utan en karta!\n"
+msgstr "Skannern fungerar inte utan en karta!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Du plockade upp fängelsepasset."
@@ -2012,12 +2045,15 @@ msgstr "Du plockade upp de elektriska bultarna."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Du plockade upp ammunitionsväskan."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Du har en känsla av att den inte fick röras..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Vad det än är så hör det inte hemma i den här världen..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Det måste göra något..."
 
@@ -2513,9 +2549,11 @@ msgstr "Du verkar ha fått nog!"
 msgid "TXT_GOAWAY"
 msgstr "Gå härifrån!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Inkommande meddelande..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Inkommande meddelande från BlackBird..."
 
@@ -2526,9 +2564,11 @@ msgstr "Hitta hjälp"
 msgid "TXT_TRADE"
 msgstr "för %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Plockade upp Chex(R) rustningen."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Plockade upp Super Chex(R) rustningen!"
 
@@ -2704,6 +2744,7 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoiks grottor"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Uppdraget slutfört.\n"
@@ -2763,6 +2804,7 @@ msgstr ""
 "\n"
 "Tryck på Y eller N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Det här är Chex(R) Quest.\n"
@@ -2799,6 +2841,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch läggs till"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Ät Chex(R)!"
@@ -4362,17 +4405,11 @@ msgstr "Skuggmappens kvalitet"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filter för skuggmappor"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Dimläget"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Dimma tvingar fram full ljusstyrka"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Vapenljusets styrka"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Miljökarta på speglar"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Förbättrat läge för mörkerseende"
@@ -4397,9 +4434,6 @@ msgstr "Sprites vänder sig mot kameran"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Partikelstil"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Renderingskvalitet"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4464,9 +4498,6 @@ msgstr "Kvadratisk"
 
 msgid "OPTVAL_ROUND"
 msgstr "Rund"
-
-msgid "OPTVAL_RADIAL"
-msgstr "Radial"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
@@ -4545,21 +4576,6 @@ msgstr "Använd mipmappade texturer"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynamiskt ljus (programvara)"
-
-msgid "OS_TITLE"
-msgstr "Alternativ Sök"
-
-msgid "OS_ANY"
-msgstr "Sök efter valfri term"
-
-msgid "OS_ALL"
-msgstr "Sök efter alla termer"
-
-msgid "OS_NO_RESULTS"
-msgstr "Inga resultat hittades."
-
-msgid "OS_LABEL"
-msgstr "Sök:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Visa alltid nycklar"
@@ -4641,10 +4657,6 @@ msgstr "Kunde inte skapa en skärmdump."
 msgid "TXT_BY"
 msgstr "Av %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Tryck på någon tangent eller klicka någonstans i fönstret för att avsluta."
-
 msgid "HUDMNU_FLASH"
 msgstr "Alternativ för skärmblandning"
 
@@ -4676,7 +4688,7 @@ msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Anpassad omvänd karta"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr "Anpassad omvänd färg Mörk\n"
+msgstr "Anpassad omvänd färg Mörk"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr "Anpassad omvänd färg ljus"
@@ -4851,10 +4863,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Inaktivera upphämtning av tappade föremål på klientsidan"
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Starta om nivån vid död"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Starta med pistol"
 

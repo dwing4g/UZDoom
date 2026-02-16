@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-15 17:51+0000\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/common/"
 "ja/>\n"
@@ -11,11 +11,12 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15-dev\n"
-"HeaderCode: ja jp\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: ja jp\n"
 
+#, fuzzy
 msgid "PRESSYN"
-msgstr "YかNで答えろ"
+msgstr "YかNで答えろ。"
 
 msgid "TXT_YES"
 msgstr "はい"
@@ -27,7 +28,7 @@ msgid "SAVEDEAD"
 msgstr ""
 "プレイ中でないとセーブできない!\n"
 "\n"
-"何かキーを押せ"
+"何かキーを押せ。"
 
 msgid "SAFEMESSAGE"
 msgstr "本当に実行するのか?"
@@ -41,7 +42,7 @@ msgstr ""
 "\n"
 "'%s'\n"
 "\n"
-"Y か N で答えろ"
+"Y か N で答えろ。"
 
 msgid "QLPROMPT"
 msgstr ""
@@ -49,7 +50,7 @@ msgstr ""
 "\n"
 "'%s'\n"
 "\n"
-"Y か N で答えろ"
+"Y か N で答えろ。"
 
 # This is a gender sensitive message where %s represents the player
 msgid "TXT_X_CHEATS"
@@ -74,7 +75,7 @@ msgid "GGSAVED"
 msgstr "セーブ完了。"
 
 msgid "SAVECOMMENT_TIME"
-msgstr "時間\n"
+msgstr "時間"
 
 msgid "MNU_LOADGAME"
 msgstr "ロード"
@@ -86,13 +87,12 @@ msgid "MNU_NOPICTURE"
 msgstr "画像無し"
 
 msgid "MNU_DIFFVERSION"
-msgstr ""
-"別バージョンの\n"
-"データ"
+msgstr "別バージョンの データ"
 
 msgid "MNU_NOFILES"
 msgstr "ファイル無し"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "本当にこのセーブを消すのか?"
 
@@ -381,7 +381,7 @@ msgid "CNTRLMNU_DISPLAY_DEC"
 msgstr "画面サイズを縮小"
 
 msgid "CNTRLMNU_OPEN_HELP"
-msgstr "ヘルプを開く\n"
+msgstr "ヘルプを開く"
 
 msgid "CNTRLMNU_OPEN_SAVE"
 msgstr "セーブメニューを開く"
@@ -441,7 +441,7 @@ msgid "MOUSEMNU_MOUSELOOKSPEED"
 msgstr "上下視点速度"
 
 msgid "MOUSEMNU_FORWBACKSPEED"
-msgstr "前進/後退速度\n"
+msgstr "前進/後退速度"
 
 msgid "MOUSEMNU_STRAFESPEED"
 msgstr "横移動速度"
@@ -531,7 +531,6 @@ msgstr "デッドゾーン"
 msgid "JOYMNU_NOAXES"
 msgstr "軸構成を無効"
 
-#, fuzzy
 msgid "OPTVAL_NONE"
 msgstr "無し"
 
@@ -1330,7 +1329,7 @@ msgid "GLTEXMNU_HQRESIZEMULT"
 msgstr "高品質リサイズ乗数"
 
 msgid "GLTEXMNU_HQRESIZEWARN"
-msgstr "このモードでは %d 倍以上のビデオメモリが必要です!"
+msgstr "このモードでは %d 倍以上のビデオメモリが必要です"
 
 msgid "GLTEXMNU_RESIZETEX"
 msgstr "テクスチャー類のリサイズ"
@@ -1476,11 +1475,13 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
+#, fuzzy
 msgid "MISCMNU_MERGEKEYS"
-msgstr "左と右のALT/CTRL/SHIFTキーを統合"
+msgstr "左と右のAlt/Ctrl/Shiftキーを統合"
 
+#, fuzzy
 msgid "MISCMNU_WINFULLSCREENTOGGLE"
-msgstr "ALTとENTERで全画面に切り替え"
+msgstr "AltとEnterで全画面に切り替え"
 
 msgid "MISCMNU_MACFULLSCREENTOGGLE"
 msgstr "Ctrl + Fキーで全画面表示"
@@ -1503,6 +1504,7 @@ msgstr "クイックセーブ間隔"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "間隔クイックセーブの数"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "メニュー画面を伸縮させない"
 
@@ -1675,7 +1677,7 @@ msgid "REVMNU_Create"
 msgstr "作成"
 
 msgid "REVMNU_Save"
-msgstr "セーブする..."
+msgstr "セーブする…"
 
 msgid "REVMNU_File_name"
 msgstr "ファイル名"
@@ -1741,119 +1743,9 @@ msgstr "見つかりませんでした。"
 msgid "OS_LABEL"
 msgstr "検索:"
 
-msgid "TXT_OBITUARY1"
-msgstr "%k は %o の骨を魚のように引っこ抜いた。"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k は %o を去勢した。"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k は %o に反吐ブチ撒けさせた。"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k は %o の居場所を間引いた。"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k は %o を完全に破壊した。"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k は %o を賽の目に切った。"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k は %o の臓物を引きずり出した。"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k は %o をぶっ潰した。"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k は %o のケツにぶち込んだ。"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k は %o のケツをガバガバにした。"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k は %o をブッ殺した。"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k は %o をミンチにした。"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k は %o を虐殺した。"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k は %o をバラバラ死体にした。"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k は %o の穴を大きく広げた。"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k は %o を切り裂いて新しい穴を作ってあげた。"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k は %o を屠殺した。"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k は %o をぶっ飛ばした。"
-
-msgid "TXT_OBITUARY19"
-msgstr "%o は %k にカマを掘られた。 "
-
-msgid "TXT_OBITUARY20"
-msgstr "%k は %o にばら撒かれた。"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k は %o に潰された。"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k は %o に絞られた。"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k は %o に消された。"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k は %o を死体袋にした。"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k は %o を地獄に送った。"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k は %o を焼却した。"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k は %o を処刑した。"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k は %o にぶっかけた。"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k は %o を撒き散らした。"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k は %o を犬の餌にした。"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k は %o を狂犬の様に扱った。"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o はもはや排泄物のようだ。"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o はハンバーガーになった。"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o の陰嚢は剥離していた。"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o は人口削減政策の実験台に志願した。"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o は勝手にくたばった。"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o にはダーウィン賞が授与された。"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
+#, fuzzy
 msgid "USE_GENERIC_FONT"
 msgstr "1"
 
@@ -1956,8 +1848,9 @@ msgstr "ブライトマップ"
 msgid "PICKER_WIDESCREEN"
 msgstr "ワイドスクリーン"
 
+#, fuzzy
 msgid "PICKER_ADDPARM"
-msgstr "追加パラメータ"
+msgstr "追加パラメータ:"
 
 msgid "PICKER_WELCOME"
 msgstr "ようこそ: %s!"
@@ -1984,8 +1877,9 @@ msgstr "モジュール リプレイヤー"
 
 # This is enabled per-controller, it means to enable "this" controller in the
 # background when GZDoom is not in focus.
+#, fuzzy
 msgid "JOYMNU_JOYENABLEINBACKGROUND"
-msgstr "GZD外の時にコントローラー入力を許可"
+msgstr "ゲーム外でコントローラー入力を許可する"
 
 # Order to sort the list of saved games in the save and load game menu. This
 # used to only be alphabetical.
@@ -2028,7 +1922,7 @@ msgid "PICKER_JOIN"
 msgstr "参加"
 
 msgid "PICKER_NETMODE"
-msgstr "ネットワークモード"
+msgstr "ネットワークモード:"
 
 msgid "PICKER_NETAUTO"
 msgstr "自動 (推奨)"
@@ -2043,7 +1937,7 @@ msgid "PICKER_NETPEER"
 msgstr "P2P (直接通信)"
 
 msgid "PICKER_NETRATE"
-msgstr "パケットTicレート"
+msgstr "パケットTicレート:"
 
 # Sends out duplicate copies of packets to help with spotty connections e.g.
 # wifi.
@@ -2098,7 +1992,7 @@ msgid "TXT_SAYTEAM"
 msgstr "発言 (チーム):"
 
 msgid "MISCMNU_DISCORDRPC"
-msgstr "Discordに情報を表示 (DRP)"
+msgstr "Discordに情報を表示"
 
 msgid "JOYMNU_TURNSPEED"
 msgstr "旋回速度"

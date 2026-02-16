@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-24 17:00+0000\n"
-"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
 "Language: da\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: da\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: da\n"
 
 msgid "PRESSKEY"
 msgstr "Tryk på en tast."
@@ -20,6 +20,7 @@ msgstr "Tryk på en tast."
 msgid "SECRETMESSAGE"
 msgstr "En hemmelighed bliver afsløret!"
 
+#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Ubrugelig tilstand slået til."
 
@@ -57,7 +58,8 @@ msgstr ""
 
 msgid "NIGHTMARE"
 msgstr ""
-"Er du sikker? Dette færdighedsniveau er ikke engang tilnærmelsesvis fair.\n"
+"Er du sikker?\n"
+"Dette færdighedsniveau er ikke engang tilnærmelsesvis fair.\n"
 "\n"
 "Tryk på Y eller N."
 
@@ -96,6 +98,7 @@ msgstr ""
 "Du må ikke gå, der er flere\n"
 "dæmoner at stege!!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Lad os smutte - det her er\n"
@@ -111,6 +114,7 @@ msgstr ""
 "Du prøver at sige, at du bedre\n"
 "kan lide DOS end mig, ikke?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Du må ikke gå endnu - der er en\n"
@@ -168,6 +172,7 @@ msgstr ""
 "Hvor skal du hen?!\n"
 "Hvad med oprørerne?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Carnage interruptus...\n"
@@ -179,14 +184,16 @@ msgstr ""
 " - min eneste chance!!!"
 
 msgid "QUITMSG18"
-msgstr "Ingen går ud fra Blackbird. "
+msgstr "Ingen går ud fra Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Jeg troede, du var anderledes..."
 
 msgid "QUITMSG20"
 msgstr "Fint! Bare dræb og løb!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Du kan stoppe...\n"
@@ -206,6 +213,7 @@ msgstr ""
 msgid "QUITMSG25"
 msgstr "Du må ikke gå nu. Vi har brug for din hjælp!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr "Jeg håber, at du bare holder en pause for Chex(R) party mix."
 
@@ -215,6 +223,7 @@ msgstr "Du må ikke give op nu! Vi har brug for din hjælp!"
 msgid "QUITMSG28"
 msgstr "Forlad ikke den Intergalaktiske Føderation af Cerealprodukter!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr "Den rigtige Chex(R)-kriger ville ikke give op så hurtigt!"
 
@@ -257,6 +266,7 @@ msgstr "Du skræmmer dig selv"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Du begynder at rave"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Du har mistet den..."
 
@@ -313,9 +323,11 @@ msgstr "Strømoptagelse Skiftet"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... er ikke dårlig - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Ændring af niveau ..."
 
@@ -376,6 +388,7 @@ msgstr "Frysetilstand TIL"
 msgid "TXT_FREEZEOFF"
 msgstr "Frysetilstand FRA"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Du føler dig mærkelig..."
 
@@ -1911,7 +1924,7 @@ msgid "TXT_SCANNER"
 msgstr "Du samlede scanneren op."
 
 msgid "TXT_NEEDMAP"
-msgstr "Scanneren virker ikke uden et kort!\n"
+msgstr "Scanneren virker ikke uden et kort!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Du samlede fængselspasset op."
@@ -2054,12 +2067,15 @@ msgstr "Du samlede de elektriske bolte op."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Du samlede ammunitionstasken op."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Du har en fornemmelse af, at den ikke måtte røres..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Uanset hvad det er, hører det ikke hjemme i denne verden..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Det må gøre noget..."
 
@@ -2555,9 +2571,11 @@ msgstr "Du ser ud til at have nok!"
 msgid "TXT_GOAWAY"
 msgstr "Gå væk!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Indkommende besked..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Indkommende besked fra BlackBird..."
 
@@ -2568,9 +2586,11 @@ msgstr "Find hjælp"
 msgid "TXT_TRADE"
 msgstr "til %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Hentede Chex(R) Rustning."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Hentede Super Chex(R) Rustning!"
 
@@ -2746,6 +2766,7 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoiks grotter"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Missionen er fuldført.\n"
@@ -2768,9 +2789,10 @@ msgstr "Vidunderligt arbejde!"
 msgid "CE4TEXT"
 msgstr "Fantastisk"
 
+#, fuzzy
 msgid "CLOADNET"
 msgstr ""
-"Du kan ikke quickloade under et netspil!\n"
+"Du kan ikke quickloade under et net-quest!\n"
 "\n"
 "Tryk på en tast."
 
@@ -2783,10 +2805,11 @@ msgstr ""
 "\n"
 "Tryk på Y eller N."
 
+#, fuzzy
 msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
-"Du kan ikke quickloade under et netspil!\n"
+"Du kan ikke quickloade under et net-quest!\n"
 "\n"
 "Tryk på en tast."
 
@@ -2813,6 +2836,7 @@ msgstr ""
 "\n"
 "Tryk på Y eller N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Dette er Chex(R) Quest.\n"
@@ -2851,6 +2875,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch Tilføjet"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Spis Chex(R)!"
@@ -4411,17 +4436,11 @@ msgstr "Shadowmap-kvalitet"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Skyggemap-filter"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Tågetilstand"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Tåge tvinger fullbright"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Våbenlysstyrke"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Miljøkort på spejle"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Forbedret nattesynstilstand"
@@ -4446,9 +4465,6 @@ msgstr "Sprites vender mod kameraet"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Partikelstil"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Renderingskvalitet"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4513,9 +4529,6 @@ msgstr "Firkantet"
 
 msgid "OPTVAL_ROUND"
 msgstr "Rund"
-
-msgid "OPTVAL_RADIAL"
-msgstr "Radial"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
@@ -4594,21 +4607,6 @@ msgstr "Brug mipmapped teksturer"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynamisk lys (software)"
-
-msgid "OS_TITLE"
-msgstr "Mulighed Søg"
-
-msgid "OS_ANY"
-msgstr "Søg efter et vilkårligt begreb"
-
-msgid "OS_ALL"
-msgstr "Søg efter alle udtryk"
-
-msgid "OS_NO_RESULTS"
-msgstr "Ingen resultater fundet."
-
-msgid "OS_LABEL"
-msgstr "Søg:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Vis altid nøgler"
@@ -4689,11 +4687,6 @@ msgstr "Kunne ikke oprette et skærmbillede."
 msgid "TXT_BY"
 msgstr "Af %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Tryk på en vilkårlig tast eller klik et vilkårligt sted i vinduet for at "
-"afslutte."
-
 msgid "HUDMNU_FLASH"
 msgstr "Indstillinger for skærmblanding"
 
@@ -4724,6 +4717,7 @@ msgstr "Hurtig afslutning"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Brugerdefinerede omvendte farver"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Brugerdefineret omvendt farve mørk"
 
@@ -4903,10 +4897,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Deaktiver opsamling på klientsiden af tabte genstande"
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Genstart niveau ved død"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Start med pistol"
 

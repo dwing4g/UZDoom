@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-23 23:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/common/nl/>"
 "\n"
 "Language: nl\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.16-dev\n"
-"HeaderCode: nl\n"
+"X-HeaderCode: nl\n"
 
 msgid "PRESSYN"
 msgstr "Druk op Y of N."
@@ -92,6 +92,7 @@ msgstr "Anders Versie"
 msgid "MNU_NOFILES"
 msgstr "Geen bestanden"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Wil je echt de opgeslagen spel verwijderen?"
 
@@ -147,7 +148,7 @@ msgid "OPTMNU_RESETTOSAVED"
 msgstr "Reset naar laatste opgeslagen"
 
 msgid "OPTMNU_WRITEINI"
-msgstr "Huidige instellingen opslaan "
+msgstr "Huidige instellingen opslaan"
 
 msgid "OPTMNU_CONSOLE"
 msgstr "Ga naar de console"
@@ -705,7 +706,7 @@ msgid "SNDMNU_SNDENABLED"
 msgstr "Geluid actief"
 
 msgid "SNDMNU_MUSENABLED"
-msgstr "Muziek actief "
+msgstr "Muziek actief"
 
 msgid "OPTVAL_4000HZ"
 msgstr "4000 Hz"
@@ -1328,7 +1329,7 @@ msgid "GLTEXMNU_HQRESIZEMULT"
 msgstr "Textuurschaalfactor"
 
 msgid "GLTEXMNU_HQRESIZEWARN"
-msgstr "Deze modus vereist %d keer meer videogeheugen."
+msgstr "Deze modus vereist %d keer meer videogeheugen"
 
 msgid "GLTEXMNU_RESIZETEX"
 msgstr "Texturen schalen"
@@ -1501,6 +1502,7 @@ msgstr "Rouleer snelopslag"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Aantal roulerende snelopslagplekken"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Schakel uniforme menuschaling uit"
 
@@ -1672,6 +1674,7 @@ msgstr "ID #2"
 msgid "REVMNU_Create"
 msgstr "Aanmaken"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Opslaan..."
 
@@ -1739,121 +1742,11 @@ msgstr "Geen resultaten gevonden."
 msgid "OS_LABEL"
 msgstr "Zoeken:"
 
-msgid "TXT_OBITUARY1"
-msgstr "%k mergelde %o als een vis"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k castreerde %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k pureerde %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k decimeerde %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k vernietigde %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k sneed %o in stukjes"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k ontleedde %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k plette %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k gaf %o anale rechtvaardigheid"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k gaf aNaLe DoLhEiD aan %o"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k doodde %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k maakte gehakt van %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k slachtte %o af"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k verminkte %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k holde %o uit"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k scheurde een opening uit %o"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k slachtte %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k vermorzelde %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k sodomiseerde %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k splette %o"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k plette %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k wurgde %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k maakte %o koud"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k stopte %o in een lijkzak"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k zond %o naar de hel"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k roosterde %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k legde %o om"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k bespoot %o"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k besproeide %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k maakte hondenvlees van %o"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k sloeg %o als een hond"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o is uitschot"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o is hamburger"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o onderging scrotumscheiding"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o was vrijwilliger voor bevolkingsbeperking"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o heeft zelfmoord gepleegd"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o ontving de Darwin Award"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
+#, fuzzy
 msgid "USE_GENERIC_FONT"
-msgstr "USE_GENERIC_FONT"
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character

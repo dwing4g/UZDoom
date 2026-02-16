@@ -2,18 +2,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 17:37+0000\n"
-"Last-Translator: Маркич <zurovmark61@gmail.com>\n"
+"PO-Revision-Date: 2026-02-12 19:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : "
-"(n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.15-dev\n"
-"HeaderCode: ro\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: ro\n"
 
 msgid "PRESSYN"
 msgstr "Apasă Y sau N."
@@ -66,7 +66,7 @@ msgid "TXT_SAY"
 msgstr "Vorbește:"
 
 msgid "TXT_QUITENDOOM"
-msgstr "Apasă orice tastă sau apasă click oriunde în fereastră pentru a ieși."
+msgstr "Apasă orice tastă sau dă click oriunde în fereastră pentru a ieși."
 
 msgid "NEWSAVE"
 msgstr "<Salvare Nouă>"
@@ -92,6 +92,7 @@ msgstr "Versiune Diferită"
 msgid "MNU_NOFILES"
 msgstr "Niciun fișier"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Vrei să ștergi salvarea?"
 
@@ -1269,10 +1270,11 @@ msgid "GLPREFMNU_SECLIGHTMODE"
 msgstr "Mod iluminare sectorial"
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr "Modul ceței"
+msgstr "Mod ceață"
 
+#, fuzzy
 msgid "OPTVAL_RADIAL"
-msgstr "Circular"
+msgstr "Radial"
 
 msgid "OPTVAL_STANDARD"
 msgstr ""
@@ -1502,6 +1504,7 @@ msgstr "Rotație salvări automate"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Număr salvări rapide în rotație"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Dezactivează Scara Nouă a Meniurilor"
 
@@ -1673,6 +1676,7 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Creează"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Salvează..."
 
@@ -1738,123 +1742,12 @@ msgid "OS_NO_RESULTS"
 msgstr "Niciun rezultat găsit."
 
 msgid "OS_LABEL"
-msgstr "Caută:"
-
-msgid "TXT_OBITUARY1"
-msgstr "%k l-a dezosat pe %o ca pe un pește"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k l-a castrat pe %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k l-a transformat în cremă pe %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k l-a decimat pe %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k l-a distrus pe %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k l-a feliat pe %o"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k l-a eviscerat pe %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k l-a făcut plat pe %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k i-a făcut jucătorului %o o Justiție Anală"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k i-a dat NeBuNiE AnAlĂ jucătorului %o"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k l-a omorât pe %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k a facut tocană din %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k a fost masacrat de către %o"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k l-a mutilat pe %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k l-a transformat într-un top de hârtie pe %o"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k i-a făcut jucătorului %o un nou orificiu"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k l-a măcelărit pe %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k l-a spart pe %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k l-a sodomizat pe %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k l-a împrăștiat pe %o"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k l-a strivit pe %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k l-a strâns de gât pe %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k l-a risipit pe %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k l-a băgat în sac pe %o"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k l-a trimis pe %o în Infern"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k l-a prăjit pe %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k l-a adulmecat pe %o"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k a pus furtunul pe %o"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k l-a pulverizat pe %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k l-a transformat pe %o în mâncare de câini"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k îl bate pe %o ca pe jigodie"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o e excrement"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o e hamburger"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o a suferit o separație de șcrot"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o a voluntariat pentru controlul populației"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o s-a sinucis"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o a primit Premiul Darwin"
+msgstr "Căutare:"
 
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character

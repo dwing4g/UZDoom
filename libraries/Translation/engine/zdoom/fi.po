@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-24 17:00+0000\n"
-"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
 "Language: fi\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: fi\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: fi\n"
 
 msgid "PRESSKEY"
 msgstr "Paina jotain näppäintä."
@@ -20,11 +20,15 @@ msgstr "Paina jotain näppäintä."
 msgid "SECRETMESSAGE"
 msgstr "Sala löydetty!"
 
+#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Hyödytön tila PÄÄLLÄ."
 
+#, fuzzy
 msgid "QUITMSG"
-msgstr "Haluatko varmasti lopettaa tämän mahtavan pelin?"
+msgstr ""
+"Haluatko varmasti lopettaa\n"
+"tämän mahtavan pelin?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
@@ -48,13 +52,15 @@ msgstr ""
 
 msgid "NEWGAME"
 msgstr ""
-"Et voi aloittaa uutta peliä verkkopelin aikana.\n"
+"Et voi aloittaa uutta peliä\n"
+"verkkopelin aikana.\n"
 "\n"
 "Paina jotain näppäintä."
 
 msgid "NIGHTMARE"
 msgstr ""
-"Oletko varma? Tämä vaikeustaso ei ole edes vähääkään reilu.\n"
+"Oletko varma?\n"
+"Tämä vaikeustaso ei ole edes vähääkään reilu.\n"
 "\n"
 "Paina Y tai N."
 
@@ -89,19 +95,29 @@ msgid "DOSY"
 msgstr "(Paina Y lopettaaksesi)"
 
 msgid "QUITMSG1"
-msgstr "Älä lähde; demoneita on vielä kärvennettävänä!"
+msgstr ""
+"Älä lähde; demoneita on\n"
+"vielä kärvennettävänä!"
 
 msgid "QUITMSG2"
-msgstr "Häivytään -- tämä on muuttumassa verilöylyksi!"
+msgstr ""
+"Häivytään — tämä on\n"
+"muuttumassa verilöylyksi!"
 
 msgid "QUITMSG3"
-msgstr "Sinuna en lähtisi. DOS on paljon pahempi."
+msgstr ""
+"Sinuna en lähtisi.\n"
+"DOS on paljon pahempi."
 
 msgid "QUITMSG4"
-msgstr "Yritätkö sanoa pitäväsi DOSista enemmän kuin minusta, niinkö?"
+msgstr ""
+"Yritätkö sanoa pitäväsi DOSista\n"
+"enemmän kuin minusta, niinkö?"
 
 msgid "QUITMSG5"
-msgstr "Älä lähde vielä -- tuon kulman takana on demoni!"
+msgstr ""
+"Älä lähde vielä—tuon\n"
+"kulman takana on demoni!"
 
 msgid "QUITMSG6"
 msgstr "Tiiäthän, että käristän sut, kun seuraavalla kerralla tuut tänne."
@@ -142,6 +158,7 @@ msgstr ""
 "Minne olet menossa?!\n"
 "Entä kapina?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Verilöyly interruptus...\n"
@@ -155,12 +172,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Kukaan ei käännä selkäänsä Blackbirdille."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Luulin, että olit erilainen kuin muut..."
 
 msgid "QUITMSG20"
 msgstr "Hyvä! Senkun vain tapat ja lähdet!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Voit lopettaa...\n"
@@ -182,6 +201,7 @@ msgstr ""
 "Älä lähde nyt.\n"
 "Tarvitsemme apuasi!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr "Toivottavasti pidät taukoa vain Chex(R) Party Mixiä varten."
 
@@ -193,6 +213,7 @@ msgstr ""
 msgid "QUITMSG28"
 msgstr "Älä hylkää intergalaktista muroliittoa!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr "Todellinen Chex(R)-soturi ei luovuttaisi niin nopeasti!"
 
@@ -235,6 +256,7 @@ msgstr "Pelotat itseäsi"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Alat hourailla"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Olet seonnut..."
 
@@ -293,9 +315,11 @@ msgstr "Tehostin kytketty"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... ei ole syvältä - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Vaihdetaan tasoa..."
 
@@ -356,6 +380,7 @@ msgstr "Jäädytystila päällä"
 msgid "TXT_FREEZEOFF"
 msgstr "Jäädytystila pois päältä"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Sinulla on kummallinen olo..."
 
@@ -1891,6 +1916,7 @@ msgstr "Poimit Degnin-malmia."
 msgid "TXT_SCANNER"
 msgstr "Poimit skannerin."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Skanneri ei toimi ilman karttaa!"
 
@@ -2035,12 +2061,15 @@ msgstr "Poimit sähkönuolia."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Poimit ammuslaukun."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Sinusta tuntuu, ettei siihen olisi pitänyt koskea."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Mikä ikinä se onkaan, se ei kuulu tähän maailmaan..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Sen on pakko tehdä jotakin..."
 
@@ -2536,9 +2565,11 @@ msgstr "Sinulla näyttää olevan tarpeeksi!"
 msgid "TXT_GOAWAY"
 msgstr "Häivy!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Vastaantuleva viesti..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Vastaantuleva viesti Blackbirdiltä..."
 
@@ -2549,9 +2580,11 @@ msgstr "Etsi apua"
 msgid "TXT_TRADE"
 msgstr "hintaan %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Poimit Chex(R)-panssarin."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Poimit Super-Chex(R)-panssarin!"
 
@@ -2727,6 +2760,7 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoikin luolastot"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Tehtävä suoritettu.\n"
@@ -2789,6 +2823,7 @@ msgstr ""
 "\n"
 "Paina Y tai N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Tämä on Chex(R)-seikkailu. Hae\n"
@@ -2827,6 +2862,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Superzorch lisätty"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Syö Chex(R):ä!"
@@ -3178,7 +3214,7 @@ msgid "GMPLYMNU_ALWAYSSPAWNMULTI"
 msgstr "Aina luo moninpelioliot"
 
 msgid "GMPLYMNU_NOVERTSPREAD"
-msgstr "Permesu Vertikalan Kuglon Disvastiĝon "
+msgstr "Permesu Vertikalan Kuglon Disvastiĝon"
 
 msgid "GMPLYMNU_NOEXTRAAMMO"
 msgstr "Armiloj donas ekstran municion (DM)"
@@ -3813,8 +3849,9 @@ msgstr "Näytä pelaajaspritet"
 msgid "DSPLYMNU_DEATHCAM"
 msgstr "Kuolonkamera"
 
+#, fuzzy
 msgid "DSPLYMNU_TELEZOOM"
-msgstr "Kaukosiirrynnän kameran zoomaus "
+msgstr "Kaukosiirrynnän kameran zoomaus"
 
 msgid "DSPLYMNU_QUAKEINTENSITY"
 msgstr "Maanjäristystehosteen voimakkuus"
@@ -4390,17 +4427,11 @@ msgstr "Varjokarttojen laatu"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Varjokarttojen suodatus"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Sumutila"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Sumu pakottaa täyskirkkauden"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Aseiden valovoima"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Ympäristökartta peileissä"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Paranneltu pimeänäkötila"
@@ -4425,9 +4456,6 @@ msgstr "Spritet suuntaavat kameraan"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Hiukkastyyli"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Hahmonnuslaatu"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4492,9 +4520,6 @@ msgstr "Kulmikas"
 
 msgid "OPTVAL_ROUND"
 msgstr "Pyöreä"
-
-msgid "OPTVAL_RADIAL"
-msgstr "Säteittäinen"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Kuvapistesumennus"
@@ -4574,21 +4599,6 @@ msgstr "Käytä mipkartallisia pintakuviointeja"
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynaamiset valot (ohjelmisto)"
 
-msgid "OS_TITLE"
-msgstr "Asetushaku"
-
-msgid "OS_ANY"
-msgstr "Etsi mitä tahansa sanaa"
-
-msgid "OS_ALL"
-msgstr "Etsi kaikki sanat"
-
-msgid "OS_NO_RESULTS"
-msgstr "Ei tuloksia."
-
-msgid "OS_LABEL"
-msgstr "Etsi:"
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Aina näytä avaimet"
 
@@ -4667,11 +4677,6 @@ msgstr "Ei voitu ottaa kuvakaappausta."
 msgid "TXT_BY"
 msgstr "Pelaajan %s toimesta"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Paina mitä tahansa näppäintä tai napsauta minne tahansa ikkunaa "
-"lopettaaksesi."
-
 msgid "HUDMNU_FLASH"
 msgstr "Näytön sekoitusasetukset"
 
@@ -4702,11 +4707,12 @@ msgstr "Pikapoistuminen"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Mukautettu käänteinen kartta"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Mukautettu käänteinen tumma väri"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
-msgstr "Mukautettu käänteinen vaalea väri\n"
+msgstr "Mukautettu käänteinen vaalea väri"
 
 msgid "DSPLYMNU_BOBFIRE"
 msgstr "Aseen heilumisvoimakkuus ammuttaessa"

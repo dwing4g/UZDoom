@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-30 17:00+0000\n"
-"Last-Translator: Šimon Větrovec <commonissuedemon@gmail.com>\n"
+"PO-Revision-Date: 2026-02-13 22:44+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/common/cs/>"
 "\n"
 "Language: cs\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: cs\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: cs\n"
 
 msgid "PRESSYN"
 msgstr "Stiskni Y nebo N."
@@ -56,10 +56,10 @@ msgid "TXT_X_CHEATS"
 msgstr "%s podvádí"
 
 msgid "MSGOFF"
-msgstr "Oznámení ZAP."
+msgstr "Oznámení ZAP"
 
 msgid "MSGON"
-msgstr "Oznámení VYP."
+msgstr "Oznámení VYP"
 
 msgid "TXT_SAY"
 msgstr "Říct:"
@@ -92,7 +92,7 @@ msgid "MNU_NOFILES"
 msgstr "Žádné soubory"
 
 msgid "MNU_DELETESG"
-msgstr "Opravdu chcete smazat tuto uloženou hru?\n"
+msgstr "Opravdu chcete smazat tuto uloženou hru?"
 
 msgid "OPTVAL_OFF"
 msgstr "Vyp."
@@ -1501,6 +1501,7 @@ msgstr "Rotace rychle uložených her"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Počet rychle uložených her v rotaci"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Zakázat čisté škálování nabídek"
 
@@ -1672,6 +1673,7 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Vytvořit"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Uložit..."
 
@@ -1739,121 +1741,10 @@ msgstr "Nic nenalezeno."
 msgid "OS_LABEL"
 msgstr "Hledat:"
 
-msgid "TXT_OBITUARY1"
-msgstr "%o byl@[ao_cs] vykoštěn@[ao_cs] jako ryba hráčem %k"
-
-msgid "TXT_OBITUARY2"
-msgstr "%o byl@[ao_cs] vykastrován@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY3"
-msgstr "%o byl@[ao_cs] rozšlehán@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY4"
-msgstr "%o byl@[ao_cs] zdecimován@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY5"
-msgstr "%o byl@[ao_cs] zničen@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY6"
-msgstr "%o byl@[ao_cs] nakrájen@[ao_cs] na kostičky hráčem %k"
-
-msgid "TXT_OBITUARY7"
-msgstr "%o byl@[ao_cs] vykuchán@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY8"
-msgstr "%o byl@[ao_cs] zplacatěn@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY9"
-msgstr "%o utržil@[ao_cs] anální spravedlnost od hráče %k"
-
-msgid "TXT_OBITUARY10"
-msgstr "%o utrpěl@[ao_cs] AnÁlNí ŠíLeNsTvÍ od hráče %k"
-
-msgid "TXT_OBITUARY11"
-msgstr "%o byl@[ao_cs] zabit@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY12"
-msgstr "%o byl@[ao_cs] namelen@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY13"
-msgstr "%o byl@[ao_cs] zmasakrován@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY14"
-msgstr "%o byl@[ao_cs] zmrzačen@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY15"
-msgstr "%o byl@[ao_cs] proděravěn@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY16"
-msgstr "%o má novou díru od hráče %k"
-
-msgid "TXT_OBITUARY17"
-msgstr "%o byl@[ao_cs] zavražděn@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY18"
-msgstr "%o byl@[ao_cs] zmlácen@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY19"
-msgstr "Hráč %k se dopustil sodomie na hráči %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%o byl@[ao_cs] rozplesknut@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY21"
-msgstr "%o byl@[ao_cs] rozmáčknut@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY22"
-msgstr "%o byl@[ao_cs] zaškrcen@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY23"
-msgstr "%o byl@[ao_cs] zničen@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY24"
-msgstr "Hráč %k narval %o@[psn1_cs] tělo do pytle"
-
-msgid "TXT_OBITUARY25"
-msgstr "%o byl@[ao_cs] poslán@[ao_cs] do pekla hráčem %k"
-
-msgid "TXT_OBITUARY26"
-msgstr "%o byl@[ao_cs] upečen@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY27"
-msgstr "%o byl@[ao_cs] rozsápán@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY28"
-msgstr "%o byl@[ao_cs] odstříknut@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY29"
-msgstr "%o byl@[ao_cs] postříkán@[ao_cs] hráčem %k"
-
-msgid "TXT_OBITUARY30"
-msgstr "%o byl@[ao_cs] hozen@[ao_cs] psům hráčem %k"
-
-msgid "TXT_OBITUARY31"
-msgstr "%o byl@[ao_cs] zmlácen@[ao_cs] jako pes hráčem %k"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o je exkrement"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o je hamburger"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o prodělal@[ao_cs] separaci šourku"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o se zúčastnil@[ao_cs] čistky obyvatelstva"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o spáchal@[ao_cs] sebevraždu"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o dostal@[ao_cs] Darwinovu cenu"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character

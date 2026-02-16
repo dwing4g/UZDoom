@@ -17,6 +17,23 @@ def dump_csv(destination, table):
 	with open(destination, mode='w', newline='', encoding='utf-8') as file:
 		csv.writer(file).writerows(table)
 
+def remap(str):
+	"""Maps proper chars to chars/sequences that uzdoom can understand."""
+	"""This is temporary, and eventually everything in here will be removed."""
+	return str\
+		.replace("™", "(TM)")\
+		.replace("®", "(R)")\
+		.replace("©", "(C)")\
+		.replace("…", "...")\
+		.replace("“", "\"")\
+		.replace("”", "\"")\
+		.replace("‘", "'")\
+		.replace("’", "'")\
+		.replace("‐", "-")\
+		.replace("–", "-")\
+		.replace("—", "-")\
+		.replace(" ", " ")
+
 def fill_dict(path):
 	"""Parses a .po file into a dictionary of translation data and metadata."""
 
@@ -25,19 +42,16 @@ def fill_dict(path):
 	meta = {}
 	data = {}
 
-	meta["id"] = po.metadata["Language"]
+	# use either `X-HeaderCode` or `Language` as the language id
+	meta["id"] = po.metadata["X-HeaderCode"] if "X-HeaderCode" in po.metadata else po.metadata["Language"]
 	meta["valid"] = True
-
-	# for now uzdoom needs the top left cell to be "default"
-	if meta["id"] == "en_US":
-		meta["id"] = "default"
 
 	for e in po:
 		specific_id = e.msgid
 		entry = { "id": e.msgid }
 
 		if e.msgstr:
-			entry["string"] = e.msgstr
+			entry["string"] = remap(e.msgstr)
 		if e.tcomment:
 			entry["remarks"] = e.tcomment
 		if e.msgctxt:

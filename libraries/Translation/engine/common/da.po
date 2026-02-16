@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 16:37+0000\n"
-"Last-Translator: Маркич <zurovmark61@gmail.com>\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/common/da/>"
 "\n"
 "Language: da\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
-"HeaderCode: da\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: da\n"
 
 msgid "PRESSYN"
 msgstr "Tryk på Y eller N."
@@ -93,6 +93,7 @@ msgstr "Anderledes version"
 msgid "MNU_NOFILES"
 msgstr "Ingen filer"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Ønsker du virkelig at slette det gemte spil?"
 
@@ -1503,6 +1504,7 @@ msgstr "Quicksave-rotation"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Antal quicksaves i rotation"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Deaktivere Menu Clean Scaling"
 
@@ -1674,6 +1676,7 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Opret"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Gem..."
 
@@ -1727,7 +1730,7 @@ msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Gamle xBRZ"
 
 msgid "OS_TITLE"
-msgstr "Mulighed Søgning"
+msgstr "Mulighed Søg"
 
 msgid "OS_ANY"
 msgstr "Søg efter et vilkårligt begreb"
@@ -1741,121 +1744,10 @@ msgstr "Ingen resultater fundet."
 msgid "OS_LABEL"
 msgstr "Søg:"
 
-msgid "TXT_OBITUARY1"
-msgstr "%k udbenede %o som en fisk"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k kastrerede %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k smurte %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k decimerede %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k ødelagde %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k skar %o i tern"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k udkløvede %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k smadrede %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k lemlæstede %o"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k spildte %o"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k dræbte %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k gjorde hakket kød af %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k massakrerede %o"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k lemlæstede %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k skændede %o"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k flåede %o en ny åbning"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k slagtede %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k smadrede %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k sodomiserede %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k sprøjtede %o"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k kværnede %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k kvæler %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k spildte %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k tog %o i en pose med kroppen"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k sendte %o til helvede"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k skålede %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k snusede %o"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k sprøjtede %o"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k sprøjtede %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k lavede hundekød ud af %o"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k bankede %o som en skiderik"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o er ekskrementer"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o er en hamburger"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o fik skrotumskæring"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o meldte sig frivilligt til befolkningskontrol"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o har begået selvmord"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o modtog Darwin-prisen"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character

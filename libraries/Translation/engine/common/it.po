@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-25 03:01+0000\n"
-"Last-Translator: StarFang208 <polaritymanx@yahoo.it>\n"
+"PO-Revision-Date: 2026-02-14 22:09+0000\n"
+"Last-Translator: kernelrfx <e.mariogreco@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/"
 "it/>\n"
 "Language: it\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.16-dev\n"
-"HeaderCode: it\n"
+"X-HeaderCode: it\n"
 
 msgid "PRESSYN"
 msgstr "Premi Y oppure N."
@@ -93,7 +93,7 @@ msgid "MNU_NOFILES"
 msgstr "Nessun file"
 
 msgid "MNU_DELETESG"
-msgstr "Vuoi veramente cancellare il salvataggio?"
+msgstr "Vuoi davvero eliminare il salvataggio?"
 
 msgid "OPTVAL_OFF"
 msgstr "Disattivo"
@@ -192,7 +192,7 @@ msgid "CNTRLMNU_MOVERIGHT"
 msgstr "Movimento laterale a destra"
 
 msgid "CNTRLMNU_TURNLEFT"
-msgstr "Gira a sinistra\n"
+msgstr "Gira a sinistra"
 
 msgid "CNTRLMNU_TURNRIGHT"
 msgstr "Gira a destra"
@@ -1038,46 +1038,46 @@ msgid "MODMNU_CHIPOMATIC"
 msgstr ""
 
 msgid "OPTVAL_MAMEOPL2"
-msgstr ""
+msgstr "MAME OPL2"
 
 msgid "OPTVAL_DOSBOXOPL3"
-msgstr ""
+msgstr "DOSBox OPL3"
 
 msgid "OPTVAL_JAVAOPL3"
-msgstr ""
+msgstr "Java OPL3"
 
 msgid "OPTVAL_ESFMu"
-msgstr ""
+msgstr "ESFMu OPL3"
 
 msgid "OPTVAL_YMFMOPL2"
-msgstr ""
+msgstr "YMFM OPL2"
 
 msgid "OPTVAL_YMFMOPL3"
-msgstr ""
+msgstr "YMFM OPL3"
 
 msgid "OPTVAL_NUKEDOPL3"
-msgstr ""
+msgstr "Nuked OPL3"
 
 msgid "OPTVAL_LLENUKEDOPL2"
-msgstr ""
+msgstr "OPL2-LLE (Molto pesante!)"
 
 msgid "OPTVAL_LLENUKEDOPL3"
-msgstr ""
+msgstr "OPL2-LLE (Elevato carico CPU)"
 
 msgid "OPTVAL_MAMEOPN2"
-msgstr ""
+msgstr "MAME YM2612"
 
 msgid "OPTVAL_NP2OPNA"
-msgstr ""
+msgstr "Neko Project II Kai OPNA"
 
 msgid "OPTVAL_MAMEOPNA"
-msgstr ""
+msgstr "MAME YM2608"
 
 msgid "OPTVAL_PMDWINOPNA"
-msgstr ""
+msgstr "PMDWin OPNA"
 
 msgid "OPTVAL_OPALOPL3"
-msgstr ""
+msgstr "Opal OPL3"
 
 msgid "OPTVAL_NUKEDOPL3174"
 msgstr ""
@@ -1254,7 +1254,7 @@ msgid "GLPREFMNU_MENUBLUR"
 msgstr "Blur del menu"
 
 msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Ambiente mappa sugli specchi"
+msgstr "Ambiente mappa sui riflessi"
 
 msgid "GLPREFMNU_RENDERQUALITY"
 msgstr "Qualità resa grafica"
@@ -1269,7 +1269,7 @@ msgid "GLPREFMNU_SECLIGHTMODE"
 msgstr "Modalità luce di settore"
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr "Effetto nebbia"
+msgstr "Modalità nebbia"
 
 msgid "OPTVAL_RADIAL"
 msgstr "Radiale"
@@ -1502,6 +1502,7 @@ msgstr "Rotazione del quicksave"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Numero di quicksave in rotazione"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Disabilita il fattore di scala pulito del menu"
 
@@ -1673,6 +1674,7 @@ msgstr "ID N°2"
 msgid "REVMNU_Create"
 msgstr "Creare"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Salvare..."
 
@@ -1740,121 +1742,10 @@ msgstr "Nessun risultato trovato."
 msgid "OS_LABEL"
 msgstr "Trova:"
 
-msgid "TXT_OBITUARY1"
-msgstr "%k ha dissossato %o come un pesce"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k ha castrato %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k ha cremato %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k ha decimato %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k ha distrutto %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k ha tagliato a cubetti %o"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k ha smembrato %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k ha schiacciato %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k ha dato a %o Giustizia Anale"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k ha dato FoLlIa AnAle a %o"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k ha ucciso %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k ha triturato %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k ha fatto di %o carne tritata"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k ha massacrato %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k ha squartato %o"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k ha aperto a %o un altro orifizio"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k ha macellato %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k ha distrutto %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k ha sodomizzato %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k ha spiaccicato %o"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k ha schiacciato %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k ha strozzato %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k ha distrutto %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k ha mandato %o all'obitorio"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k ha spedito %o all'Inferno"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k ha arrostito %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k ha spento %o"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k l'ha fatta sopra %o"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k ha vaporizzato %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k ha fatto di %o polpette"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k ha battuto %o come un cane"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o è un escremento"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o è un hamburger"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o ha subito la separazione dello scroto"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o si è offerto per il controllo della popolazione"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o si è suicidato"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o ha ricevuto il Darwin Award"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character
@@ -1980,52 +1871,52 @@ msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Apri il menu principale"
 
 msgid "MODMNU_REPLAYER"
-msgstr "Module replayer"
+msgstr "Riproduttore di moduli"
 
 # This is enabled per-controller, it means to enable "this" controller in the
 # background when GZDoom is not in focus.
 msgid "JOYMNU_JOYENABLEINBACKGROUND"
-msgstr ""
+msgstr "Consenti input del controller in background"
 
 # Order to sort the list of saved games in the save and load game menu. This
 # used to only be alphabetical.
 msgid "MISCMNU_SAVEORDER"
-msgstr ""
+msgstr "Ordine di posizionamento dei salvataggi"
 
 msgid "OPTVAL_ALPHABETICAL"
-msgstr ""
+msgstr "Alfabetico"
 
 msgid "OPTVAL_LASTSAVEDTIME"
-msgstr ""
+msgstr "Data e ora di ultimo salvataggio"
 
 msgid "PICKER_PLAYHOST"
-msgstr ""
+msgstr "Ospita partita"
 
 msgid "PICKER_PLAYJOIN"
-msgstr ""
+msgstr "Unisciti alla partita"
 
 msgid "PICKER_REMPARM"
-msgstr ""
+msgstr "Ricorda parametri"
 
 # For stuff like id24.
 msgid "PICKER_SUPPORTWADS"
-msgstr ""
+msgstr "Carica WAD di supporto"
 
 msgid "PICKER_TAB_MULTI"
-msgstr ""
+msgstr "Multigiocatore"
 
 msgid "PICKER_LOADSAVE"
-msgstr ""
+msgstr "Carica file di salvataggio:"
 
 msgid "PICKER_REMSAVE"
-msgstr ""
+msgstr "Ricorda file di salvataggio"
 
 # As in, to host a game.
 msgid "PICKER_HOST"
-msgstr ""
+msgstr "Ospita"
 
 msgid "PICKER_JOIN"
-msgstr ""
+msgstr "Unisciti"
 
 msgid "PICKER_NETMODE"
 msgstr ""
@@ -2114,3 +2005,21 @@ msgstr "Opzioni Accessibilità"
 
 msgid "ACCMNU_RESET"
 msgstr "Ripristina opzioni Accessibilità"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Dimensione della coda dei messaggi"
+
+msgid "MSGMNU_STACKIDENTICAL"
+msgstr "Raggruppa messaggi ripetuti"
+
+msgid "NOTES_DETAILS"
+msgstr "Per maggiori dettagli, vedi:"
+
+msgid "NOTES_EMPTY"
+msgstr "Nessuna descrizione fornita."
+
+msgid "NOTES_FAIL"
+msgstr "Impossibile analizzare le note di rilascio"
+
+msgid "NOTES_RELEASED"
+msgstr "rilasciato"

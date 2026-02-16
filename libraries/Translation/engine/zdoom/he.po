@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-18 09:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-13 06:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/he/>\n"
 "Language: he\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #, fuzzy
 msgid "PRESSKEY"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "נמצא סוד!"
 
 msgid "D_DEVSTR"
-msgstr "מצב חסר תועלת פעיל.\n"
+msgstr "מצב חסר תועלת פעיל."
 
 msgid "QUITMSG"
 msgstr ""
@@ -44,7 +44,10 @@ msgstr ""
 "תלחץ על מקש."
 
 msgid "QSAVESPOT"
-msgstr "לא בחרת"
+msgstr ""
+"לא בחרת.\n"
+"\n"
+"תלחץ על מקש."
 
 msgid "NEWGAME"
 msgstr ""
@@ -4310,16 +4313,10 @@ msgstr ""
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr ""
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr ""
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
-msgstr ""
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
 msgstr ""
 
 msgid "GLPREFMNU_ENV"
@@ -4344,9 +4341,6 @@ msgid "GLPREFMNU_SPRBILLFACECAMERA"
 msgstr ""
 
 msgid "GLPREFMNU_PARTICLESTYLE"
-msgstr ""
-
-msgid "GLPREFMNU_RENDERQUALITY"
 msgstr ""
 
 msgid "GLPREFMNU_VRMODE"
@@ -4411,9 +4405,6 @@ msgid "OPTVAL_SQUARE"
 msgstr ""
 
 msgid "OPTVAL_ROUND"
-msgstr ""
-
-msgid "OPTVAL_RADIAL"
 msgstr ""
 
 msgid "OPTVAL_PIXELFUZZ"
@@ -4494,21 +4485,6 @@ msgstr ""
 msgid "TCMNU_DYNLIGHTS"
 msgstr ""
 
-msgid "OS_TITLE"
-msgstr ""
-
-msgid "OS_ANY"
-msgstr ""
-
-msgid "OS_ALL"
-msgstr ""
-
-msgid "OS_NO_RESULTS"
-msgstr ""
-
-msgid "OS_LABEL"
-msgstr ""
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr ""
 
@@ -4584,9 +4560,6 @@ msgstr ""
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr ""
-
-msgid "TXT_QUITENDOOM"
-msgstr "תלחץ על כל מקש או על כל מקום על החלונית כדי לצאת."
 
 msgid "HUDMNU_FLASH"
 msgstr ""

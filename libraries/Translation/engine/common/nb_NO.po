@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 16:38+0000\n"
-"Last-Translator: Маркич <zurovmark61@gmail.com>\n"
+"PO-Revision-Date: 2026-02-13 06:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "common/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
-"HeaderCode: no nb\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: no nb\n"
 
 msgid "PRESSYN"
 msgstr "Trykk på Y eller N."
@@ -35,15 +35,20 @@ msgstr "Vil du virkelig gjøre dette?"
 msgid "NOTSET"
 msgstr "Ikke innstilt"
 
+#, fuzzy
 msgid "QSPROMPT"
 msgstr ""
-"Overskrive '%s' med en hurtiglagring?\n"
+"Hurtiglagre over lagringen din med navn\n"
+"\n"
+"'%s'?\n"
 "\n"
 "Trykk på Y eller N."
 
 msgid "QLPROMPT"
 msgstr ""
-"Vil du hurtiglaste spillet med navnet '%s'?\n"
+"Vil du hurtiglaste spillet med navnet\n"
+"\n"
+"'%s'?\n"
 "\n"
 "Trykk på Y eller N."
 
@@ -89,6 +94,7 @@ msgstr "Annen versjon"
 msgid "MNU_NOFILES"
 msgstr "Ingen filer"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Vil du virkelig slette lagringsspillet?"
 
@@ -1266,7 +1272,7 @@ msgid "GLPREFMNU_SECLIGHTMODE"
 msgstr "Sektorlysmodus"
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr "Tåkemodus"
+msgstr "Tåke-modus"
 
 msgid "OPTVAL_RADIAL"
 msgstr ""
@@ -1499,6 +1505,7 @@ msgstr "Hurtiglagring-rotasjon"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Antall hurtiglagringer i rotasjon"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Deaktiver ren skalering av meny"
 
@@ -1670,6 +1677,7 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Opprett"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Lagre..."
 
@@ -1726,7 +1734,7 @@ msgid "OS_TITLE"
 msgstr "Alternativt søk"
 
 msgid "OS_ANY"
-msgstr "Søk etter en hvilken som helst term"
+msgstr "Søk etter et vilkårlig begrep"
 
 msgid "OS_ALL"
 msgstr "Søk etter alle termer"
@@ -1737,121 +1745,10 @@ msgstr "Ingen resultater funnet."
 msgid "OS_LABEL"
 msgstr "Søk:"
 
-msgid "TXT_OBITUARY1"
-msgstr "%k utbeinet %o som en fisk"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k kastrert %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k fløtet %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k desimert %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k destruert %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k skåret %o i terninger"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k sprettet opp %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k flatet ut %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k ga %o anal rettferdighet"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k ga %o anal rettferdighet"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k drepte %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k laget kjøttdeig av %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k massakrerte %o"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k lemlestet %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k maltraktert %o"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k revet %o en ny kroppsåpning"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k slaktet %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k knust %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k sodomisert %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k sprutet %o"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k knust %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k kvalt %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k bortkastet %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k lagt %o i likpose"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k sendt %o til helvete"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k ristet %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k snuffet %o"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k spylt med vann %o"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k sprayet %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k laget hundekjøtt av %o"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k slått %o som en hund"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o er ekskrementer"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o er hamburger"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o led pungseparasjon"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o meldte seg frivillig til befolkningskontroll"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o har begått selvmord"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o mottok Darwin-prisen"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character

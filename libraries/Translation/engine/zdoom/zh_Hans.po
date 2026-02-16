@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-31 22:45+0000\n"
-"Last-Translator: yhmtxt <yhmtxt@163.com>\n"
+"PO-Revision-Date: 2026-02-15 21:20+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.16-dev\n"
-"HeaderCode: chs\n"
+"X-HeaderCode: zho\n"
 
 msgid "PRESSKEY"
 msgstr "按下任意键。"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "你发现了一个秘密！"
 
 msgid "D_DEVSTR"
-msgstr "无用模式启动。\n"
+msgstr "无用模式启动。"
 
 msgid "QUITMSG"
 msgstr ""
@@ -216,7 +216,7 @@ msgstr ""
 msgid "QUITMSG26"
 msgstr ""
 "我希望你只是在吃\n"
-"奇克斯(R)派对组合休息一下。"
+"奇克斯®派对组合休息一下。"
 
 msgid "QUITMSG27"
 msgstr ""
@@ -230,7 +230,7 @@ msgstr ""
 
 msgid "QUITMSG29"
 msgstr ""
-"真正的奇克斯(R)战士\n"
+"真正的奇克斯®战士\n"
 "不会这么快就放弃！"
 
 msgid "TXT_DEFAULTPICKUPMSG"
@@ -329,7 +329,7 @@ msgstr "能量提升已切换"
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
 msgid "STSTR_CHOPPERS"
-msgstr "……不恶心 - GM"
+msgstr "……没那么烂 - GM"
 
 msgid "STSTR_CLEV"
 msgstr "更换关卡……"
@@ -1925,7 +1925,7 @@ msgid "TXT_SCANNER"
 msgstr "你拾取了扫描器。"
 
 msgid "TXT_NEEDMAP"
-msgstr "没有地图扫描器无法工作！\n"
+msgstr "没有地图扫描器无法工作！"
 
 msgid "TXT_PRISONPASS"
 msgstr "你拾取了监狱许可证。"
@@ -2583,10 +2583,10 @@ msgid "TXT_TRADE"
 msgstr "%u 金币"
 
 msgid "GOTCHEXARMOR"
-msgstr "拾取了奇克斯(R)护甲。"
+msgstr "拾取了奇克斯®护甲。"
 
 msgid "GOTSUPERCHEXARMOR"
-msgstr "拾取了超级奇克斯(R)护甲！"
+msgstr "拾取了超级奇克斯®护甲！"
 
 msgid "GOTWATER"
 msgstr "拾取了一杯水。"
@@ -2715,33 +2715,31 @@ msgid "OB_CYCLOPTIS"
 msgstr "%o 被一只独眼巨人粘住了。"
 
 msgid "OB_FLEMBRANE"
-msgstr "%o被黏液膜击败了。"
+msgstr "%o 被黏液膜击败了。"
 
 msgid "OB_MPSPOON"
-msgstr ""
+msgstr "%o 被 %k 喂的饭撑死了。"
 
 msgid "OB_MPBOOTSPORK"
-msgstr "%o被%k的靴叉勺充分混合了。"
+msgstr "%o 被 %k 的靴叉搅成了渣。"
 
 msgid "OB_MPZORCH"
-msgstr ""
+msgstr "%o被%k用Zorcher传送走了。"
 
-#, fuzzy
 msgid "OB_MPMEGAZORCH"
-msgstr "%o被%k的mega-zorcher击中了。"
+msgstr "%o 被 %k 的mega-zorcher击中了。"
 
 msgid "OB_MPRAPIDZORCH"
-msgstr ""
+msgstr "%o被%k用速射Zorcher传送走了。"
 
 msgid "OB_MPPROPULSOR"
-msgstr ""
+msgstr "%o被%k用Zorch推进器炸进异次元了。"
 
-#, fuzzy
 msgid "OB_MPP_SPLASH"
-msgstr "%o被%k的推进器击中了。"
+msgstr "%o 被 %k 的推进器击中了。"
 
 msgid "OB_MPPHASEZORCH"
-msgstr ""
+msgstr "%o被%k用相位Zorcher传送了。"
 
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o fell prey to %k's LAZ装置。"
@@ -2834,7 +2832,7 @@ msgstr ""
 
 msgid "CSWSTRING"
 msgstr ""
-"这是奇克斯(R)任务。寻找更多关卡\n"
+"这是奇克斯®任务。寻找更多关卡\n"
 "\n"
 "请访问www.chexquest.com。\n"
 "\n"
@@ -2874,7 +2872,7 @@ msgstr "增加了超级Zorch"
 
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "……吃奇克斯(R)！"
+msgstr "……吃奇克斯®！"
 
 #, fuzzy
 msgctxt "chex"
@@ -4438,17 +4436,11 @@ msgstr "阴影贴图质量"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "阴影贴图过滤器"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "雾效模式"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "雾效强制使用全亮度"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "武器光照强度"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "镜面使用环境映射"
 
 msgid "GLPREFMNU_ENV"
 msgstr "增强夜视模式"
@@ -4473,9 +4465,6 @@ msgstr "精灵面部相机"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "粒子样式"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "渲染质量"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "立体3D VR"
@@ -4540,9 +4529,6 @@ msgstr "方形"
 
 msgid "OPTVAL_ROUND"
 msgstr "圆形"
-
-msgid "OPTVAL_RADIAL"
-msgstr "放射"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "像素模糊"
@@ -4622,21 +4608,6 @@ msgstr "使用mipmap纹理"
 msgid "TCMNU_DYNLIGHTS"
 msgstr "动态光源(软件)"
 
-msgid "OS_TITLE"
-msgstr "选项搜索"
-
-msgid "OS_ANY"
-msgstr "搜索任意条目"
-
-msgid "OS_ALL"
-msgstr "搜索全部条目"
-
-msgid "OS_NO_RESULTS"
-msgstr "无搜索结果。"
-
-msgid "OS_LABEL"
-msgstr "搜索："
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "总是显示钥匙"
 
@@ -4713,9 +4684,6 @@ msgstr "无法创建截屏。"
 msgid "TXT_BY"
 msgstr "被 %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "按任意键或点击窗口内任意位置来退出。"
-
 msgid "HUDMNU_FLASH"
 msgstr "画面混合选项"
 
@@ -4747,7 +4715,7 @@ msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "自定义反色地图"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr "自定义反色 深色\n"
+msgstr "自定义反色 深色"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr "自定义反色 亮色"
@@ -4923,11 +4891,11 @@ msgstr "禁用客户端侧拾取丢弃的物品"
 
 # Disables autoloading save on death
 msgid "MISCMNU_RESTARTONDEATH"
-msgstr "死亡时重新开始关卡"
+msgstr "死亡时以手枪开局"
 
 # Resets inventory on every map
 msgid "GMPLYMNU_PISTOLSTART"
-msgstr "以手枪开局"
+msgstr "每张地图以手枪开局"
 
 msgid "CMPTMNU_VOODOOZOMBIES"
 msgstr "允许创建僵尸玩家"
@@ -5277,9 +5245,6 @@ msgstr "严格"
 msgid "PICKER_FILELOADING"
 msgstr "文件加载"
 
-msgid "MISCMNU_CLEANMENU"
-msgstr "经典ZDoom的菜单缩放"
-
 msgid "OPTVAL_LAX"
 msgstr "宽松"
 
@@ -5391,3 +5356,51 @@ msgstr "调整颜色的强度，使图像看起来更鲜艳或更柔和。根据
 
 msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
 msgstr "调整直到看起来像均匀的灰色。"
+
+msgid "CMPTMNU_AUTO"
+msgstr "自动检测兼容性设置"
+
+msgid "FILEPICKER_REPORTS"
+msgstr "崩溃报告Zip文件"
+
+msgid "FILEPICKER_ANY"
+msgstr "全部文件"
+
+msgid "ERROR_FATAL"
+msgstr "严重错误"
+
+msgid "ERRORMNU_SAVE"
+msgstr "保存报告"
+
+msgid "ACTION_BAN"
+msgstr "封禁"
+
+msgid "ACTION_STARTGAME"
+msgstr "开始游戏"
+
+msgid "ACTION_RESTART"
+msgstr "重启"
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "复制到剪贴板"
+
+msgid "ACTION_ABORT"
+msgstr "中止"
+
+msgid "ACTION_KICK"
+msgstr "踢出"
+
+msgid "ERROR_ABORT"
+msgstr "无法继续执行。"
+
+msgid "HAPMNU_TITLE"
+msgstr "触觉反馈选项"
+
+msgid "DSPLYMNU_POWERUPFADE"
+msgstr "提升色调强度"
+
+msgid "PICKER_PLAYERCLASS"
+msgstr "玩家类别"
+
+msgid "OPTVAL_SBSLETTERBOX"
+msgstr "并排信箱模式"

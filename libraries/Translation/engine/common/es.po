@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-23 19:01+0000\n"
-"Last-Translator: \"Bon N. Martini\" <brunete1012@gmail.com>\n"
+"PO-Revision-Date: 2026-02-13 22:44+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/common/"
 "es/>\n"
 "Language: es\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.16-dev\n"
-"HeaderCode: es\n"
+"X-HeaderCode: es\n"
 
 msgid "PRESSYN"
 msgstr "Presiona Y(Si) o N(No)."
@@ -61,13 +61,12 @@ msgstr "Mensajes DESACTIVADOS"
 msgid "MSGON"
 msgstr "Mensajes ACTIVADOS"
 
-#, fuzzy
 msgid "TXT_SAY"
 msgstr "Decir:"
 
 msgid "TXT_QUITENDOOM"
 msgstr ""
-"Presiona una tecla o haz clic en cualquier lugar de la ventana para salir."
+"Presiona una tecla o haz click en cualquier lugar de la ventana para salir."
 
 msgid "NEWSAVE"
 msgstr "<Nueva partida guardada>"
@@ -94,7 +93,7 @@ msgid "MNU_NOFILES"
 msgstr "Sin archivos"
 
 msgid "MNU_DELETESG"
-msgstr "¿Realmente deseas borrar la partida?\n"
+msgstr "¿Realmente deseas borrar la partida?"
 
 msgid "OPTVAL_OFF"
 msgstr "Desactivado"
@@ -1258,7 +1257,7 @@ msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
 msgstr "Mapa de entorno en espejos"
 
 msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Calidad de renderizado"
+msgstr "Calidad de Renderizado"
 
 msgid "OPTVAL_SPEED"
 msgstr "Velocidad"
@@ -1503,6 +1502,7 @@ msgstr "Rotación al hacer un guardado rápido"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Cantidad de guardados rápidos en rotación"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "El menú principal ocupa toda la pantalla"
 
@@ -1674,6 +1674,7 @@ msgstr "ID Nº2"
 msgid "REVMNU_Create"
 msgstr "Crear"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Guardar..."
 
@@ -1727,7 +1728,7 @@ msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Antiguo xBRZ"
 
 msgid "OS_TITLE"
-msgstr "Buscar opciones"
+msgstr "Buscar Opciones"
 
 msgid "OS_ANY"
 msgstr "Buscar cualquier término"
@@ -1736,126 +1737,15 @@ msgid "OS_ALL"
 msgstr "Buscar todos los términos"
 
 msgid "OS_NO_RESULTS"
-msgstr "Ningún resultado."
+msgstr "Ningun resultado."
 
 msgid "OS_LABEL"
 msgstr "Buscar:"
 
-msgid "TXT_OBITUARY1"
-msgstr "%k ha deshuesado a %o como a un pescado"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k ha castrado a %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k ha cremado a %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k ha diezmado a %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k ha destruido a %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k ha picado en cubitos a %o"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k ha destripado a %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k ha aplanado a %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k le ha dado justicia anal a %o"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k le ha dado LoCuRa AnAl a %o"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k ha matado a %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k ha hecho picadillo de %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k ha masacrado a %o"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k ha mutilado a %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k ha escariado a %o"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k le ha hecho a %o un nuevo orificio"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k ha sacrificado a %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k ha destrozado a %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k ha sodomizado a %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k ha rociado a %o"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k ha aplastado a %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k ha estrangulado a %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k ha desechado a %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k ha embolsado a %o"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k ha enviado a %o al infierno"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k ha tostado a %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k ha aspirado a %o"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k se ha cargado a %o"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k ha pulverizado a %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k ha hecho comida para perros de %o"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k ha pateado a %o como a un perro callejero"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o es excremento"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o es una hamburguesa"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o ha sufrido separación de escroto"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o se ha hecho voluntario para control de población"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o se ha suicidado"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o ha recibido el Premio Darwin"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character
@@ -2109,3 +1999,6 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
+
+msgid "ACCMNU_TITLE"
+msgstr "Opciones de Accesibilidad"

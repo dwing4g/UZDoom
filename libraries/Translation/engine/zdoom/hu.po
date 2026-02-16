@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-24 17:00+0000\n"
-"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
 "Language: hu\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: hu\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: hu\n"
 
 msgid "PRESSKEY"
 msgstr "Nyomjon meg egy gombot."
@@ -20,6 +20,7 @@ msgstr "Nyomjon meg egy gombot."
 msgid "SECRETMESSAGE"
 msgstr "Egy rejtekhely feltárva!"
 
+#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Haszontalan mód BE."
 
@@ -93,10 +94,14 @@ msgid "DOSY"
 msgstr "(Nyomj Y-t a kilépéshez.)"
 
 msgid "QUITMSG1"
-msgstr "Kérlek ne lépj le, sok démon vár még arra, hogy felaprítsd!"
+msgstr ""
+"Kérlek ne lépj le, sok démon\n"
+"vár még arra, hogy felaprítsd!"
 
 msgid "QUITMSG2"
-msgstr "Tűnjünk innen, ebből vérfürdő lesz!"
+msgstr ""
+"Tűnjünk innen,\n"
+"ebből vérfürdő lesz!"
 
 msgid "QUITMSG3"
 msgstr ""
@@ -109,7 +114,9 @@ msgstr ""
 "a DOS jobb nálam?"
 
 msgid "QUITMSG5"
-msgstr "Még ne menj -- a sarkon túl még vár rád egy démon!"
+msgstr ""
+"Még ne menj—a sarkon\n"
+"túl még vár rád egy démon!"
 
 msgid "QUITMSG6"
 msgstr ""
@@ -159,6 +166,7 @@ msgstr ""
 "Hová mész?!\n"
 "És a forradalommal mi lesz?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Carnage interruptus...\n"
@@ -172,12 +180,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Senki nem kezdhet ki a Feketerigóval!"
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Azt hittem te más vagy..."
 
 msgid "QUITMSG20"
 msgstr "Oké! Csak ölj és fuss!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Kiléphetsz...\n"
@@ -199,6 +209,7 @@ msgstr ""
 "Még ne menj!\n"
 "Szükségünk van a segítségedre!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Remélem, hogy csak \n"
@@ -214,6 +225,7 @@ msgstr ""
 "Ne hagyd cserben az \n"
 "Intergalaktikus Müzli Szövetséget!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Az igazi Chex(R) Harcos \n"
@@ -258,6 +270,7 @@ msgstr "Megijeszted magad"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Reszketni kezdesz"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Eldobod az agyad..."
 
@@ -316,9 +329,11 @@ msgstr "Képesség hozzáadva"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... nem annyira gáz - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Pályaváltás..."
 
@@ -379,6 +394,7 @@ msgstr "Fagyasztás BE"
 msgid "TXT_FREEZEOFF"
 msgstr "Fagyasztás KI"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Furán érzed magad..."
 
@@ -1913,6 +1929,7 @@ msgstr "Felvetted a Degnin Ércet."
 msgid "TXT_SCANNER"
 msgstr "Felvetted a szkennert."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Térkép nélkül nem fog működni a szkenner!"
 
@@ -2057,12 +2074,15 @@ msgstr "Felvetted az elektromos nyilakat."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Felvetted a lőszeres táskát."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Úgy érzed azt nem kéne megérinteni..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Bármi legyen ez, nem ebben a világban van a helye..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Valamit kell hogy csináljon..."
 
@@ -2558,9 +2578,11 @@ msgstr "Úgy néz ki eleged van már!"
 msgid "TXT_GOAWAY"
 msgstr "Takarodj!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Bejövő Üzenet..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Bejövő Üzenet Feketerigótól..."
 
@@ -2571,9 +2593,11 @@ msgstr "Keress segítséget"
 msgid "TXT_TRADE"
 msgstr "%u számára"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Felvettél egy Chex(R) páncélt."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Felvettél egy szuper Chex(R) páncélt!"
 
@@ -2749,6 +2773,7 @@ msgstr "E1M4: Arborétum"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoik barlangjai"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Küldetés teljesítve.\n"
@@ -2815,6 +2840,7 @@ msgstr ""
 "\n"
 "Nyomj Y-t vagy N-t."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Ez a Chex(R) Quest. Keresd\n"
@@ -2853,6 +2879,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Szuper Szörcs feléve"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "...egyél Chex(R)-et!"
@@ -3264,7 +3291,7 @@ msgid "CMPTMNU_ANYBOSSDEATH"
 msgstr "Főgonosz halála megengedett a speciális pályákon"
 
 msgid "CMPTMNU_NODOORLIGHT"
-msgstr "A BOOM ajtó fény effekt kikapcsolása "
+msgstr "A BOOM ajtó fény effekt kikapcsolása"
 
 msgid "CMPTMNU_LIGHT"
 msgstr "Szomszédos fényforrás keresése mint Doom-ban"
@@ -4416,17 +4443,11 @@ msgstr "Shadowmap minőség"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Köd mód"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Köd Fullbright-ot erőltet ki"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Fegyver lövés fényerősség"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Környezeti mappolás a tükrökön"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Felerősített éjjellátó mód"
@@ -4451,9 +4472,6 @@ msgstr "Sprite alapú kamera"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Részecske stílusa"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Renderelés minősége"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4518,9 +4536,6 @@ msgstr "Négyzet"
 
 msgid "OPTVAL_ROUND"
 msgstr "Kör"
-
-msgid "OPTVAL_RADIAL"
-msgstr "Sugaras"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Pixeles homály"
@@ -4599,21 +4614,6 @@ msgstr "Mipmap textúrák"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dinamikus fények (szoftveres)"
-
-msgid "OS_TITLE"
-msgstr "Beállítás Keresés"
-
-msgid "OS_ANY"
-msgstr "Bármilyen szótagra keresés"
-
-msgid "OS_ALL"
-msgstr "Összes szótagra keresés"
-
-msgid "OS_NO_RESULTS"
-msgstr "Nincs keresési találat"
-
-msgid "OS_LABEL"
-msgstr "Keresés:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Kulcsokat mindig mutat"
@@ -4695,9 +4695,6 @@ msgstr "Képernyőmentés meghiusult"
 msgid "TXT_BY"
 msgstr "%s által"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Nyomjon egy billentyűt vagy kattintson bárhova a kilépéshez."
-
 msgid "HUDMNU_FLASH"
 msgstr "Képernyő Keverés Beállítások"
 
@@ -4728,6 +4725,7 @@ msgstr "Gyors kilépés"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Egyéni inverz pálya"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Egyéni inverz sötét szín"
 

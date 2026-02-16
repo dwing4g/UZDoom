@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-25 07:01+0000\n"
-"Last-Translator: yhmtxt <yhmtxt@163.com>\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.16-dev\n"
-"HeaderCode: chs\n"
+"X-HeaderCode: zho\n"
 
 msgid "PRESSYN"
 msgstr "按Y键确认，按N键取消。"
@@ -92,7 +92,7 @@ msgid "MNU_NOFILES"
 msgstr "无文件"
 
 msgid "MNU_DELETESG"
-msgstr "你真的想要删除此存档吗？\n"
+msgstr "你真的想要删除此存档吗？"
 
 msgid "OPTVAL_OFF"
 msgstr "关"
@@ -496,7 +496,7 @@ msgid "JOYMNU_XINPUT"
 msgstr "启用XInput控制器"
 
 msgid "JOYMNU_PS2"
-msgstr "启用旧的PS2适配器"
+msgstr "启用 PS2 手柄转接器直读模式"
 
 msgid "JOYMNU_NOCON"
 msgstr "未检测到控制器"
@@ -821,10 +821,10 @@ msgid "SNDMNU_MODREPLAYER"
 msgstr "模块播放器选项"
 
 msgid "SNDMNU_MIDIPLAYER"
-msgstr "MIDI播放选项"
+msgstr "Midi播放器选项"
 
 msgid "SNDMNU_MENUSOUND"
-msgstr "菜单中的音效"
+msgstr "菜单音效"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "高级声音选项"
@@ -1501,7 +1501,7 @@ msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "快速保存上限数量"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr "禁用菜单缩放"
+msgstr "经典ZDoom的菜单缩放"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "后台运行时暂停游戏"
@@ -1672,7 +1672,7 @@ msgid "REVMNU_Create"
 msgstr "创建"
 
 msgid "REVMNU_Save"
-msgstr "保存..."
+msgstr "保存…"
 
 msgid "REVMNU_File_name"
 msgstr "文件名"
@@ -1738,117 +1738,6 @@ msgstr "无搜索结果。"
 msgid "OS_LABEL"
 msgstr "搜索："
 
-msgid "TXT_OBITUARY1"
-msgstr "%k 像对鱼一样剔了 %o 的骨"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k 阉割了 %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k 彻底打败了 %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k 消灭了 %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k 毁灭了 %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k 切碎了 %o"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k 解脱了 %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k 拍扁了 %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k 对 %o 使出千年杀"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k 对 %o 使出疯狂千年杀"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k 杀死了 %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%o 把 %k 剁成了肉馅"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k 屠杀了 %o"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k 肢解了 %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k 给 %o 开了个洞"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k 给 %o 撕了个新洞"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k 宰了 %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k 击飞了 %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%o 爆菊了 %k"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k 把 %o 撒了一地"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k 踩扁了 %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k 勒死了 %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k 废了 %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k 把 %o 装进了裹尸袋"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k 把 %o 送进地狱"
-
-msgid "TXT_OBITUARY26"
-msgstr "%o 烧烤了 %k"
-
-msgid "TXT_OBITUARY27"
-msgstr "%o 灭了 %k"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k 把 %o 喷得到处都是"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k 把 %o 洒得到处都是"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k 把 %o 做成了狗粮"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k 像对野狗一样痛扁 %o"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o 成了便便"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o 成了汉堡"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o 的蛋碎了"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o 自愿参加了人口控制"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o 自杀了"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o 被授予了达尔文奖"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
@@ -1858,7 +1747,7 @@ msgstr "1"
 # language display. If it is acceptable that accents get omitted a character
 # should NOT be listed here!
 msgid "REQUIRED_CHARACTERS"
-msgstr ""
+msgstr "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 msgid "OPTMNU_FULLOPTIONS"
 msgstr "完整选项菜单"
@@ -2141,3 +2030,9 @@ msgstr "辅助选项"
 
 msgid "ACCMNU_RESET"
 msgstr "重置辅助选项"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "消息队列大小"
+
+msgid "MSGMNU_STACKIDENTICAL"
+msgstr "堆叠重复消息"

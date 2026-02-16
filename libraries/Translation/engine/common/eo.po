@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-25 23:01+0000\n"
-"Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/common/"
 "eo/>\n"
 "Language: eo\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.16-dev\n"
-"HeaderCode: eo\n"
+"X-HeaderCode: eo\n"
 
 msgid "PRESSYN"
 msgstr "Premu Y aŭ N."
@@ -91,6 +91,7 @@ msgstr "Malsama versio"
 msgid "MNU_NOFILES"
 msgstr "Neniu dosiero"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Ĉu vi vere volas forigi la konservitan ludadon?"
 
@@ -1327,7 +1328,7 @@ msgid "GLTEXMNU_HQRESIZEMULT"
 msgstr "Obligilo de Altdistingivigo-Skalilo"
 
 msgid "GLTEXMNU_HQRESIZEWARN"
-msgstr "Ĉi tiu reĝimo bezonas %d-oble pli da ekranmemoro."
+msgstr "Ĉi tiu reĝimo bezonas %d-oble pli da ekranmemoro"
 
 msgid "GLTEXMNU_RESIZETEX"
 msgstr "Regrandigi teksturojn"
@@ -1501,7 +1502,7 @@ msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Kvanto da rapidkonservoj en rotaciado"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr "Malebligi puran skaladon en la ĉefmenuo"
+msgstr "Klasika skalado de ZDoom-menuo"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "Paŭzigi ludon fone"
@@ -1671,6 +1672,7 @@ msgstr "Identigo #2"
 msgid "REVMNU_Create"
 msgstr "Krei"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Konservi..."
 
@@ -1724,135 +1726,24 @@ msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Malnova xBRZ"
 
 msgid "OS_TITLE"
-msgstr "Serĉi agordojn"
+msgstr "Agorda Serĉo"
 
 msgid "OS_ANY"
-msgstr "Serĉi iun ajn terminon"
+msgstr "Serĉi por iu ajn termino"
 
 msgid "OS_ALL"
-msgstr "Serĉi ĉiujn terminojn"
+msgstr "Serĉi por ĉiuj terminoj"
 
 msgid "OS_NO_RESULTS"
-msgstr "Neniu trafo."
+msgstr "Neniuj rezultoj trovitaj."
 
 msgid "OS_LABEL"
 msgstr "Serĉi:"
 
-msgid "TXT_OBITUARY1"
-msgstr "%k senostigis %o kiel fiŝon"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k kastris %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k kremigis %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k detruegis %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k detruis %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k diskubigis %o"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k sentripigis %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k platigis %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k donis pugan juston al %o"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k donis pUgAn frEnEzOn al %o"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k mortigis %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k farigis farĉon el %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k masakris %o"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k mutilis %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k alezis %o"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k ŝiris novan truon en %o"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k buĉis %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k frakasis %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k sodomizis %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k disĵetis %o"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k premplatigis %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k strangolis %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k malŝparis %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k ensakigis %o"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k sendis %o al Infero"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k tostis %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k snufis %o"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k hosis %o"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k ŝprucigis %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k farigis hundan viandon el %o"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k batis %o kiel hundaĉon"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o estas ekskremento"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o estas hamburgero"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o suferis skrotan disigon"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o volontulis por loĝantara regado"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o sin mortigis"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o ricevis la Darwin-premion"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character

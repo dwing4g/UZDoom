@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-25 03:01+0000\n"
-"Last-Translator: Lucas Fortes basilio <lucas11fortes@gmail.com>\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/common/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.16-dev\n"
-"HeaderCode: pt\n"
+"X-HeaderCode: pt\n"
 
 msgid "PRESSYN"
 msgstr "Aperte Y ou N."
@@ -65,7 +65,8 @@ msgid "TXT_SAY"
 msgstr "Dizer:"
 
 msgid "TXT_QUITENDOOM"
-msgstr "Aperte uma tecla ou clique em qualquer lugar na janela para sair."
+msgstr ""
+"Aperte qualquer tecla ou clique em qualquer lugar na janela para sair."
 
 msgid "NEWSAVE"
 msgstr "<Novo jogo salvo>"
@@ -91,6 +92,7 @@ msgstr "Versão diferente"
 msgid "MNU_NOFILES"
 msgstr "Vazio"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Deseja mesmo excluir o jogo salvo?"
 
@@ -1519,6 +1521,7 @@ msgstr "Rotação de salvamentos rápidos"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Número de salvamentos rápidos em rotação"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Desativar escala limpa do menu"
 
@@ -1690,6 +1693,7 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Criar"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Salvar..."
 
@@ -1757,121 +1761,10 @@ msgstr "Nenhum resultado encontrado."
 msgid "OS_LABEL"
 msgstr "Busca:"
 
-msgid "TXT_OBITUARY1"
-msgstr "%k desossou %o como um peixe"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k castrou %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k fez creme de %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k decimou %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k destruiu %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k fez picadinho de %o"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k estripou %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k achatou %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k deu Justiça Anal para %o"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k deu LoUcUrA aNaL para %o"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k matou %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k fez carne moída de %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k massacrou %o"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k mutilou %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k esquartejou %o"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k abriu um novo orifício em %o"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k abateu %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k esmagou %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k sodomizou %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k explodiu %o"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k espatifou %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k estrangulou %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k detonou %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k mandou %o para o necrotério"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k mandou %o para o Inferno"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k tostou %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k apagou %o"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k metralhou %o"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k pulverizou %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k fez almôndegas de %o"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k espancou %o como um cachorro"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o virou escremento"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o virou hambúrguer"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o sofreu separação escrotal"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o se voluntariou para o controle populacional"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o se suicidou"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o ganhou o Prêmio Darwin"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character

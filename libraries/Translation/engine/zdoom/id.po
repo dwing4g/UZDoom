@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-04 01:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
 "Language: id\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 msgid "PRESSKEY"
 msgstr "Tekan tombol apapun."
@@ -20,7 +20,7 @@ msgid "SECRETMESSAGE"
 msgstr "Sebuah rahasia terungkap!"
 
 msgid "D_DEVSTR"
-msgstr "Mode useless NYALA\n"
+msgstr "Mode useless NYALA."
 
 msgid "QUITMSG"
 msgstr ""
@@ -96,6 +96,7 @@ msgstr ""
 "Tolong jangan pergi dulu, masih ada\n"
 "setan yang musti dipanggang!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Udahlah -- ini malah\n"
@@ -111,6 +112,7 @@ msgstr ""
 "Kau mau bilang bahwa kau menyukai DOS\n"
 "lebih daripadaku, ya kan?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Jangan pergi dulu -- ada\n"
@@ -168,6 +170,7 @@ msgstr ""
 "Mau kemana kau?!\n"
 "Bagaimana dengan rebellion?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Bantaian Terhenti...\n"
@@ -181,12 +184,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Tiada yang keluar di Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Kukira kau berbeda..."
 
 msgid "QUITMSG20"
 msgstr "Okeh! bunuhlah lalu lari!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Anda bisa keluar...\n"
@@ -212,6 +217,7 @@ msgstr ""
 "Jangan pergi dulu.\n"
 "Kami butuh bantuanmu!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Kuharap kau cuman ingin\n"
@@ -227,6 +233,7 @@ msgstr ""
 "Jangan tinggalkan\n"
 "Federasi Sereal Intergalaktik!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Ksatria Chex(R) sejati\n"
@@ -271,6 +278,7 @@ msgstr "Anda menakuti diri sendiri"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Anda mulai berdansa"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Anda khawatir sendiri..."
 
@@ -327,9 +335,11 @@ msgstr ""
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... tidak payah - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Mengganti Level..."
 
@@ -390,6 +400,7 @@ msgstr "Mode Freeze nyala"
 msgid "TXT_FREEZEOFF"
 msgstr "Mode Freeze mati"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Kau merasa aneh..."
 
@@ -4382,16 +4393,10 @@ msgstr ""
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr ""
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr ""
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
-msgstr ""
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
 msgstr ""
 
 msgid "GLPREFMNU_ENV"
@@ -4416,9 +4421,6 @@ msgid "GLPREFMNU_SPRBILLFACECAMERA"
 msgstr ""
 
 msgid "GLPREFMNU_PARTICLESTYLE"
-msgstr ""
-
-msgid "GLPREFMNU_RENDERQUALITY"
 msgstr ""
 
 msgid "GLPREFMNU_VRMODE"
@@ -4483,9 +4485,6 @@ msgid "OPTVAL_SQUARE"
 msgstr ""
 
 msgid "OPTVAL_ROUND"
-msgstr ""
-
-msgid "OPTVAL_RADIAL"
 msgstr ""
 
 msgid "OPTVAL_PIXELFUZZ"
@@ -4566,21 +4565,6 @@ msgstr ""
 msgid "TCMNU_DYNLIGHTS"
 msgstr ""
 
-msgid "OS_TITLE"
-msgstr ""
-
-msgid "OS_ANY"
-msgstr "Cari kata kunci apapun"
-
-msgid "OS_ALL"
-msgstr "Cari semua kata kunci"
-
-msgid "OS_NO_RESULTS"
-msgstr "Tiada hasil."
-
-msgid "OS_LABEL"
-msgstr "Cari:"
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr ""
 
@@ -4656,9 +4640,6 @@ msgstr ""
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr ""
-
-msgid "TXT_QUITENDOOM"
-msgstr "Tekan tombol apapun atau klik manapun di jendela untuk keluar."
 
 msgid "HUDMNU_FLASH"
 msgstr ""

@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-30 17:00+0000\n"
-"Last-Translator: Šimon Větrovec <commonissuedemon@gmail.com>\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
 "Language: cs\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: cs\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: cs\n"
 
 msgid "PRESSKEY"
 msgstr "Stiskni klávesu."
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Nalezl[@ao_cs] jsi skrýš!"
 
 msgid "D_DEVSTR"
-msgstr "Zbytečný režim ZAP.\n"
+msgstr "Zbytečný režim ZAP."
 
 msgid "QUITMSG"
 msgstr ""
@@ -50,13 +50,15 @@ msgstr ""
 
 msgid "NEWGAME"
 msgstr ""
-"Během síťové hry nelze začít novou hru.\n"
+"Během síťové hry nelze\n"
+"začít novou hru.\n"
 "\n"
 "Stiskni libovolnou klávesu."
 
 msgid "NIGHTMARE"
 msgstr ""
-"Jsi si jist? Tato úroveň obtížnosti není ani trochu fér.\n"
+"Jsi si jist?\n"
+"Tato úroveň obtížnosti není ani trochu fér.\n"
 "\n"
 "Stiskni Y nebo N."
 
@@ -95,6 +97,7 @@ msgstr ""
 "Nenechávej mě tu, je tu\n"
 "víc démonů k vymletí!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Utečme -- začíná\n"
@@ -110,6 +113,7 @@ msgstr ""
 "Chceš mi říct, že máš\n"
 "radši DOS než mě?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Ještě nechoď -- tam\n"
@@ -168,6 +172,7 @@ msgstr ""
 "Kam jdeš?!\n"
 "A co bude s odbojem?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Masakr přerušus...\n"
@@ -181,12 +186,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Nikdo se neobrací zády ke Strace."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Myslela jsem, že jsi jin@[adj_cs]..."
 
 msgid "QUITMSG20"
 msgstr "Fajn! Prostě zab a uteč!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Můžeš odejít...\n"
@@ -212,6 +219,7 @@ msgstr ""
 "Teď neodcházej.\n"
 "Potřebujeme tvoji pomoc!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Doufám, že si jen dáváš\n"
@@ -227,6 +235,7 @@ msgstr ""
 "Neopouštěj Intergalaktickou\n"
 "federaci cereálií!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Skutečný Chex(R) bojovník\n"
@@ -271,6 +280,7 @@ msgstr "Vystrašíš se."
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Začneš pařit."
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Kleplo ti..."
 
@@ -327,9 +337,11 @@ msgstr "Power-up vybrán"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... není cucák - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Měním level..."
 
@@ -390,6 +402,7 @@ msgstr "Režim zamrznutí ZAP"
 msgid "TXT_FREEZEOFF"
 msgstr "Režim zamrznutí VYP"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Cítíš se divně..."
 
@@ -629,7 +642,7 @@ msgid "OB_MONTELEFRAG"
 msgstr "%o byl@[ao_cs] telefraggnut@[ao_cs]."
 
 msgid "OB_DEFAULT"
-msgstr "%o zemřel@[ao_cs].\n"
+msgstr "%o zemřel@[ao_cs]."
 
 msgid "OB_MPDEFAULT"
 msgstr "%o byl@[ao_cs] zabit@[ao_cs] hráčem %k."
@@ -1925,6 +1938,7 @@ msgstr "Sebral@[ao_cs] jsi degninskou rudu."
 msgid "TXT_SCANNER"
 msgstr "Sebral@[ao_cs] jsi skener."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Skener bez mapy fungovat nebude!"
 
@@ -2069,12 +2083,15 @@ msgstr "Sebral@[ao_cs] jsi elektrické šípy."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Sebral@[ao_cs] jsi brašnu na munici."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Máš pocit, že jsi na to sahat neměl@[ao_cs]..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Je jedno, co to je, do tohoto světa to nepatří..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Něco to dělat musí..."
 
@@ -2570,9 +2587,11 @@ msgstr "Ty už máš přece dost!"
 msgid "TXT_GOAWAY"
 msgstr "Jdi pryč!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Příchozí zpráva..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Příchozí zpráva od Straky..."
 
@@ -2583,9 +2602,11 @@ msgstr "Najdi pomoc."
 msgid "TXT_TRADE"
 msgstr "za %u zlatých"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Sebráno Chex(R) brnění."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Sebráno Super Chex(R) brnění!"
 
@@ -2761,6 +2782,7 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoikské jeskyně"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Mise splněna.\n"
@@ -2826,6 +2848,7 @@ msgstr ""
 "\n"
 "Stiskni Y nebo N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Toto je Chex(R) Quest. Najdi\n"
@@ -2864,6 +2887,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Superbzukry přidány"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Jez Chex(R)!"
@@ -4424,17 +4448,11 @@ msgstr "Kvalita map stínů"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filtrování map stínů"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Režim mlhy"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Mlha vynucuje plný jas"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Intenzita světel zbraní"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Mapa prostředí na zrcadlech"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Vylepšený režim nočního vidění"
@@ -4459,9 +4477,6 @@ msgstr "Sprity čelí kameře"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Styl částic"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Kvalita vykreslování"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4526,9 +4541,6 @@ msgstr "Čtvercové"
 
 msgid "OPTVAL_ROUND"
 msgstr "Kulaté"
-
-msgid "OPTVAL_RADIAL"
-msgstr "Radiální"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Pixelový fuzz"
@@ -4608,21 +4620,6 @@ msgstr "Použít mipmapy"
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynamická světla (software)"
 
-msgid "OS_TITLE"
-msgstr "Vyhledávání možností"
-
-msgid "OS_ANY"
-msgstr "Hledat jakékoli klíčové slovo"
-
-msgid "OS_ALL"
-msgstr "Hledat všechna klíčová slova"
-
-msgid "OS_NO_RESULTS"
-msgstr "Nic nenalezeno."
-
-msgid "OS_LABEL"
-msgstr "Hledat:"
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Vždy zobrazit klíče"
 
@@ -4701,9 +4698,6 @@ msgstr "Nepodařilo se pořídit snímek obrazovky."
 msgid "TXT_BY"
 msgstr "hráčem %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Pro ukončení stiskni libovolnou klávesu, nebo klikni kdekoliv v okně."
-
 msgid "HUDMNU_FLASH"
 msgstr "Barvení obrazovky"
 
@@ -4734,6 +4728,7 @@ msgstr "Rychlé ukončení"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Vlastní inverzní barvení"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Vlastní inverzní tmavá barva"
 
@@ -4913,10 +4908,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Zakázat sbírání odhozených předmětů na straně klientů"
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Restart po umření"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Začít jen s pistolí"
 

@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-24 17:00+0000\n"
-"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
 "Language: ja\n"
@@ -11,17 +11,18 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: jp\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: jp\n"
 
+#, fuzzy
 msgid "PRESSKEY"
-msgstr "何かキーを押せ"
+msgstr "何かキーを押せ。"
 
 msgid "SECRETMESSAGE"
 msgstr "シークレットを解き明かした!"
 
 msgid "D_DEVSTR"
-msgstr "このモードは使わないでおけ"
+msgstr "このモードは使わないでおけ。"
 
 msgid "QUITMSG"
 msgstr ""
@@ -34,37 +35,38 @@ msgid "LOADNET"
 msgstr ""
 "オンラインプレイでは ロードできない!\n"
 "\n"
-"何かキーを押せ\n"
+"何かキーを押せ。"
 
 msgid "QLOADNET"
 msgstr ""
 "オンラインプレイでは ロードできない!\n"
 "\n"
-"何かキーを押せ"
+"何かキーを押せ。"
 
 msgid "QSAVESPOT"
 msgstr ""
 "オンラインプレイでは セーブできない!\n"
 "\n"
-"何かキーを押せ"
+"何かキーを押せ。"
 
 msgid "NEWGAME"
 msgstr ""
 "オンラインプレイでは勝手にニューゲームは\n"
 "始められない!\n"
 "\n"
-"何かキーを押せ"
+"何かキーを押せ。"
 
 msgid "NIGHTMARE"
 msgstr ""
 "本気か? このスキルは\n"
 "マトモな状態ではないぞ。\n"
 "\n"
-"Y か N で答えろ"
+"Y か N で答えろ。"
 
 msgid "SWSTRING"
 msgstr ""
 "これは体験版だ。\n"
+"\n"
 "わかったら本体を買え。\n"
 "\n"
 "キーを押せば戻るぞ。"
@@ -73,20 +75,20 @@ msgid "NETEND"
 msgstr ""
 "オンラインプレイでは勝手に終了できない!\n"
 "\n"
-"何かキーを押せ"
+"何かキーを押せ。"
 
 msgid "ENDGAME"
 msgstr ""
 "本当にゲームを中断するのか?\n"
 "\n"
-"Y か N で答えろ"
+"Y か N で答えろ。"
 
 msgid "RAVENQUITMSG"
 msgstr "本当に終了するのか?"
 
 msgctxt "heretic"
 msgid "SWSTRING"
-msgstr "製品版でのみ可能だ。"
+msgstr "製品版でのみ可能だ"
 
 msgid "DOSY"
 msgstr "(Y で終了)"
@@ -96,6 +98,7 @@ msgstr ""
 "離れないでくれ!\n"
 "まだ獲物が残っているんだ!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "まだ物足りないだろう?\n"
@@ -111,6 +114,7 @@ msgstr ""
 "貴方はこちらよりも\n"
 "デスクトップの方が好みらしいな?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "待ってくれ!まだあそこの角に\n"
@@ -155,21 +159,20 @@ msgstr ""
 
 msgid "QUITMSG13"
 msgstr ""
-"帰ればいいさ、\n"
-"君が戻ってきたときには、\n"
-"私はバットを持って待ってるから"
+"帰ればいいさ、君が戻ってきたときには、\n"
+"私はバットを持って待ってるから。"
 
 msgid "QUITMSG14"
 msgstr ""
 "やめることについて考えたのに、\n"
-"私に殴られないなんて、\n"
-"君はラッキーだな"
+"私に殴られないなんて、君はラッキーだな。"
 
 msgid "QUITMSG15"
 msgstr ""
 "どこに行く気だ?!\n"
 "反抗するつもりか?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "大虐殺は寸止めされた...\n"
@@ -184,15 +187,15 @@ msgid "QUITMSG18"
 msgstr "ブラックバードに気付かれず抜け出せるのか。"
 
 msgid "QUITMSG19"
-msgstr "私は あなたは特別だと思っていた..."
+msgstr "私は あなたは特別だと思っていた…"
 
 msgid "QUITMSG20"
 msgstr "いいぞ! ゲリラ戦の時間だ!"
 
 msgid "QUITMSG21"
 msgstr ""
-"終わる事は出来る...\n"
-"しかし隠れることは出来ない..."
+"終わる事は出来る…\n"
+"しかし隠れることは出来ない…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -219,7 +222,7 @@ msgstr ""
 
 msgid "QUITMSG26"
 msgstr ""
-"チェックス(R)パーティミックスを\n"
+"チェックス®パーティミックスを\n"
 "たべるためにおやすみかな?"
 
 msgid "QUITMSG27"
@@ -233,6 +236,7 @@ msgstr ""
 "ぎんがシリアルれんぽう を\n"
 "みすてないでくれ!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "しんのチェックス(R)せんしは\n"
@@ -242,25 +246,25 @@ msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "何か拾った"
 
 msgid "PD_ANY"
-msgstr "いずれかのキーで開けることができる。"
+msgstr "いずれかのキーで開けることができる"
 
 msgid "PD_ANYOBJ"
-msgstr "いずれかのキーで起動させることができる。"
+msgstr "いずれかのキーで起動させることができる"
 
 msgid "PD_ALL3"
-msgstr "3つのキー全てが無ければ開かない。"
+msgstr "3つのキー全てが無ければ開かない"
 
 msgid "PD_ALL3O"
-msgstr "3つのキー全てが必要だ。"
+msgstr "3つのキー全てが必要だ"
 
 msgid "PD_ALL6"
-msgstr "6つ全てのキーが無ければ開かない。"
+msgstr "6つ全てのキーが無ければ開かない"
 
 msgid "PD_ALL6O"
-msgstr "6つ全てのキーが必要だ。"
+msgstr "6つ全てのキーが必要だ"
 
 msgid "PD_ALLKEYS"
-msgstr "全てのキーが必要だ。"
+msgstr "全てのキーが必要だ"
 
 msgid "HUSTR_MSGU"
 msgstr "[メッセージ未送信]"
@@ -272,13 +276,13 @@ msgid "HUSTR_TALKTOSELF2"
 msgstr "誰かいるか?"
 
 msgid "HUSTR_TALKTOSELF3"
-msgstr "怯えているな\n"
+msgstr "怯えているな"
 
 msgid "HUSTR_TALKTOSELF4"
 msgstr "イカレ始めた"
 
 msgid "HUSTR_TALKTOSELF5"
-msgstr "我を失った..."
+msgstr "我を失った…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[メッセージ送信]"
@@ -333,11 +337,12 @@ msgstr "パワーアップ 適用"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "...わるかぁねえぞ --gm"
 
 msgid "STSTR_CLEV"
-msgstr "場所を変更..."
+msgstr "場所を変更…"
 
 msgid "TXT_BUDDHAON"
 msgstr "ブッダモード: オン"
@@ -382,7 +387,7 @@ msgid "TXT_CHEATTICKEROFF"
 msgstr "ティッカー オフ"
 
 msgid "TXT_CHEATARTIFACTS3"
-msgstr "それを渡そう。"
+msgstr "それを渡そう"
 
 msgid "TXT_MIDASTOUCH"
 msgstr "ミダス王の様だな、ベイビー"
@@ -397,7 +402,7 @@ msgid "TXT_FREEZEOFF"
 msgstr "フリーズモード オフ"
 
 msgid "TXT_STRANGE"
-msgstr "これは奇妙な感じだな..."
+msgstr "これは奇妙な感じだな…"
 
 msgid "TXT_STRANGER"
 msgstr "これはかなり奇妙だ。"
@@ -484,10 +489,10 @@ msgid "AMSTR_MARKSCLEARED"
 msgstr "全目標を解除した"
 
 msgid "TXT_FRAGLIMIT"
-msgstr "フラグリミット!"
+msgstr "フラグリミット。"
 
 msgid "TXT_TIMELIMIT"
-msgstr "ゲームセット!"
+msgstr "ゲームセット。"
 
 msgid "SPREEKILLSELF"
 msgstr "%o は自滅するまでなかなか良かったぞ!"
@@ -712,7 +717,7 @@ msgid "GOTMAP"
 msgstr "コンピューターエリアマップ"
 
 msgid "GOTVISOR"
-msgstr "暗視バイザー\n"
+msgstr "暗視バイザー"
 
 msgid "GOTMSPHERE"
 msgstr "メガスフィアー!"
@@ -781,58 +786,58 @@ msgid "BETA_BONUS4"
 msgstr "アンホーリーバイブルを拾った。"
 
 msgid "PD_BLUEO"
-msgstr "この装置には ブルーキーが必要だ。"
+msgstr "この装置には ブルーキーが必要だ"
 
 msgid "PD_REDO"
-msgstr "この装置には レッドキーが必要だ。"
+msgstr "この装置には レッドキーが必要だ"
 
 msgid "PD_YELLOWO"
-msgstr "この装置にはイエローキーが必要だ。"
+msgstr "この装置にはイエローキーが必要だ"
 
 msgid "PD_BLUEK"
-msgstr "このドアには ブルーキーが必要だ。"
+msgstr "このドアには ブルーキーが必要だ"
 
 msgid "PD_REDK"
-msgstr "このドアには レッドキーが必要だ。"
+msgstr "このドアには レッドキーが必要だ"
 
 msgid "PD_YELLOWK"
-msgstr "このドアには イエローキー が必要だ。"
+msgstr "このドアには イエローキー が必要だ"
 
 msgid "PD_BLUECO"
-msgstr "この装置には ブルーカード が必要だ。"
+msgstr "この装置には ブルーカード が必要だ"
 
 msgid "PD_REDCO"
-msgstr "この装置には レッドカード が必要だ。"
+msgstr "この装置には レッドカード が必要だ"
 
 msgid "PD_YELLOWCO"
-msgstr "この装置には イエローカード が必要だ。"
+msgstr "この装置には イエローカード が必要だ"
 
 msgid "PD_BLUESO"
-msgstr "この装置には ブルースカル が必要だ。"
+msgstr "この装置には ブルースカル が必要だ"
 
 msgid "PD_REDSO"
-msgstr "この装置には レッドスカル が必要だ。"
+msgstr "この装置には レッドスカル が必要だ"
 
 msgid "PD_YELLOWSO"
-msgstr "この装置には イエロースカル が必要だ。"
+msgstr "この装置には イエロースカル が必要だ"
 
 msgid "PD_BLUEC"
-msgstr "このドアには ブルーカード が必要だ。"
+msgstr "このドアには ブルーカード が必要だ"
 
 msgid "PD_REDC"
-msgstr "このドアには レッドカード が必要だ。"
+msgstr "このドアには レッドカード が必要だ"
 
 msgid "PD_YELLOWC"
-msgstr "このドアには イエローカード が必要だ。"
+msgstr "このドアには イエローカード が必要だ"
 
 msgid "PD_BLUES"
-msgstr "このドアには ブルースカル が必要だ。"
+msgstr "このドアには ブルースカル が必要だ"
 
 msgid "PD_REDS"
-msgstr "このドアには レッドスカル が必要だ。"
+msgstr "このドアには レッドスカル が必要だ"
 
 msgid "PD_YELLOWS"
-msgstr "このドアには イエロースカル が必要だ。"
+msgstr "このドアには イエロースカル が必要だ"
 
 msgid "CC_ZOMBIE"
 msgstr "ゾンビ兵"
@@ -1930,6 +1935,7 @@ msgstr "デグニン鉱石 取得。"
 msgid "TXT_SCANNER"
 msgstr "スキャナー 入手。"
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "マップが無ければ スキャナーは機能しない!"
 
@@ -2075,13 +2081,13 @@ msgid "TXT_AMMOSATCHEL"
 msgstr "弾薬鞄 入手。"
 
 msgid "MSG_TALISMANRED"
-msgstr "己の勘が 触れてはならない物だと訴えている..."
+msgstr "己の勘が 触れてはならない物だと訴えている…"
 
 msgid "MSG_TALISMANGREEN"
-msgstr "何であろうと、この世には属さない物だ..."
+msgstr "何であろうと、この世には属さない物だ…"
 
 msgid "MSG_TALISMANBLUE"
-msgstr "何かを成し遂げなければならない..."
+msgstr "何かを成し遂げなければならない…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "豪剛なる力を得た!"
@@ -2474,13 +2480,13 @@ msgid "OB_SENTINEL"
 msgstr "%o はセンティネルに堕とされた。"
 
 msgid "OB_CRUSADER"
-msgstr "%o はクルセーダーに一掃された。\n"
+msgstr "%o はクルセーダーに一掃された。"
 
 msgid "OB_INQUISITOR"
-msgstr "%o は審問官によって宣告された。\n"
+msgstr "%o は審問官によって宣告された。"
 
 msgid "OB_STALKER"
-msgstr "%o はストーカーに精神を蝕まれた。\n"
+msgstr "%o はストーカーに精神を蝕まれた。"
 
 msgid "OB_TURRET"
 msgstr "%o は警備システムを起動してしまった。"
@@ -2576,10 +2582,10 @@ msgid "TXT_GOAWAY"
 msgstr "逃げ出せ!"
 
 msgid "TXT_COMM0"
-msgstr "メッセージが届いた..."
+msgstr "メッセージが届いた…"
 
 msgid "TXT_COMM1"
-msgstr "ブラックバードからのメッセージが届いた..."
+msgstr "ブラックバードからのメッセージが届いた…"
 
 msgid "TXT_FINDHELP"
 msgstr "助けを探せ"
@@ -2588,11 +2594,12 @@ msgstr "助けを探せ"
 msgid "TXT_TRADE"
 msgstr "%u ゴールド"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "チェックス(R)アーマー をてにいれた。"
 
 msgid "GOTSUPERCHEXARMOR"
-msgstr "スーパーチェックス(R)アーマー をてにいれた。"
+msgstr "スーパーチェックス(R)アーマー をてにいれた!"
 
 msgid "GOTWATER"
 msgstr "コップいっぱいの みずをひろった。"
@@ -2622,10 +2629,10 @@ msgid "GOTVEGETABLES"
 msgstr "やさいのボウル をひろった。"
 
 msgid "GOTSLIMESUIT"
-msgstr "たい スライム スーツ をてにいれた。"
+msgstr "たい スライム スーツ をてにいれた"
 
 msgid "GOTCHEXMAP"
-msgstr "コンピューターエリアマップ をてにいれた。"
+msgstr "コンピューターエリアマップ をてにいれた"
 
 msgid "GOTZORCHRECHARGE"
 msgstr "ミニゾーチ リチャージ をひろった。"
@@ -2640,7 +2647,7 @@ msgid "GOTPROPULSORPACK"
 msgstr "ゾーチプロパルサーパック をひろった。"
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "フェイシング ゾーチャーリチャージ をひろった。"
+msgstr "フェイシング ゾーチャーリチャージ をひろった"
 
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "フェイシング ゾーチャーパック をひろった。"
@@ -2773,7 +2780,11 @@ msgstr ""
 "きみは つぎのにんむの じゅんびができたかい?\n"
 "\n"
 "\n"
-"エスケープ キーをおせば つづけられるよ..."
+"\n"
+"\n"
+"\n"
+"\n"
+"エスケープ キーをおせば つづけられるよ…"
 
 msgid "CE2TEXT"
 msgstr "よくやった!"
@@ -2788,7 +2799,7 @@ msgid "CLOADNET"
 msgstr ""
 "オンラインモードでは セーブデータをロードできません\n"
 "\n"
-"なにか キーを おしてください。\n"
+"なにか キーを おしてください。"
 
 msgctxt "chex"
 msgid "QSPROMPT"
@@ -2804,7 +2815,7 @@ msgid "QLOADNET"
 msgstr ""
 "オンラインモードでは セーブデータをロードできません\n"
 "\n"
-"なにか キーを おしてください。\n"
+"なにか キーを おしてください。"
 
 msgctxt "chex"
 msgid "QLPROMPT"
@@ -2817,17 +2828,19 @@ msgstr ""
 
 msgid "CNEWGAME"
 msgstr ""
-"オンラインモードでは セーブデータをロードできません\n"
+"オンラインモードでは\n"
+"セーブデータをロードできません\n"
 "\n"
-"なにか キーを おしてください。\n"
+"なにか キーを おしてください。"
 
 msgid "CNIGHTMARE"
 msgstr ""
 "きをつけて、これはすごく てごわい。\n"
 "ほんとうにはじめますか?\n"
 "\n"
-"Y か N をおしてください。\n"
+"Y か N をおしてください。"
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "これは チェックス(R)クエスト。\n"
@@ -2841,14 +2854,14 @@ msgid "NETEND"
 msgstr ""
 "オンラインモードでは タイトルがめんにはもどれません\n"
 "\n"
-"なにか キーを おしてください。\n"
+"なにか キーを おしてください。"
 
 msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "ほんとうに いまのぼうけんを おわらせますか?\n"
 "\n"
-"Y か N をおしてください。\n"
+"Y か N をおしてください。"
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
@@ -2866,6 +2879,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "スーパーゾーチ ついか"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "...Chex(R)をたべよう!"
@@ -2906,16 +2920,16 @@ msgid "MNU_CHOOSESKILL"
 msgstr "実力を選べ:"
 
 msgid "SKILL_BABY"
-msgstr "死ぬには若すぎる"
+msgstr "死ぬには若すぎる。"
 
 msgid "SKILL_EASY"
-msgstr "あまり激しくするな"
+msgstr "あまり激しくするな。"
 
 msgid "SKILL_NORMAL"
-msgstr "手加減無用"
+msgstr "手加減無用。"
 
 msgid "SKILL_HARD"
-msgstr "ウルトラ バイオレンス"
+msgstr "ウルトラ バイオレンス。"
 
 msgid "SKILL_NIGHTMARE"
 msgstr "悪夢だ!"
@@ -2927,10 +2941,10 @@ msgid "CSKILL_EASY"
 msgstr "ダラダラしない"
 
 msgid "CSKILL_NORMAL"
-msgstr "カッチカチスライム\n"
+msgstr "カッチカチスライム"
 
 msgid "CSKILL_HARD"
-msgstr "かげきなウーズ\n"
+msgstr "かげきなウーズ"
 
 msgid "CSKILL_NIGHTMARE"
 msgstr "ちょうベトベト!"
@@ -3439,7 +3453,7 @@ msgid "CNTRLMNU_TEAMSAY"
 msgstr "チーム内発言"
 
 msgid "CNTRLMNU_DROPITEM"
-msgstr "アイテムを捨てる\n"
+msgstr "アイテムを捨てる"
 
 msgid "CNTRLMNU_QUERYITEM"
 msgstr "アイテム名を表示"
@@ -4429,17 +4443,11 @@ msgstr "シャドウマップ 品質"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "シャドウマップ フィルター"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "フォグモード"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "濃霧は明るさ最大"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "武器ライトの強さ"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "マップオンミラーの画像表示"
 
 msgid "GLPREFMNU_ENV"
 msgstr "バイザーを暗視装置調にする"
@@ -4464,9 +4472,6 @@ msgstr "スプライトのフェイスカメラ"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "パーティクル スタイル"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "レンダリング品質"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "ステレオ3DのVR"
@@ -4531,9 +4536,6 @@ msgstr "平方"
 
 msgid "OPTVAL_ROUND"
 msgstr "円形"
-
-msgid "OPTVAL_RADIAL"
-msgstr "放射状"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "ピクセル ファズ"
@@ -4613,21 +4615,6 @@ msgstr "ミップマップテクスチャを使用"
 msgid "TCMNU_DYNLIGHTS"
 msgstr "ダイナミックライト (ソフトウェア)"
 
-msgid "OS_TITLE"
-msgstr "オプション検索"
-
-msgid "OS_ANY"
-msgstr "いずれかの用語を探す"
-
-msgid "OS_ALL"
-msgstr "全ての用語を探す"
-
-msgid "OS_NO_RESULTS"
-msgstr "見つかりませんでした。"
-
-msgid "OS_LABEL"
-msgstr "検索:"
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "常にキーを表示"
 
@@ -4642,7 +4629,7 @@ msgid "TXT_LONER"
 msgstr "%s は今 一匹狼だ。"
 
 msgid "TXT_LEFTWITHFRAGS"
-msgstr "%s が逃げ出したので %d に点が入った\n"
+msgstr "%s が逃げ出したので %d に点が入った"
 
 msgid "TXT_LEFTTHEGAME"
 msgstr "%s は退出した"
@@ -4683,7 +4670,7 @@ msgid "TXT_SGINFOERR"
 msgstr "%s' のセーブデータにアクセス出来なかった"
 
 msgid "TXT_SAVEPENDING"
-msgstr "セーブ中だ"
+msgstr "セーブ中だ。"
 
 msgid "TXT_NOTSAVEABLE"
 msgstr "セーブ可能なゲームではない"
@@ -4695,17 +4682,14 @@ msgid "TXT_SPPLAYERDEAD"
 msgstr "シングルプレイでプレイヤーが死んだ"
 
 msgid "TXT_SAVEFAILED"
-msgstr "セーブに失敗した。"
+msgstr "セーブに失敗した"
 
 msgid "TXT_SCREENSHOTERR"
 msgstr "スクリーンショットを作成できなかった。"
 
 # As in paused by player %s.
 msgid "TXT_BY"
-msgstr "%s より\n"
-
-msgid "TXT_QUITENDOOM"
-msgstr "何かのキーを押すか、ウィンドウのどこかをクリックすると終了する。"
+msgstr "%s より"
 
 msgid "HUDMNU_FLASH"
 msgstr "スクリーンブレンド オプション"
@@ -4737,6 +4721,7 @@ msgstr "終了メッセージ無し"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "マップ反転色カスタム"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "反転色カスタム 暗"
 
@@ -4913,10 +4898,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "クライアント側で落としたアイテムを拾わせない"
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "リスタート時に死亡する"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "ピストルスタート"
 

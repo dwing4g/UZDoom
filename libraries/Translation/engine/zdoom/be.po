@@ -2,18 +2,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-24 17:00+0000\n"
-"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
-"Language-Team: Belarusian (Latin script) <https://hosted.weblate.org/"
-"projects/uzdoom/zdoom-engine-strings/be_Latn/>\n"
-"Language: be_Latn\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
+"engine-strings/be/>\n"
+"Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: by\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: by\n"
 
 msgid "PRESSKEY"
 msgstr "Націсніце любую клавішу."
@@ -21,6 +21,7 @@ msgstr "Націсніце любую клавішу."
 msgid "SECRETMESSAGE"
 msgstr "Знойдзен сакрэт!"
 
+#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Бескарысны рэжым УКЛЮЧАНЫ."
 
@@ -98,6 +99,7 @@ msgstr ""
 "Калі ласка, не выходзь,\n"
 "тут яшчэ паўно дэманаў для паджаркі!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Давай скончым з гэтым - яно ператвараецца\n"
@@ -114,7 +116,9 @@ msgstr ""
 "больш за мяне, так?"
 
 msgid "QUITMSG5"
-msgstr "Не выходзь — там яшчэ дэман за вуглом!"
+msgstr ""
+"Не выходзь — там\n"
+"яшчэ дэман за вуглом!"
 
 msgid "QUITMSG6"
 msgstr ""
@@ -168,6 +172,7 @@ msgstr ""
 "Куды ты сабраўся?!\n"
 "А як жа паўстанне?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Вось як заўсёды...\n"
@@ -181,12 +186,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Яшчэ ніхто не сышоў ад Чорнага дразда."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Я думаў аб табе інакш..."
 
 msgid "QUITMSG20"
-msgstr "Цудоўна! Пастраляў ды змыўся! "
+msgstr "Цудоўна! Пастраляў ды змыўся!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Ты можаш выйсці...\n"
@@ -212,6 +219,7 @@ msgstr ""
 "Не выходзь зараз.\n"
 "Нам патрэбна твая дапамога!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Спадзяюся, ты толькі робіш\n"
@@ -227,6 +235,7 @@ msgstr ""
 "Не пакідай\n"
 "Міжгалактычную Федэрацыю шматкоў!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Сапраўдны воін Chex(R)\n"
@@ -236,7 +245,7 @@ msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Вы штосьці атрымалі"
 
 msgid "PD_ANY"
-msgstr "Для адкрыцця патрэбен любы ключ "
+msgstr "Для адкрыцця патрэбен любы ключ"
 
 msgid "PD_ANYOBJ"
 msgstr "Для ўключэння патрэбен любы ключ"
@@ -271,6 +280,7 @@ msgstr "Што гэта была?"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Вы трызніце."
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Якая прыкрасць..."
 
@@ -328,9 +338,11 @@ msgstr "Узмацненне ўключана"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "...не адстой - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Змена ўзроўню..."
 
@@ -347,7 +359,7 @@ msgid "TXT_BUDDHA2OFF"
 msgstr "Рэжым ультыматыўнага Буды ВЫКЛЮЧАНЫ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Сіла актывавана "
+msgstr "Сіла актывавана"
 
 msgid "TXT_CHEATPOWEROFF"
 msgstr "Сіла дэактэвавана"
@@ -356,7 +368,7 @@ msgid "TXT_CHEATHEALTH"
 msgstr "Поўнае здароўе"
 
 msgid "TXT_CHEATKEYS"
-msgstr "Усе ключы "
+msgstr "Усе ключы"
 
 msgid "TXT_CHEATSOUNDON"
 msgstr "Адладка гуку ўключана"
@@ -374,7 +386,7 @@ msgid "TXT_CHEATTICKERON"
 msgstr "Лічыльнік уключаны"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Лічыльнік выключаны "
+msgstr "Лічыльнік выключаны"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Вы атрымалі гэта"
@@ -391,6 +403,7 @@ msgstr "Рэжым замарозкі ўключаны"
 msgid "TXT_FREEZEOFF"
 msgstr "Рэжым замарозкі выключаны"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Вы адчуваеце сябе дзіўна..."
 
@@ -407,10 +420,10 @@ msgid "TXT_LEADBOOTSOFF"
 msgstr "Свінцовыя боты зняты"
 
 msgid "TXT_LIGHTER"
-msgstr "Вы адчуваеце сябе лягчэй "
+msgstr "Вы адчуваеце сябе лягчэй"
 
 msgid "TXT_GRAVITY"
-msgstr "Гравітацыя цягне вас уніз "
+msgstr "Гравітацыя цягне вас уніз"
 
 msgid "TXT_NOTARGET_ON"
 msgstr "Незаўважнасць УКЛЮЧАНА"
@@ -425,28 +438,28 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Браня огра знята"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Від ад трэцяй асобы ЎКЛЮЧАНЫ "
+msgstr "Від ад трэцяй асобы ЎКЛЮЧАНЫ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Від ад трэцяй асобы ВЫКЛЮЧАНЫ "
+msgstr "Від ад трэцяй асобы ВЫКЛЮЧАНЫ"
 
 msgid "TXT_BADDIE_KILLED"
-msgstr "1 благіш забіты "
+msgstr "1 благіш забіты"
 
 msgid "TXT_BADDIES_KILLED"
 msgstr "%d благішоў забіта"
 
 msgid "TXT_MONSTER_KILLED"
-msgstr "1 монстр забіты "
+msgstr "1 монстр забіты"
 
 msgid "TXT_MONSTERS_KILLED"
-msgstr "%d монстраў забіта "
+msgstr "%d монстраў забіта"
 
 msgid "TXT_NO_RESURRECT"
 msgstr "Уваскрашэнне немагчыма. Гулец больш не злучаны з трупам."
 
 msgid "TXT_ALL_ARTIFACTS"
-msgstr "Усе артэфакты "
+msgstr "Усе артэфакты"
 
 msgid "TXT_WHAT_KILL"
 msgstr "Што вы хочаце забіць па-за гульнёй?"
@@ -467,10 +480,10 @@ msgid "AMSTR_GRIDOFF"
 msgstr "Сетка ВЫКЛЮЧАНА"
 
 msgid "AMSTR_TEXON"
-msgstr "Тэкстурны рэжым УКЛЮЧАНЫ "
+msgstr "Тэкстурны рэжым УКЛЮЧАНЫ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Тэкстурны рэжым ВЫКЛЮЧАНЫ "
+msgstr "Тэкстурны рэжым ВЫКЛЮЧАНЫ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Метка"
@@ -518,13 +531,13 @@ msgid "MULTI5"
 msgstr "Жахлівае забойства!"
 
 msgid "SCORE_BONUS"
-msgstr "Бонус "
+msgstr "Бонус"
 
 msgid "SCORE_COLOR"
 msgstr "Колер"
 
 msgid "SCORE_SECRET"
-msgstr "Сакрэты "
+msgstr "Сакрэты"
 
 msgid "SCORE_NAME"
 msgstr "Гулец"
@@ -543,7 +556,7 @@ msgid "SCORE_OTHER"
 msgstr "Іншае"
 
 msgid "SCORE_MISSED"
-msgstr "Прапушчана "
+msgstr "Прапушчана"
 
 msgid "SCORE_TOTAL"
 msgstr "Усяго"
@@ -555,22 +568,22 @@ msgid "TXT_IMKILLS"
 msgstr "Забойств"
 
 msgid "TXT_IMITEMS"
-msgstr "Прадметаў "
+msgstr "Прадметаў"
 
 msgid "TXT_IMSECRETS"
-msgstr "Сакрэтаў "
+msgstr "Сакрэтаў"
 
 msgid "TXT_IMTIME"
 msgstr "Час"
 
 msgid "TXT_IMPAR"
-msgstr "Рэкорд "
+msgstr "Рэкорд"
 
 msgid "WI_FINISHED"
-msgstr "Узровень завершаны "
+msgstr "Узровень завершаны"
 
 msgid "WI_ENTERING"
-msgstr "Пераход "
+msgstr "Пераход"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
@@ -722,7 +735,7 @@ msgid "GOTROCKET"
 msgstr "Атрымана ракета."
 
 msgid "GOTROCKBOX"
-msgstr "Атрымана скрыня ракет. "
+msgstr "Атрымана скрыня ракет."
 
 msgid "GOTCELL"
 msgstr "Атрымана энергабатарэя."
@@ -830,7 +843,7 @@ msgid "PD_YELLOWS"
 msgstr "Для адкрыцця патрэбен жоўты чэрап-ключ"
 
 msgid "CC_ZOMBIE"
-msgstr "Зомбі "
+msgstr "Зомбі"
 
 # a.k.a. (former human) sergeant
 msgid "CC_SHOTGUN"
@@ -838,22 +851,22 @@ msgstr "Хлопец з драбавіком"
 
 # a.k.a. former commando
 msgid "CC_HEAVY"
-msgstr "Чувак з кулямётам "
+msgstr "Чувак з кулямётам"
 
 msgid "CC_IMP"
 msgstr "Імп"
 
 msgid "CC_DEMON"
-msgstr "Дэман "
+msgstr "Дэман"
 
 msgid "CC_LOST"
-msgstr "Згубленая душа "
+msgstr "Згубленая душа"
 
 msgid "CC_CACO"
 msgstr "Какадэман"
 
 msgid "CC_HELL"
-msgstr "Рыцар пекла "
+msgstr "Рыцар пекла"
 
 msgid "CC_BARON"
 msgstr "Барон пекла"
@@ -874,19 +887,19 @@ msgid "CC_ARCH"
 msgstr "Архвіль"
 
 msgid "CC_SPIDER"
-msgstr "Павук-правадыр "
+msgstr "Павук-правадыр"
 
 msgid "CC_CYBER"
 msgstr "Кібердэман"
 
 msgid "CC_HERO"
-msgstr "Наш герой "
+msgstr "Наш герой"
 
 msgid "FN_SHOTGUN"
-msgstr "Сяржант "
+msgstr "Сяржант"
 
 msgid "FN_HEAVY"
-msgstr "Кулямётчык "
+msgstr "Кулямётчык"
 
 msgid "FN_SPECTRE"
 msgstr "Фантом"
@@ -895,13 +908,13 @@ msgid "FN_SPIDER"
 msgstr "Павук-правадыр"
 
 msgid "FN_CYBER"
-msgstr "Кібердэман "
+msgstr "Кібердэман"
 
 msgid "FN_WOLFSS"
 msgstr "Нацыст"
 
 msgid "FN_DOG"
-msgstr "Сабака "
+msgstr "Сабака"
 
 msgid "TAG_FIST"
 msgstr "Латуневы кастэт"
@@ -910,16 +923,16 @@ msgid "TAG_CHAINSAW"
 msgstr "Бензапіла"
 
 msgid "TAG_PISTOL"
-msgstr "Пісталет "
+msgstr "Пісталет"
 
 msgid "TAG_SHOTGUN"
 msgstr "Драбавік"
 
 msgid "TAG_SUPERSHOTGUN"
-msgstr "Супердрабавік "
+msgstr "Супердрабавік"
 
 msgid "TAG_CHAINGUN"
-msgstr "Кулямёт "
+msgstr "Кулямёт"
 
 msgid "TAG_ROCKETLAUNCHER"
 msgstr "Ракетамёт"
@@ -931,13 +944,13 @@ msgid "TAG_BFG9000"
 msgstr ""
 
 msgid "AMMO_CLIP"
-msgstr "Кулі "
+msgstr "Кулі"
 
 msgid "AMMO_SHELLS"
 msgstr "Патроны драбавіка"
 
 msgid "AMMO_ROCKETS"
-msgstr "Ракеты "
+msgstr "Ракеты"
 
 msgid "AMMO_CELLS"
 msgstr "Энергабатарэі"
@@ -4383,17 +4396,11 @@ msgstr ""
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Рэжым туману"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr ""
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr ""
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Карта асяроддзя на люстэрках"
 
 msgid "GLPREFMNU_ENV"
 msgstr ""
@@ -4418,9 +4425,6 @@ msgstr ""
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr ""
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Якасць апрацоўкі"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4485,9 +4489,6 @@ msgstr ""
 
 msgid "OPTVAL_ROUND"
 msgstr ""
-
-msgid "OPTVAL_RADIAL"
-msgstr "Кругавы"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
@@ -4567,21 +4568,6 @@ msgstr ""
 msgid "TCMNU_DYNLIGHTS"
 msgstr ""
 
-msgid "OS_TITLE"
-msgstr "Пошук налады"
-
-msgid "OS_ANY"
-msgstr "Шукаць любое са слоў"
-
-msgid "OS_ALL"
-msgstr "Шукаць усе словы"
-
-msgid "OS_NO_RESULTS"
-msgstr "Вынікі не знойдзены."
-
-msgid "OS_LABEL"
-msgstr "Пошук:"
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr ""
 
@@ -4657,9 +4643,6 @@ msgstr ""
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr ""
-
-msgid "TXT_QUITENDOOM"
-msgstr "Націсніце любую клавішу або націсніце па акну, каб выйсці."
 
 msgid "HUDMNU_FLASH"
 msgstr ""

@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-25 20:52+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: pt\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: pt\n"
 
 msgid "PRESSKEY"
 msgstr "Aperte uma tecla."
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Segredo revelado!"
 
 msgid "D_DEVSTR"
-msgstr "Modo inútil ATIVADO.\n"
+msgstr "Modo inútil ATIVADO."
 
 msgid "QUITMSG"
 msgstr ""
@@ -64,7 +64,7 @@ msgstr ""
 
 msgid "SWSTRING"
 msgstr ""
-"Esta é a versão shareware de DOOM.\n"
+"Esta é a versão shareware de Doom.\n"
 "\n"
 "Você precisa obter a trilogia completa.\n"
 "\n"
@@ -97,6 +97,7 @@ msgstr ""
 "Por favor, não vá embora. Tem mais\n"
 "demônios para torrar!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Vamos embora — isso tá virando \n"
@@ -112,6 +113,7 @@ msgstr ""
 "Tá querendo dizer que você gosta mais\n"
 "do DOS do que eu, é isso?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Não vá embora ainda, tem um\n"
@@ -169,6 +171,7 @@ msgstr ""
 "Para onde você vai?!\n"
 "E a rebelião?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Massacre interrompido...\n"
@@ -182,12 +185,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Ninguém vira as costas para a Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Eu achei que você era diferente..."
 
 msgid "QUITMSG20"
 msgstr "Ótimo! Mate e fuja!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Você pode sair...\n"
@@ -213,6 +218,7 @@ msgstr ""
 "Não vá embora agora.\n"
 "Precisamos da sua ajuda!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Tomara que só esteja fazendo uma\n"
@@ -228,6 +234,7 @@ msgstr ""
 "Não abandone a\n"
 "Federação Intergaláctica de Cereais!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "O verdadeiro Guerreiro Chex(R)\n"
@@ -272,6 +279,7 @@ msgstr "Você se assusta"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Você começa a delirar"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Você enlouqueceu..."
 
@@ -330,9 +338,11 @@ msgstr "Potencializador ativado"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... não tá ruim — GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Trocando de fase..."
 
@@ -393,6 +403,7 @@ msgstr "Modo congelado ativado"
 msgid "TXT_FREEZEOFF"
 msgstr "Modo congelado desativado"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Você está com uma sensação estranha..."
 
@@ -1932,7 +1943,7 @@ msgid "TXT_SCANNER"
 msgstr "Você pegou o scanner."
 
 msgid "TXT_NEEDMAP"
-msgstr "O scanner não funciona sem um mapa!\n"
+msgstr "O scanner não funciona sem um mapa!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Você pegou o passe da Prisão."
@@ -2075,12 +2086,15 @@ msgstr "Você pegou as setas eletricas."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Você pegou a mochila de munição."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Você tem um pressentimento de que isso não devia ser tocado..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Seja o que for, isso não pertence a este mundo..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Deveria fazer alguma coisa..."
 
@@ -2576,9 +2590,11 @@ msgstr "Você parece ter o suficiente!"
 msgid "TXT_GOAWAY"
 msgstr "Vá embora!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Recebendo Mensagem..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Recebendo Mensagem de BlackBird..."
 
@@ -2589,9 +2605,11 @@ msgstr "Procure ajuda"
 msgid "TXT_TRADE"
 msgstr "por %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Pegou uma Armadura Chex(R)."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Pegou uma Super Armadura Chex(R)!"
 
@@ -2767,6 +2785,7 @@ msgstr "E1M4: Arvoredo"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Cavernas de Bazoik"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Missão cumprida.\n"
@@ -2833,6 +2852,7 @@ msgstr ""
 "\n"
 "Press Y or N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Este é o Chex(R) Quest. Procure por\n"
@@ -2871,6 +2891,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch adicionado"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... coma Chex(R)!"
@@ -4434,17 +4455,11 @@ msgstr "Qualidade de shadowmap"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filtro de shadowmap"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Modo de neblina"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Neblina força brilho máximo"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Intensidade de luz da arma"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Mapa de ambiente em espelhos"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Modo de visão noturna avançada"
@@ -4469,9 +4484,6 @@ msgstr "Sprites de frente para a câmera"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Tipo de partícula"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Qualidade de renderização"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "3D Estéreo (VR)"
@@ -4536,9 +4548,6 @@ msgstr "Quadrado"
 
 msgid "OPTVAL_ROUND"
 msgstr "Redondo"
-
-msgid "OPTVAL_RADIAL"
-msgstr ""
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Difuso pixelado"
@@ -4617,21 +4626,6 @@ msgstr "Usar texturas com mipmapping"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Luzes Dinâmicas (Software)"
-
-msgid "OS_TITLE"
-msgstr "Buscar opção"
-
-msgid "OS_ANY"
-msgstr "Buscar por qualquer termo"
-
-msgid "OS_ALL"
-msgstr "Buscar por todos os termos"
-
-msgid "OS_NO_RESULTS"
-msgstr "Nenhum resultado encontrado."
-
-msgid "OS_LABEL"
-msgstr "Busca:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Sempre mostrar chaves"
@@ -4717,10 +4711,6 @@ msgstr "Não foi possível capturar a tela."
 msgid "TXT_BY"
 msgstr "Por %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Aperte qualquer tecla ou clique em qualquer lugar na janela para sair."
-
 msgid "HUDMNU_FLASH"
 msgstr "Opções de mescla de tela"
 
@@ -4751,6 +4741,7 @@ msgstr "Saída Rápida"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Personalizar Cores Invertidas"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Personalizar Cores Invertidas - Cor escura"
 
@@ -4930,10 +4921,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Jogadores não podem pegar itens largados"
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Reiniciar fase após morte"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Iniciar com a pistola"
 

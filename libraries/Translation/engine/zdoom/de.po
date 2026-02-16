@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-30 06:58+0000\n"
-"Last-Translator: Artician <bachmeieraaron@gmail.com>\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
 "Language: de\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: de\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: de\n"
 
 msgid "PRESSKEY"
 msgstr "Drücke eine Taste."
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Ein Geheimnis ist enthüllt!"
 
 msgid "D_DEVSTR"
-msgstr "Nutzloser Modus AN.\n"
+msgstr "Nutzloser Modus AN."
 
 msgid "QUITMSG"
 msgstr ""
@@ -97,6 +97,7 @@ msgstr ""
 "Bitte gehe nicht, es gibt noch mehr\n"
 "Dämonen zu erledigen!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Lass es uns beenden - das wird\n"
@@ -112,6 +113,7 @@ msgstr ""
 "Willst du sagen, dass du DOS\n"
 "mehr magst als ich?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Bitte gehe noch nicht - hinter\n"
@@ -169,6 +171,7 @@ msgstr ""
 "Wo gehst du hin?!\n"
 "Was ist mit der Rebellion?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Carnage interruptus... \n"
@@ -182,12 +185,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Niemand lässt Blackbird stehen."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Ich dachte, du wärst anders..."
 
 msgid "QUITMSG20"
 msgstr "Na Gut! Einfach Töten und Rennen!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Du kannst gehen...\n"
@@ -213,6 +218,7 @@ msgstr ""
 "Bitte geh nicht.\n"
 "Wir brauchen deine Hilfe!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Ich hoffe mal, dass du nur eine\n"
@@ -228,6 +234,7 @@ msgstr ""
 "Bitte lasse die Intergalaktische\n"
 "Föderation der Cerealien nicht im Stich!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Der echte Chex(R) Krieger\n"
@@ -272,6 +279,7 @@ msgstr "Du machst dir Angst"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Du beginnst zu toben"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Du verlierst den Verstand..."
 
@@ -328,9 +336,11 @@ msgstr "Verbesserung umgeschaltet"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... gar nicht übel - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Wechsle Level..."
 
@@ -391,6 +401,7 @@ msgstr "Gefriermodus AN"
 msgid "TXT_FREEZEOFF"
 msgstr "Gefriermodus AUS"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Du fühlst dich merkwürdig..."
 
@@ -1927,7 +1938,7 @@ msgid "TXT_SCANNER"
 msgstr "Du hast den Scanner genommen."
 
 msgid "TXT_NEEDMAP"
-msgstr "Der Scanner kann ohne Karte nicht funktionieren!\n"
+msgstr "Der Scanner kann ohne Karte nicht funktionieren!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Du hast den Gefängnispass genommen."
@@ -2070,12 +2081,15 @@ msgstr "Du hast die elektrischen Bolzen genommen."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Du hast die Munitionstasche genommen."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Du hast das Gefühl, dass man es nicht anfassen sollte..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Was auch immer es ist, es gehört nicht in diese Welt..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Es muss etwas tun..."
 
@@ -2571,9 +2585,11 @@ msgstr "Du scheinst genug zu haben!"
 msgid "TXT_GOAWAY"
 msgstr "Verschwinde!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Nachricht erhalten..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Nachricht von Blackbird erhalten..."
 
@@ -2584,9 +2600,11 @@ msgstr "Finde Hilfe"
 msgid "TXT_TRADE"
 msgstr "für %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Du hast die Chex(R) Rüstung genommen."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Du hast die Superchex(R)Rüstung genommen!"
 
@@ -2762,6 +2780,7 @@ msgstr "E1M4: Baumgarten"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Die Höhlen von Bazoik"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Mission erfüllt.\n"
@@ -2829,6 +2848,7 @@ msgstr ""
 "\n"
 "Drücker Y oder N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Dies ist Chex Quest(R). Finde\n"
@@ -2867,6 +2887,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch hinzugefügt"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "...Iss Chex(R)!"
@@ -4427,17 +4448,11 @@ msgstr "Shadowmap Qualität"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Shadowmap Filter"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Nebelmodus"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Nebel erzwingt volle Helligkeit"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Waffenlichtstärke"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Umgebungskarte auf Spiegeln"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Verbesserter Nachtsichtmodus"
@@ -4462,9 +4477,6 @@ msgstr "Sprites zur Kamera ausrichten"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Partikelstil"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Renderqualität"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "Stereo 3D VR"
@@ -4529,9 +4541,6 @@ msgstr "Quadratisch"
 
 msgid "OPTVAL_ROUND"
 msgstr "Rund"
-
-msgid "OPTVAL_RADIAL"
-msgstr "Radial"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Pixel"
@@ -4610,21 +4619,6 @@ msgstr "Benutze Textur-Mipmaps"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynamisches Licht (Software)"
-
-msgid "OS_TITLE"
-msgstr "Optionssuche"
-
-msgid "OS_ANY"
-msgstr "Suche nach beliebigem Begriff"
-
-msgid "OS_ALL"
-msgstr "Suche nach allen Begriffen"
-
-msgid "OS_NO_RESULTS"
-msgstr "Keine Ergebnisse gefunden."
-
-msgid "OS_LABEL"
-msgstr "Suche:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Zeige immer alle Schlüssel"
@@ -4706,11 +4700,6 @@ msgstr "Konnte Screenshot nicht erzeugen."
 msgid "TXT_BY"
 msgstr "Von %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Drücke eine beliebige Taste oder klicke irgendwo mit der Maus im Fenster zum "
-"Beenden."
-
 msgid "HUDMNU_FLASH"
 msgstr "Überblendoptionen"
 
@@ -4742,7 +4731,7 @@ msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Benutzerdefinierte invertierte Farben"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr "Dunkle Farbe für Invertierung\n"
+msgstr "Dunkle Farbe für Invertierung"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr "Helle Farbe für Invertierung"
@@ -4921,10 +4910,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Client-seitiges Aufheben von fallengelassenen Gegenständen deaktivieren"
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Level bei Tod neu starten"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Pistolenstart"
 
@@ -5269,6 +5260,3 @@ msgstr "Kontrast"
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "Sättigung"
-
-msgid "MISCMNU_CLEANMENU"
-msgstr "Klassische ZDoom-Menüskalierung"

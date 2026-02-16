@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-23 23:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/common/"
 "sr/>\n"
 "Language: sr\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Weblate 5.16-dev\n"
-"HeaderCode: sr\n"
+"X-HeaderCode: sr\n"
 
 msgid "PRESSYN"
 msgstr "Притисните Y или N."
@@ -94,7 +94,7 @@ msgid "MNU_NOFILES"
 msgstr "Нема фајлова"
 
 msgid "MNU_DELETESG"
-msgstr "Да ли стварно желите да избришете сачувану игру?\n"
+msgstr "Да ли стварно желите да избришете сачувану игру?"
 
 msgid "OPTVAL_OFF"
 msgstr "Искљ."
@@ -1502,6 +1502,7 @@ msgstr "Окретање брзих чувања"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Број брзих чувања у окретању"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Онемогући скалирање менија"
 
@@ -1673,6 +1674,7 @@ msgstr "ИД бр. 2"
 msgid "REVMNU_Create"
 msgstr "Направи"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Сачувај..."
 
@@ -1729,10 +1731,10 @@ msgid "OS_TITLE"
 msgstr "Претрага"
 
 msgid "OS_ANY"
-msgstr "Тражи било који термин"
+msgstr "Тражи било коју од речи"
 
 msgid "OS_ALL"
-msgstr "Тражи сваки термин"
+msgstr "Тражи све речи"
 
 msgid "OS_NO_RESULTS"
 msgstr "Нема резултата."
@@ -1740,121 +1742,11 @@ msgstr "Нема резултата."
 msgid "OS_LABEL"
 msgstr "Претрага:"
 
-msgid "TXT_OBITUARY1"
-msgstr "%k је очистио %o као рибу"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k је кастрирао %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k је истукао %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k је десетковао %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k је уништио %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k је исецкао %o"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k је ампутирао %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k је изравнао %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k је дао %o аналну правду"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k је дао АнАлНо ЛуДиЛо %o"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k је убио %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k је направио млевено месо од %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k је масакрирао %o"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k је мутилирао %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k је наоружао %o"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k је исцепао %o нови отвор"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k је заклао %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k је поломио %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k је изјебао %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k је спљоштио %o"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k је згњечио %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k је угушио %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k је убио %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k је умртвио %o"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k је послао %o до Врага"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k је тостирао %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k је угасио %o"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k је упскао %o"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k је испрскао %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k је направио псеће месо од %o"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k је превио %o ко мачку"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o је сада измет"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o је сада пљескавица"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o му је исечена патка"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o је волунтирао за контролу популације"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o је убио самог себе"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o је добио Дарвиново признање"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
+#, fuzzy
 msgid "USE_GENERIC_FONT"
-msgstr "USE_GENERIC_FONT"
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character

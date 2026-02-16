@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-24 17:00+0000\n"
-"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
 "Language: el\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: el\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: el\n"
 
 msgid "PRESSKEY"
 msgstr "Πάτα οποιοδήποτε πλήκτρο."
@@ -21,10 +21,13 @@ msgid "SECRETMESSAGE"
 msgstr "Ένα μυστικό αποκαλύφθηκε!"
 
 msgid "D_DEVSTR"
-msgstr "Άχρηστη λειτουργία είναι ΑΝΟΙΧΤΗ"
+msgstr "Άχρηστη λειτουργία είναι ΑΝΟΙΧΤΗ."
 
+#, fuzzy
 msgid "QUITMSG"
-msgstr "Είσαι σίγουρος ότι θέλεις να κλείσεις αυτο το σπουδαίο παιχνίδι;"
+msgstr ""
+"Είσαι σίγουρος ότι θέλεις να κλείσεις\n"
+"αυτο το σπουδαίο παιχνίδι;"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
@@ -48,15 +51,17 @@ msgstr ""
 
 msgid "NEWGAME"
 msgstr ""
-"Δέν μπορείς να ξεκινήσεις ένα νέο παιχνίδι ενώ εισαι σε ένα δικτυακό παιχνίδι.\n"
+"Δέν μπορείς να ξεκινήσεις ένα νέο παιχνίδι\n"
+"ενώ εισαι σε ένα δικτυακό παιχνίδι.\n"
 "\n"
 "Πάτα οποιδήποτε πλήκτρο."
 
 msgid "NIGHTMARE"
 msgstr ""
-"Είσαι σίγουρος ? Αυτό το επίπεδο δυσκολίας δεν είναι καθόλου δίκαιη.\n"
+"Είσαι σίγουρος ?\n"
+"Αυτό το επίπεδο δυσκολίας δεν είναι καθόλου δίκαιη.\n"
 "\n"
-"Πάτα Y ή N"
+"Πάτα Y ή N."
 
 msgid "SWSTRING"
 msgstr ""
@@ -76,23 +81,28 @@ msgid "ENDGAME"
 msgstr ""
 "Είσαι σίγουρος ότι θέλεις να τελειώσεις το παιχνίδι?\n"
 "\n"
-"Πάτα Y ή N"
+"Πάτα Y ή N."
 
 msgid "RAVENQUITMSG"
-msgstr "Είσαι σίγουρος ότι θέλεις να φύγεις?\n"
+msgstr "Είσαι σίγουρος ότι θέλεις να φύγεις?"
 
 msgctxt "heretic"
 msgid "SWSTRING"
-msgstr "Μόνο διαθέσιμο στήν εχγραμμένη έκδοση."
+msgstr "Μόνο διαθέσιμο στήν εχγραμμένη έκδοση"
 
 msgid "DOSY"
 msgstr "(Πάτα Y για να φύγεις)"
 
 msgid "QUITMSG1"
-msgstr "Παρακαλώ μη φύγεις, υπάρχουνε περισσότεροi δαίμονες να ψήσεις!"
+msgstr ""
+"Παρακαλώ μη φύγεις, υπάρχουνε\n"
+"περισσότεροi δαίμονες να ψήσεις!"
 
+#, fuzzy
 msgid "QUITMSG2"
-msgstr "Πάεμε να φύγουμε -- έχει γίνει σφαγίο εδώ!"
+msgstr ""
+"Πάεμε να φύγουμε —\n"
+"έχει γίνει σφαγίο εδώ!"
 
 msgid "QUITMSG3"
 msgstr ""
@@ -100,10 +110,14 @@ msgstr ""
 "Το DOS είναι πολύ χυρότερο."
 
 msgid "QUITMSG4"
-msgstr "Προσπαθείς να πείς οτι το DOS είναι καλήτερο απο εμένα, σωστά?"
+msgstr ""
+"Προσπαθείς να πείς οτι το DOS\n"
+"είναι καλήτερο απο εμένα, σωστά?"
 
 msgid "QUITMSG5"
-msgstr "Μη φύγεις ακόμα, είναι ένας δαίμονας πίσω απο αυτή τι γονία!"
+msgstr ""
+"Μη φύγεις ακόμα, είναι ένας\n"
+"δαίμονας πίσω απο αυτή τι γονία!"
 
 msgid "QUITMSG6"
 msgstr "Ξέρεις, την επόμενη φορά που θα έρθεις εδώ, θα σε ψήσω."
@@ -129,8 +143,7 @@ msgstr "Βγές απο'δω και πήγαινε πίσω στα βαρετά 
 
 msgid "QUITMSG11"
 msgstr ""
-"Άμα ήμουν το αφεντικό σου, θα σε προκαλούσα σε ενα deathmatch αυτη τη "
-"στιγμή!"
+"Άμα ήμουν το αφεντικό σου, θα σε προκαλούσα σε ενα deathmatch αυτη τη στιγμή!"
 
 msgid "QUITMSG12"
 msgstr "Κοίτα φίλε, άμα φύγεις τώρα ματαιώσες το σκόρ σου!"
@@ -153,12 +166,14 @@ msgstr "Αλλά εσύ είσε η ελπίδα -- η μόνη μου ευκα�
 msgid "QUITMSG18"
 msgstr "Κανένας δεν παρατάει τον Μπλακμπερτ."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Νόμιζα οτι είσουν διαφορετικός..."
 
 msgid "QUITMSG20"
 msgstr "Καλά! Απλώς σκότοσε και φύγε!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Μπορείς να φύγεις...\n"
@@ -180,6 +195,7 @@ msgstr ""
 "Μή φύγεις τώρα.\n"
 "Χρειαζόμαστε τη βοήθεια σου!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr "Ελπίζω οτι απλώς κάνεις ενα διάλειμμα για ένα Chex (R) μέιγμα."
 
@@ -191,6 +207,7 @@ msgstr ""
 msgid "QUITMSG28"
 msgstr "Μήν εγκαταλήψεις την Διαγαλαξιακή Ομοσπονδία των Δημητριακών!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr "Ο αληθινός Chex(R) Πολεμιστής δέν θα έφευγε τοσο γρήγορα!"
 
@@ -214,8 +231,7 @@ msgid "PD_ALL6"
 msgstr "Χρειάζεσαι όλα τα έξι κλειδία για να ανοίξεις αυτή τη πόρτα"
 
 msgid "PD_ALL6O"
-msgstr ""
-"Χρειάζεσε όλα τα έξι κλειδιά για να ενεργοποιήσεις αυτό το αντικείμενο"
+msgstr "Χρειάζεσε όλα τα έξι κλειδιά για να ενεργοποιήσεις αυτό το αντικείμενο"
 
 msgid "PD_ALLKEYS"
 msgstr "Χρειάζεσαι όλα τα κλειδία"
@@ -235,6 +251,7 @@ msgstr "Φοβήζεις τον εαυτό σου"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Αρχίζεις να ουρλίαζεις"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Το έχασες"
 
@@ -291,9 +308,11 @@ msgstr ""
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... δέν είναι χάλια - GW"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Αλλαγή πίστας..."
 
@@ -354,6 +373,7 @@ msgstr "Παγομένη λειτουργία ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
 msgid "TXT_FREEZEOFF"
 msgstr "Παγομένη λειτουργία ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Νιώθης περίεργα..."
 
@@ -745,8 +765,7 @@ msgid "PD_REDO"
 msgstr "Χρειάζεσε ένα κόκινο κλειδί για να ενεργοποίησεις αυτο το αντικείμενο"
 
 msgid "PD_YELLOWO"
-msgstr ""
-"Χρειάζεσε ένα κύτρινο κλειδί για να ενεργοποίησεις αυτο το αντικείμενο"
+msgstr "Χρειάζεσε ένα κύτρινο κλειδί για να ενεργοποίησεις αυτο το αντικείμενο"
 
 msgid "PD_BLUEK"
 msgstr "Χρειάζεσε ένα μπλέ κλειδί για να ανοίξεις αυτή τη πόρτα"
@@ -773,8 +792,7 @@ msgid "PD_REDSO"
 msgstr "Χρειάζεσε ένα κόκινο κρανιο για να ενεργοποίησεις αυτο το αντικείμενο"
 
 msgid "PD_YELLOWSO"
-msgstr ""
-"Χρειάζεσε ένα κύτρινο κρανιο για να ενεργοποίησεις αυτο το αντικείμενο"
+msgstr "Χρειάζεσε ένα κύτρινο κρανιο για να ενεργοποίησεις αυτο το αντικείμενο"
 
 msgid "PD_BLUEC"
 msgstr "Χρειάζεσε μια μπλέ κάρτα για να ανοίξεις αυτή τη πόρτα"
@@ -1890,6 +1908,7 @@ msgstr ""
 msgid "TXT_SCANNER"
 msgstr "Πήρες το σαρωτή."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Ο σαρωτής δέν θα δουλέψει χωρίς ένα χάρτη!"
 
@@ -2037,9 +2056,11 @@ msgstr ""
 msgid "MSG_TALISMANRED"
 msgstr ""
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Οτιδήποτε είναι, δέν είναι απο αυτό τον κόσμο..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Πρέπει να κάνι κάτι..."
 
@@ -4348,16 +4369,10 @@ msgstr ""
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Λειτουργία ομίχλης"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr ""
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
-msgstr ""
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
 msgstr ""
 
 msgid "GLPREFMNU_ENV"
@@ -4382,9 +4397,6 @@ msgid "GLPREFMNU_SPRBILLFACECAMERA"
 msgstr ""
 
 msgid "GLPREFMNU_PARTICLESTYLE"
-msgstr ""
-
-msgid "GLPREFMNU_RENDERQUALITY"
 msgstr ""
 
 msgid "GLPREFMNU_VRMODE"
@@ -4450,9 +4462,6 @@ msgstr ""
 
 msgid "OPTVAL_ROUND"
 msgstr ""
-
-msgid "OPTVAL_RADIAL"
-msgstr "Ακτινικό"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Pixel θολούρα"
@@ -4532,21 +4541,6 @@ msgstr "Χρήση mipmapped υφών"
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Δυναμικά φώτα (Λογισμικό)"
 
-msgid "OS_TITLE"
-msgstr "Αναζήτηση Ρυθμίσεων"
-
-msgid "OS_ANY"
-msgstr "Αναζήτηση για όποιαδηποτε λέξη"
-
-msgid "OS_ALL"
-msgstr "Αναζήτηση για όλες της λέξεις"
-
-msgid "OS_NO_RESULTS"
-msgstr "Δέν βρέθηκαν αποτελέσματα"
-
-msgid "OS_LABEL"
-msgstr "Αναζήτηση:"
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Εμφάνιση πλήκτρων πάντα"
 
@@ -4587,9 +4581,9 @@ msgstr ""
 "υποστηριζώμενη)"
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
@@ -4627,9 +4621,6 @@ msgstr "Ένα screenshot δέν μπόρεσε να τραβυχτεί"
 msgid "TXT_BY"
 msgstr "Απο @[pro_gr] %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Πάτα οποιοδήποτε πλήκτρο ή πάτα οπουδήποτε για να κάνεις έξοδο"
-
 msgid "HUDMNU_FLASH"
 msgstr "Ρυθμίσεις Ανάμειξης Οθόνης"
 
@@ -4660,6 +4651,7 @@ msgstr "Γρήγορη Έξοδος"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Προσαρμοσμένος Ανάποδος Χάρτης"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Προσαρμοσμένος Ανάποδο Χρώμα Σκοτεινό"
 

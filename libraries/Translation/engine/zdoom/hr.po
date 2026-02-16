@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-03 22:01+0000\n"
-"Last-Translator: Александар Урошевић <alek.sandar0@yandex.com>\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
 "Language: hr\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: hr\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: hr\n"
 
 msgid "PRESSKEY"
 msgstr "Pritisni tipku."
@@ -22,11 +22,12 @@ msgid "SECRETMESSAGE"
 msgstr "Tajna je otkrivena!"
 
 msgid "D_DEVSTR"
-msgstr "Beskorisni način UKLJ.\n"
+msgstr "Beskorisni način UKLJ."
 
-#, fuzzy
 msgid "QUITMSG"
-msgstr "Jesi li siguran/na kako želiš izaći iz ove sjajne igre?"
+msgstr ""
+"Jesi li siguran da želiš\n"
+"izaći iz ove sjajne igre?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
@@ -50,18 +51,26 @@ msgstr ""
 
 msgid "NEWGAME"
 msgstr ""
-"Ne možeš započeti igru dok si u mrežnoj igri.\n"
+"Ne možeš započeti igru\n"
+"dok si u mrežnoj igri.\n"
 "\n"
 "Pritisni tipku."
 
 msgid "NIGHTMARE"
 msgstr ""
-"Jesi li siguran/na? Ova razina vještine nije nimalo poštena.\n"
+"Jesi li siguran/na?\n"
+"Ova razina vještine nije nimalo poštena.\n"
 "\n"
 "Pritisni Y ili N."
 
+#, fuzzy
 msgid "SWSTRING"
-msgstr "Dostupno samo u registriranoj verziji"
+msgstr ""
+"Dostupno samo u registriranoj verziji.\n"
+"\n"
+"\n"
+"\n"
+"Pritisni tipku."
 
 msgid "NETEND"
 msgstr ""
@@ -86,10 +95,14 @@ msgid "DOSY"
 msgstr "(Pritisni Y za izlaz)"
 
 msgid "QUITMSG1"
-msgstr "Molimo te, nemoj otići, ima još vraga za spržiti!"
+msgstr ""
+"Molimo te, nemoj otići,\n"
+"ima još vraga za spržiti!"
 
 msgid "QUITMSG2"
-msgstr "Bježimo! Ovo se pretvara u krvoproliće!"
+msgstr ""
+"Bježimo! Ovo se\n"
+"pretvara u krvoproliće!"
 
 msgid "QUITMSG3"
 msgstr ""
@@ -97,10 +110,14 @@ msgstr ""
 "DOS je puno gori."
 
 msgid "QUITMSG4"
-msgstr "Želiš reći kako voliš DOS više od mene, zar ne?"
+msgstr ""
+"Želiš reći kako voliš DOS\n"
+"više od mene, zar ne?"
 
 msgid "QUITMSG5"
-msgstr "Nemoj još otići! Iza ugla se nalazi vrag!"
+msgstr ""
+"Nemoj još otići!\n"
+"Iza ugla se nalazi vrag!"
 
 msgid "QUITMSG6"
 msgstr "Znaš, idući put kad dođeš ovdje, ja ću te spržiti."
@@ -139,6 +156,7 @@ msgstr ""
 "Gdje ideš?\n"
 "Što je s pobunom?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Prekinuti pokolj...\n"
@@ -150,12 +168,14 @@ msgstr "Ali ti si nada -- moja jedina šansa!!"
 msgid "QUITMSG18"
 msgstr "Nitko ne izlazi na Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Mislio/la sam da si drugačija/drugačiji..."
 
 msgid "QUITMSG20"
 msgstr "Dobro! Samo ubij i bježi!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr "Možeš odustati... ali se ne možeš sakriti..."
 
@@ -173,6 +193,7 @@ msgstr "Ne odustajte -- flemoidi će preuzeti kontrolu!"
 msgid "QUITMSG25"
 msgstr "Nemoj sada otići. Trebamo tvoju pomoć!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr "Nadam se da samo uzimaš pauzu za Čehs(R) miks za zabavu."
 
@@ -184,6 +205,7 @@ msgstr ""
 msgid "QUITMSG28"
 msgstr "Ne napuštajte Intergalaktičku Federaciju Žitarica!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr "Pravi Čehs(R) ratnik ne bi tako brzo odustao!"
 
@@ -226,6 +248,7 @@ msgstr "Plašiš se"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Počinješ buncati"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Gubiš se..."
 
@@ -282,9 +305,11 @@ msgstr "Prekidač pojačanja"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... Jedite Pilu sa Chex-om(R)!"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Promjena razine..."
 
@@ -345,6 +370,7 @@ msgstr "Način zamrzavanja uključen"
 msgid "TXT_FREEZEOFF"
 msgstr "Način zamrzavanja isključen"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Osjećaš se čudno..."
 
@@ -1880,7 +1906,7 @@ msgid "TXT_SCANNER"
 msgstr "Uzeli smo skener."
 
 msgid "TXT_NEEDMAP"
-msgstr "Skener neće raditi bez karte!\n"
+msgstr "Skener neće raditi bez karte!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Uzeli smo zatvorsku propusnicu."
@@ -2023,12 +2049,15 @@ msgstr "Pokupio si električne vijke."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Pokupio si torbu sa streljivom."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Imaš osjećaj da se to nije smjelo dirati..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Što god to bilo, ne pripada ovom svijetu..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Mora nešto učiniti..."
 
@@ -2524,9 +2553,11 @@ msgstr "Izgleda da imaš dovoljno!"
 msgid "TXT_GOAWAY"
 msgstr "Otići!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Dolazna poruka..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Dolazna poruka od BlackBirda..."
 
@@ -2537,9 +2568,11 @@ msgstr "Pronađite pomoć"
 msgid "TXT_TRADE"
 msgstr "za %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Pokupio sam Čehs(R) oklop."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Uzeli smo Super Čehs(R) oklop!"
 
@@ -2715,6 +2748,7 @@ msgstr "E1M4: Botanička bašta"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Špilje Bazoika"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Misija izvršena.\n"
@@ -2776,6 +2810,7 @@ msgstr ""
 "\n"
 "Pritisnite Y ili N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Ovo je Čehs(R) Quest. Potražite buduće razine na www.chexquest.com.\n"
@@ -2812,6 +2847,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Dodan Super Zorč"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Jedi Čehs(R)!"
@@ -4374,17 +4410,11 @@ msgstr "Kvaliteta mape sjena"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filtar mape sjena"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Način rada za maglu"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Magla prisiljava puno svijetlo"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Snaga svjetla oružja"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Karta okoliša na ogledalima"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Poboljšani način noćnog vida"
@@ -4409,9 +4439,6 @@ msgstr "Naknadna kamera za lice"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Stil čestica"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Kvaliteta renderiranja"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "Stereo 3D VR"
@@ -4476,9 +4503,6 @@ msgstr "﻿Kvadrat"
 
 msgid "OPTVAL_ROUND"
 msgstr "Okruglo"
-
-msgid "OPTVAL_RADIAL"
-msgstr "Radijalno"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Nejasan prikaz piksela"
@@ -4557,21 +4581,6 @@ msgstr "Koristi mipmapirane teksture"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dinamička svjetla (softver)"
-
-msgid "OS_TITLE"
-msgstr "Pretraživanje opcija"
-
-msgid "OS_ANY"
-msgstr "Pretražite bilo koji pojam"
-
-msgid "OS_ALL"
-msgstr "Pretraži sve pojmove"
-
-msgid "OS_NO_RESULTS"
-msgstr "Nisu pronađeni rezultati."
-
-msgid "OS_LABEL"
-msgstr "Pretraži:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Uvijek prikaži tipke"
@@ -4653,9 +4662,6 @@ msgstr "Nije moguće izraditi snimku zaslona."
 msgid "TXT_BY"
 msgstr "Od %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Pritisnite bilo koju tipku ili kliknite bilo gdje u prozoru za izlaz."
-
 msgid "HUDMNU_FLASH"
 msgstr "Opcije miješanja zaslona"
 
@@ -4687,7 +4693,7 @@ msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Prilagođena inverzna mapa"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr "Prilagođena inverzna tamna boja\n"
+msgstr "Prilagođena inverzna tamna boja"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr "Prilagođeno inverzno svjetlo u boji"
@@ -4863,10 +4869,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Onemogući preuzimanje odbačenih stavki na strani klijenta"
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Ponovno pokretanje razine nakon smrti"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Početak pištolja"
 

@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-24 23:01+0000\n"
-"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
+"PO-Revision-Date: 2026-02-12 19:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "common/es_MX/>\n"
 "Language: es_MX\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.16-dev\n"
-"HeaderCode: esm esn esg esc esa esd esv eso esr ess esf esl esy esz esb ese "
+"X-HeaderCode: esm esn esg esc esa esd esv eso esr ess esf esl esy esz esb ese "
 "esh esi esu\n"
 
 msgid "PRESSYN"
@@ -93,7 +93,7 @@ msgid "MNU_NOFILES"
 msgstr "Sin Archivos"
 
 msgid "MNU_DELETESG"
-msgstr "¿Estás seguro de eliminar esta partida guardada?\n"
+msgstr "¿Estás seguro de eliminar esta partida guardada?"
 
 msgid "OPTVAL_OFF"
 msgstr "Desactivado"
@@ -117,19 +117,19 @@ msgid "OPTMNU_JOYSTICK"
 msgstr "Opciones Del Mando"
 
 msgid "OPTMNU_PLAYER"
-msgstr ""
+msgstr "Configuración del Jugador"
 
 msgid "OPTMNU_GAMEPLAY"
 msgstr "Opciones de la Jugabilidad"
 
 msgid "OPTMNU_AUTOMAP"
-msgstr ""
+msgstr "Opciones del Mapa"
 
 msgid "OPTMNU_HUD"
 msgstr "Opciones del HUD"
 
 msgid "OPTMNU_MISCELLANEOUS"
-msgstr ""
+msgstr "Opciones Misceláneas"
 
 msgid "OPTMNU_SOUND"
 msgstr "Opciones De Sonido"
@@ -144,7 +144,7 @@ msgid "OPTMNU_DEFAULTS"
 msgstr "Reiniciar a valores predeterminados"
 
 msgid "OPTMNU_RESETTOSAVED"
-msgstr ""
+msgstr "Reiniciar al último guardado"
 
 msgid "OPTMNU_WRITEINI"
 msgstr "Guardar ajustes actuales"
@@ -162,7 +162,7 @@ msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER para cambiar, BACKSPACE para borrar"
 
 msgid "CNTRLMNU_SWITCHTEXT2"
-msgstr ""
+msgstr "Presiona una nueva tecla para asignar, ESC para cancelar"
 
 msgid "CNTRLMNU_CONTROLS"
 msgstr "Controles"
@@ -180,25 +180,25 @@ msgid "CNTRLMNU_USE"
 msgstr "Usar / Abrir"
 
 msgid "CNTRLMNU_FORWARD"
-msgstr ""
+msgstr "Avanzar"
 
 msgid "CNTRLMNU_BACK"
-msgstr ""
+msgstr "Retroceder"
 
 msgid "CNTRLMNU_MOVELEFT"
-msgstr ""
+msgstr "Moverse a la izquierda"
 
 msgid "CNTRLMNU_MOVERIGHT"
-msgstr ""
+msgstr "Moverse a la derecha"
 
 msgid "CNTRLMNU_TURNLEFT"
-msgstr ""
+msgstr "Girar a la izquierda"
 
 msgid "CNTRLMNU_TURNRIGHT"
-msgstr ""
+msgstr "Girar a la derecha"
 
 msgid "CNTRLMNU_TURN180"
-msgstr ""
+msgstr "Giro rápido"
 
 msgid "CNTRLMNU_JUMP"
 msgstr "Saltar"
@@ -207,10 +207,10 @@ msgid "CNTRLMNU_CROUCH"
 msgstr "Agacharse"
 
 msgid "CNTRLMNU_TOGGLECROUCH"
-msgstr ""
+msgstr "Alternar Agache"
 
 msgid "CNTRLMNU_MOUSELOOK"
-msgstr ""
+msgstr "Mira de ratón"
 
 # Look doesn't change the aim! It only alters the view pitch
 msgid "CNTRLMNU_LOOKUP"
@@ -229,16 +229,16 @@ msgid "CNTRLMNU_TOGGLERUN"
 msgstr ""
 
 msgid "CNTRLMNU_STRAFE"
-msgstr ""
+msgstr "Movimiento Lateral"
 
 msgid "CNTRLMNU_SCOREBOARD"
-msgstr ""
+msgstr "Mostrar Tabla de Puntaje"
 
 msgid "CNTRLMNU_ACTION"
-msgstr ""
+msgstr "Acción"
 
 msgid "CNTRLMNU_ACTION_TITLE"
-msgstr ""
+msgstr "Personalizar Controles de Acción"
 
 msgid "CNTRLMNU_CHAT"
 msgstr "Hablar"
@@ -250,16 +250,16 @@ msgid "CNTRLMNU_SAY"
 msgstr "Decir"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "Personalizar Controles del Chat"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
-msgstr ""
+msgstr "Personalizar los Controles de Armas"
 
 msgid "CNTRLMNU_INVENTORY_TITLE"
-msgstr ""
+msgstr "Personalizar Controles del Inventario"
 
 msgid "CNTRLMNU_OTHER_TITLE"
-msgstr ""
+msgstr "Personalizar Otros Controles"
 
 msgid "CNTRLMNU_WEAPONS"
 msgstr "Armas"
@@ -320,7 +320,7 @@ msgstr "Objeto anterior"
 
 # most are not used yet but will be
 msgid "MAPCNTRLMNU_TITLE"
-msgstr ""
+msgstr "Personalizar los Controles del Mapa"
 
 msgid "MAPCNTRLMNU_CONTROLS"
 msgstr "Controles del Mapa"
@@ -344,19 +344,19 @@ msgid "MAPCNTRLMNU_ZOOMOUT"
 msgstr "Alejar"
 
 msgid "MAPCNTRLMNU_TOGGLEZOOM"
-msgstr ""
+msgstr "Alternar zoom"
 
 msgid "MAPCNTRLMNU_TOGGLEFOLLOW"
 msgstr ""
 
 msgid "MAPCNTRLMNU_TOGGLEGRID"
-msgstr ""
+msgstr "Alternar cuadricula"
 
 msgid "MAPCNTRLMNU_ROTATE"
-msgstr ""
+msgstr "Alternar rotación"
 
 msgid "MAPCNTRLMNU_TOGGLETEXTURE"
-msgstr ""
+msgstr "Alternar textura"
 
 msgid "CNTRLMNU_AUTOMAP"
 msgstr ""
@@ -1739,121 +1739,10 @@ msgstr ""
 msgid "OS_LABEL"
 msgstr ""
 
-msgid "TXT_OBITUARY1"
-msgstr "%k deshuesó a %o como a un pescado"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k castró a %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k cremó a %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k diezmó a %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k destruyó a %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k picó en cubitos a %o"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k destripó a %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k aplanó a %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k le dió justicia anal a %o"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k le dió LoCuRa AnAl a %o"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k mató a %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k hizo picadillo de %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k masacró a %o"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k mutiló a %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k escarió a %o"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k le hizo a %o un nuevo orificio"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k sacrificó a %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k destrozó a %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k sodomizó a %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k roció a %o"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k aplastó a %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k ahorcó a %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k desechó a %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k embolsó a %o"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k mandó a %o al infierno"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k tostó a %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k aspiró a %o"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k se cargó a %o"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k pulverizó a %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k hizo alimento para perros de %o"
-
-msgid "TXT_OBITUARY31"
-msgstr ""
-
-msgid "TXT_SELFOBIT1"
-msgstr ""
-
-msgid "TXT_SELFOBIT2"
-msgstr ""
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o sufrió separación de escroto"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o se hizo voluntario para control de población"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o se suicidó"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o recibió el Premio Darwin"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character
@@ -2106,3 +1995,9 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
+
+msgid "ACCMNU_TITLE"
+msgstr "Opciones de Accesibilidad"
+
+msgid "ACCMNU_RESET"
+msgstr "Reiniciar Opciones de Accesibilidad"

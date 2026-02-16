@@ -4300,16 +4300,10 @@ msgstr ""
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr ""
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr ""
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
-msgstr ""
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
 msgstr ""
 
 msgid "GLPREFMNU_ENV"
@@ -4334,9 +4328,6 @@ msgid "GLPREFMNU_SPRBILLFACECAMERA"
 msgstr ""
 
 msgid "GLPREFMNU_PARTICLESTYLE"
-msgstr ""
-
-msgid "GLPREFMNU_RENDERQUALITY"
 msgstr ""
 
 msgid "GLPREFMNU_VRMODE"
@@ -4401,9 +4392,6 @@ msgid "OPTVAL_SQUARE"
 msgstr ""
 
 msgid "OPTVAL_ROUND"
-msgstr ""
-
-msgid "OPTVAL_RADIAL"
 msgstr ""
 
 msgid "OPTVAL_PIXELFUZZ"
@@ -4484,21 +4472,6 @@ msgstr ""
 msgid "TCMNU_DYNLIGHTS"
 msgstr ""
 
-msgid "OS_TITLE"
-msgstr ""
-
-msgid "OS_ANY"
-msgstr ""
-
-msgid "OS_ALL"
-msgstr ""
-
-msgid "OS_NO_RESULTS"
-msgstr ""
-
-msgid "OS_LABEL"
-msgstr ""
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr ""
 
@@ -4573,9 +4546,6 @@ msgstr ""
 
 # As in paused by player %s.
 msgid "TXT_BY"
-msgstr ""
-
-msgid "TXT_QUITENDOOM"
 msgstr ""
 
 msgid "HUDMNU_FLASH"

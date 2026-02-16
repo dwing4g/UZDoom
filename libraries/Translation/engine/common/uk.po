@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-23 23:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/common/"
 "uk/>\n"
 "Language: uk\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Weblate 5.16-dev\n"
-"HeaderCode: uk\n"
+"X-HeaderCode: uk\n"
 
 msgid "PRESSYN"
 msgstr "Натисніть Y або N."
@@ -66,7 +66,7 @@ msgid "TXT_SAY"
 msgstr "Чат:"
 
 msgid "TXT_QUITENDOOM"
-msgstr "Натисніть будь яку клавішу чи натисніть по вікну, щоб вийти."
+msgstr "Натисніть будь-яку клавішу або клацніть будь-де у вікні, щоб вийти."
 
 msgid "NEWSAVE"
 msgstr "<Нове збереження>"
@@ -92,6 +92,7 @@ msgstr "Інша версія"
 msgid "MNU_NOFILES"
 msgstr "Немає файлів"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Ви дійсно хочете видалити це збереження?"
 
@@ -1267,7 +1268,7 @@ msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
 msgstr "Карта оточення на дзеркалах"
 
 msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Якість візуалізації"
+msgstr "Якість рендерингу"
 
 msgid "OPTVAL_SPEED"
 msgstr "Швидкість"
@@ -1513,7 +1514,7 @@ msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Кількість слотів для швидких збережень"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr "Вимкнути чисте масштабування меню"
+msgstr "Класичне масштабування меню ZDoom"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "Пауза при згортуванні вікна"
@@ -1561,13 +1562,13 @@ msgstr "Налаштування за замовчуванням"
 # Please translate only if you know how to properly name this technical
 # jargon!
 msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr ""
+msgstr "Розмір оточення"
 
 msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr ""
+msgstr "Дифузія оточення"
 
 msgid "REVMNU_ROOM"
-msgstr ""
+msgstr "Кімната"
 
 msgid "REVMNU_ROOM_HF"
 msgstr ""
@@ -1585,10 +1586,10 @@ msgid "REVMNU_DECAY_LF_RATIO"
 msgstr ""
 
 msgid "REVMNU_REFLECTIONS"
-msgstr ""
+msgstr "Відображення"
 
 msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
+msgstr "Відставання відображень"
 
 msgid "REVMNU_REFLECTIONS_PAN_X"
 msgstr ""
@@ -1615,10 +1616,10 @@ msgid "REVMNU_REVERB_PAN_Z"
 msgstr ""
 
 msgid "REVMNU_ECHO_TIME"
-msgstr ""
+msgstr "Час ехо"
 
 msgid "REVMNU_ECHO_DEPTH"
-msgstr ""
+msgstr "Глибина ехо"
 
 msgid "REVMNU_MODULATION_TIME"
 msgstr ""
@@ -1684,6 +1685,7 @@ msgstr "ID #2"
 msgid "REVMNU_Create"
 msgstr "Створити"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Зберегти..."
 
@@ -1737,130 +1739,19 @@ msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Старий xBRZ"
 
 msgid "OS_TITLE"
-msgstr "Пошук налаштування"
+msgstr "Пошук налаштувань"
 
 msgid "OS_ANY"
-msgstr "Шукати будь яке з слів"
+msgstr "Пошук по слову"
 
 msgid "OS_ALL"
-msgstr "Шукати всі слова"
+msgstr "Пошук по усіх словах"
 
 msgid "OS_NO_RESULTS"
-msgstr "Нічого не знайдено."
+msgstr "Результатів не знайдено."
 
 msgid "OS_LABEL"
 msgstr "Пошук:"
-
-msgid "TXT_OBITUARY1"
-msgstr "%k порахува@[adj_1_ua] ребра %o"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k каструва@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k розпуши@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k зітну@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k знищи@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k наріза@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k випотроши@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k сплющи@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k влаштува@[adj_1_ua] анальне правосуддя %o"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k влаштува@[adj_1_ua] АнАЛ ГуЛяНнЯ %o"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k вби@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k зроби@[adj_1_ua] відбивну з %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k влаштува@[adj_1_ua] для %o бійню"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k знівечи@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k просверли@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k зроби@[adj_1_ua] в %o нову дірку"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k прові@[adj_1_ua] різню %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k розмаза@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k зґвалтува@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k розбризка@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k розчави@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k вдуши@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k загна@[adj_1_ua] у могилу %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k запакува@[adj_1_ua] %o в мішок для трупів"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k посла@[adj_1_ua] %o до дідька лисого"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k піджари@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k загаси@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY28"
-msgstr "%o перепало від %k"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k розпили@[adj_1_ua] %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k зтовк@[adj_3_ua] %o до псєчих харчів"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k відби@[adj_1_ua] печінки %o"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o тепер екскремент"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o тепер гамбургер"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o постражда@[adj_1_ua] від втрати мошонки"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o борется з перенаселенням"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o самовби@[adj_2_ua]"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o отрима@[adj_1_ua] премію Дарвіна"
 
 # This is not a text to be translated but an engine switch for complex
 # languages.
@@ -2134,3 +2025,42 @@ msgstr "Аналоговий стрейф-біг"
 
 msgid "ACCMNU_TITLE"
 msgstr "Параметри доступності"
+
+msgid "ACCMNU_RESET"
+msgstr "Скинути налаштування доступності"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Розмір черги повідомлень"
+
+msgid "MSGMNU_STACKIDENTICAL"
+msgstr "Об'єднати повторювані повідомлення"
+
+msgid "NOTES_FAIL"
+msgstr "Не вдалося проаналізувати нотатки до випуску"
+
+msgid "NOTES_VERSION"
+msgstr "версія"
+
+msgid "NOTES_UNKNOWN"
+msgstr "Невідомо"
+
+msgid "NOTES_RELEASED"
+msgstr "випущено"
+
+msgid "NOTES_EMPTY"
+msgstr "Опис не надано."
+
+msgid "NOTES_DETAILS"
+msgstr "Для отримання додаткової інформації див.:"
+
+msgid "PICKER_SHOWTHIS"
+msgstr "Показувати цю сторінку після оновлень"
+
+msgid "PICKER_SHOWNOTES"
+msgstr "Показати нотатки до випуску"
+
+msgid "PICKER_TAB_ABOUT"
+msgstr "Про програму"
+
+msgid "PICKER_TAB_RELEASE"
+msgstr "Нотатки до випуску"

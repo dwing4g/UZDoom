@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-18 19:00+0000\n"
-"Last-Translator: \"Başar Köse (Turkish Mauser)\" <memerprime8@gmail.com>\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/common/"
 "tr/>\n"
 "Language: tr\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1-dev\n"
-"HeaderCode: tr\n"
+"X-Generator: Weblate 5.16-dev\n"
+"X-HeaderCode: tr\n"
 
 msgid "PRESSYN"
 msgstr "Y veya N tuşuna basın."
@@ -94,7 +94,7 @@ msgid "MNU_NOFILES"
 msgstr "Dosya yok"
 
 msgid "MNU_DELETESG"
-msgstr "Gerçekten kayıt oyununu silmek istiyor musunuz?\n"
+msgstr "Gerçekten kayıt oyununu silmek istiyor musunuz?"
 
 msgid "OPTVAL_OFF"
 msgstr "Kapalı"
@@ -531,7 +531,6 @@ msgstr "Ölü bölge"
 msgid "JOYMNU_NOAXES"
 msgstr "Yapılandırılabilir eksen yok"
 
-#, fuzzy
 msgid "OPTVAL_NONE"
 msgstr "Hiçbiri"
 
@@ -650,7 +649,7 @@ msgid "OPTVAL_NEVER"
 msgstr "Asla"
 
 msgid "PLYRMNU_AUTOAIM"
-msgstr ""
+msgstr "Otomatik Nişan Alma"
 
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Daima Koş"
@@ -710,25 +709,25 @@ msgid "SNDMNU_MUSENABLED"
 msgstr "Müzik etkin"
 
 msgid "OPTVAL_4000HZ"
-msgstr ""
+msgstr "4000 Hz"
 
 msgid "OPTVAL_8000HZ"
-msgstr ""
+msgstr "8000 Hz"
 
 msgid "OPTVAL_11025HZ"
-msgstr ""
+msgstr "11025 Hz"
 
 msgid "OPTVAL_22050HZ"
-msgstr ""
+msgstr "22050 Hz"
 
 msgid "OPTVAL_32000HZ"
-msgstr ""
+msgstr "32000 Hz"
 
 msgid "OPTVAL_44100HZ"
-msgstr ""
+msgstr "44100 Hz"
 
 msgid "OPTVAL_48000HZ"
-msgstr ""
+msgstr "48000 Hz"
 
 msgid "OPTVAL_64SAMPLES"
 msgstr "64 örnek"
@@ -1503,6 +1502,7 @@ msgstr "Hızlı kaydetme rotasyonu"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Rotasyondaki quicksave sayısı"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Menü Temiz Ölçeklendirmeyi Devre Dışı Bırak"
 
@@ -1674,6 +1674,7 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Oluştur"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Kaydet..."
 
@@ -1739,118 +1740,7 @@ msgid "OS_NO_RESULTS"
 msgstr "Sonuç bulunamadı."
 
 msgid "OS_LABEL"
-msgstr "Ara:"
-
-msgid "TXT_OBITUARY1"
-msgstr "%o, %k tarafından balık gibi kemirildi."
-
-msgid "TXT_OBITUARY2"
-msgstr "%o, %k tarafından hadım edildi."
-
-msgid "TXT_OBITUARY3"
-msgstr ""
-
-msgid "TXT_OBITUARY4"
-msgstr "%o, %k tarafından yok edildi."
-
-msgid "TXT_OBITUARY5"
-msgstr ""
-
-msgid "TXT_OBITUARY6"
-msgstr "%o, %k tarafından doğrandı."
-
-msgid "TXT_OBITUARY7"
-msgstr ""
-
-msgid "TXT_OBITUARY8"
-msgstr "%o, %k tarafından dümdüz edildi."
-
-msgid "TXT_OBITUARY9"
-msgstr "%o, %k tarafından dümdüz edildi."
-
-msgid "TXT_OBITUARY10"
-msgstr "%o, %k tarafından dümdüz edildi."
-
-msgid "TXT_OBITUARY11"
-msgstr "%o, %k tarafından öldürüldü."
-
-msgid "TXT_OBITUARY12"
-msgstr "%o, %k tarafından kıyma haline getirildi."
-
-msgid "TXT_OBITUARY13"
-msgstr "%o, %k tarafından katledildi"
-
-msgid "TXT_OBITUARY14"
-msgstr "%o, %k tarafından sakat bırakıldı."
-
-msgid "TXT_OBITUARY15"
-msgstr "%o, %k tarafından öldürüldü."
-
-msgid "TXT_OBITUARY16"
-msgstr "%o, %k tarafından yeni bir delik açıldı."
-
-msgid "TXT_OBITUARY17"
-msgstr "%o, %k tarafından katledildi."
-
-msgid "TXT_OBITUARY18"
-msgstr "%o, %k tarafından ezildi."
-
-msgid "TXT_OBITUARY19"
-msgstr "%o, %k tarafından sodomize edildi."
-
-msgid "TXT_OBITUARY20"
-msgstr "%o, %k tarafından parçalandı."
-
-msgid "TXT_OBITUARY21"
-msgstr "%o, %k tarafından ezildi."
-
-msgid "TXT_OBITUARY22"
-msgstr "%o, %k tarafından boğazlandı."
-
-msgid "TXT_OBITUARY23"
-msgstr "%o, %k tarafından harcandı."
-
-msgid "TXT_OBITUARY24"
-msgstr "%o, %k tarafından öldürüldü."
-
-msgid "TXT_OBITUARY25"
-msgstr "%o, %k tarafından cehenneme gönderildi."
-
-msgid "TXT_OBITUARY26"
-msgstr "%o, %k tarafından öldürüldü."
-
-msgid "TXT_OBITUARY27"
-msgstr "%o, %k tarafından öldürüldü."
-
-msgid "TXT_OBITUARY28"
-msgstr "%o, %k'in hışmına uğradı."
-
-msgid "TXT_OBITUARY29"
-msgstr "%o, %k tarafından püskürtüldü."
-
-msgid "TXT_OBITUARY30"
-msgstr "%o, %k tarafından köpek etine dönüştürüldü."
-
-msgid "TXT_OBITUARY31"
-msgstr "%o, %k tarafından dövüldü."
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o dışkıdır"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o hamburgerdir"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o skrotum ayrılması yaşadı"
-
-msgid "TXT_SELFOBIT4"
-msgstr "Nüfus kontrolü için %o gönüllü oldu"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o intihar etti"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o Darwin Ödülü'nü aldı"
+msgstr "Arama yapın:"
 
 # This is not a text to be translated but an engine switch for complex
 # languages.
@@ -2109,3 +1999,12 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
+
+msgid "ACCMNU_TITLE"
+msgstr "Erişebilirlik Seçenekleri"
+
+msgid "ACCMNU_RESET"
+msgstr "Erişebilirlik Seçeneklerini Sıfırla"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Mesaj sırası boyutu"

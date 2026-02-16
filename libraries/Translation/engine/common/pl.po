@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-23 23:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/common/pl/>"
 "\n"
 "Language: pl\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Weblate 5.16-dev\n"
-"HeaderCode: pl\n"
+"X-HeaderCode: pl\n"
 
 msgid "PRESSYN"
 msgstr "Wciśnij Y lub N."
@@ -93,7 +93,7 @@ msgid "MNU_NOFILES"
 msgstr "Brak plików"
 
 msgid "MNU_DELETESG"
-msgstr "Czy naprawdę chcesz usunąć zapis gry?\n"
+msgstr "Czy naprawdę chcesz usunąć zapis gry?"
 
 msgid "OPTVAL_OFF"
 msgstr "Wyłączone"
@@ -1501,6 +1501,7 @@ msgstr "Rotacja szybkich zapisów"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Ilość szybkich zapisów w rotacji"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Wyłącz Skalowanie Menu"
 
@@ -1672,6 +1673,7 @@ msgstr "ID #2"
 msgid "REVMNU_Create"
 msgstr "Stwórz"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Zapisz..."
 
@@ -1739,121 +1741,10 @@ msgstr "Brak wyników."
 msgid "OS_LABEL"
 msgstr "Szukaj:"
 
-msgid "TXT_OBITUARY1"
-msgstr "%k odfiletował@[ao_pl] %o jak rybę"
-
-msgid "TXT_OBITUARY2"
-msgstr "%k wykastrował@[ao_pl] %o"
-
-msgid "TXT_OBITUARY3"
-msgstr "%k spienił@[ao_pl] %o"
-
-msgid "TXT_OBITUARY4"
-msgstr "%k przetrzebił@[ao_pl] %o"
-
-msgid "TXT_OBITUARY5"
-msgstr "%k zniszczył@[ao_pl] %o"
-
-msgid "TXT_OBITUARY6"
-msgstr "%k pokroił@[ao_pl] w kostkę %o"
-
-msgid "TXT_OBITUARY7"
-msgstr "%k wypatroszył@[ao_pl] %o"
-
-msgid "TXT_OBITUARY8"
-msgstr "%k rozpłaszczył@[ao_pl] %o"
-
-msgid "TXT_OBITUARY9"
-msgstr "%k dał@[ao_pl] %o Analną Sprawiedliwość"
-
-msgid "TXT_OBITUARY10"
-msgstr "%k dał@[ao_pl] %o AnAlNe SzAlEńStWo"
-
-msgid "TXT_OBITUARY11"
-msgstr "%k zabił@[ao_pl] %o"
-
-msgid "TXT_OBITUARY12"
-msgstr "%k zrobił@[ao_pl] mięso mielone z %o"
-
-msgid "TXT_OBITUARY13"
-msgstr "%k zmasakrował@[ao_pl] %o"
-
-msgid "TXT_OBITUARY14"
-msgstr "%k rozszarpał@[ao_pl] %o"
-
-msgid "TXT_OBITUARY15"
-msgstr "%k rozwiercił@[ao_pl] %o"
-
-msgid "TXT_OBITUARY16"
-msgstr "%k rozerwał@[ao_pl] %o nowy otwór"
-
-msgid "TXT_OBITUARY17"
-msgstr "%k zarżn@[irreg_2_pl] %o"
-
-msgid "TXT_OBITUARY18"
-msgstr "%k stłukł@[ao_pl] %o"
-
-msgid "TXT_OBITUARY19"
-msgstr "%k spenetrował@[ao_pl] %o"
-
-msgid "TXT_OBITUARY20"
-msgstr "%k rozbryzgał@[ao_pl] %o"
-
-msgid "TXT_OBITUARY21"
-msgstr "%k zmiażdżył@[ao_pl] %o"
-
-msgid "TXT_OBITUARY22"
-msgstr "%k udusił@[ao_pl] %o"
-
-msgid "TXT_OBITUARY23"
-msgstr "%k roztrwonił@[ao_pl] %o"
-
-msgid "TXT_OBITUARY24"
-msgstr "%k spakował@[ao_pl] %o do torby na zwłoki"
-
-msgid "TXT_OBITUARY25"
-msgstr "%k wysłał@[ao_pl] %o do Piekła"
-
-msgid "TXT_OBITUARY26"
-msgstr "%k stostował@[ao_pl] %o"
-
-msgid "TXT_OBITUARY27"
-msgstr "%k powąchał@[ao_pl] %o"
-
-msgid "TXT_OBITUARY28"
-msgstr "%k załatwił@[ao_pl] %o"
-
-msgid "TXT_OBITUARY29"
-msgstr "%k rozpryskał@[ao_pl] %o"
-
-msgid "TXT_OBITUARY30"
-msgstr "%k zrobił@[ao_pl] mięso dla psów z %o"
-
-msgid "TXT_OBITUARY31"
-msgstr "%k pobił@[ao_pl] %o jak kundla"
-
-msgid "TXT_SELFOBIT1"
-msgstr "%o został@[ao_pl] odpadkami"
-
-msgid "TXT_SELFOBIT2"
-msgstr "%o został@[ao_pl] hamburgerem"
-
-msgid "TXT_SELFOBIT3"
-msgstr "%o doznał@[ao_pl] oddzielenia moszny"
-
-msgid "TXT_SELFOBIT4"
-msgstr "%o zgłosił@[ao_pl] się na kontrolę ludności"
-
-msgid "TXT_SELFOBIT5"
-msgstr "%o popełnił@[ao_pl] samobójstwo"
-
-msgid "TXT_SELFOBIT6"
-msgstr "%o otrzymał@[ao_pl] Nagrodę Darwina"
-
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "0"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character
