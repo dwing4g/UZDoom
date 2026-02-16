@@ -21,11 +21,16 @@
 **
 */
 
+#include <cstdint>
 #include <string.h>
-#include "name.h"
-#include "superfasthash.h"
+#include <string_view>
+#include <vector>
+
 #include "cmdlib.h"
 #include "m_alloc.h"
+#include "name.h"
+#include "m_crc32.h"
+#include "superfasthash.h"
 
 // MACROS ------------------------------------------------------------------
 
@@ -59,16 +64,15 @@ FName::NameManager FName::NameData;
 bool FName::NameManager::Inited;
 
 // Define the predefined names.
-static const char *PredefinedNames[] =
+static constexpr const char * PredefinedNames[] =
 {
 #define xx(n) #n,
 #define xy(n, s) s,
+#define xa(a, n)
 #include "namedef.h"
-#if __has_include("namedef_custom.h")
-	#include "namedef_custom.h"
-#endif
 #undef xx
 #undef xy
+#undef xa
 };
 
 // CODE --------------------------------------------------------------------
@@ -170,17 +174,46 @@ int FName::NameManager::FindName (const char *text, size_t textLen, bool noCreat
 //
 //==========================================================================
 
+static constexpr size_t FindDuplicates()
+{
+	auto tolower = [](uint8_t c) -> uint8_t {
+		if (c >= 'A' && c <= 'Z') c += 'a'-'A';
+		return c;
+	};
+
+	size_t i = 0;
+	std::vector<std::pair<uint32_t, size_t>> hashes = {
+		#define xx(n) { CalcCRC32<tolower>(#n), i++ },
+		#define xy(n, s) { CalcCRC32<tolower>(s), i++ },
+		#define xa(a, n)
+		#include "namedef.h"
+		#undef xx
+		#undef xy
+		#undef xa
+	};
+
+	std::sort(hashes.begin(), hashes.end());
+
+	for (size_t i = 1; i < hashes.size(); i++)
+	{
+		auto a = hashes[i], b = hashes[i-1];
+		if (a.first == b.first) return std::max(a.second, b.second);
+	}
+
+	return 0;
+}
+
 void FName::NameManager::InitBuckets ()
 {
+	static_assert(0 == NAME_None && std::string_view(PredefinedNames[0]) == "None", "'None' must be name 0.");
+	static_assert(0 == FindDuplicates(), "Duplicate string found in PredefinedNames array.");
+
 	Inited = true;
 	memset (Buckets, -1, sizeof(Buckets));
 
-	// Register built-in names. 'None' must be name 0.
+	// Register built-in names.
 	for (size_t i = 0; i < countof(PredefinedNames); ++i)
-	{
-		assert((0 == FindName(PredefinedNames[i], true)) && "Predefined name already inserted");
 		FindName (PredefinedNames[i], false);
-	}
 }
 
 //==========================================================================

@@ -107,8 +107,7 @@ SettingsPage::SettingsPage(LauncherWindow* launcher, const FStartupSelectionInfo
 						FString iso = sc.String;
 						sc.MustGetStringName(",");
 						sc.MustGetString();
-						if(iso.CompareNoCase("auto"))
-							languages.push_back(std::make_pair(iso, FString(sc.String)));
+						languages.push_back(std::make_pair(iso, FString(sc.String)));
 					}
 				}
 			}
@@ -182,6 +181,8 @@ void SettingsPage::SetValues(FStartupSelectionInfo& info) const
 
 void SettingsPage::UpdateLanguage()
 {
+	GetCanvas()->setLanguage(GStrings.GetLangName().GetChars());
+
 	LangLabel->SetText(GStrings.GetString("OPTMNU_LANGUAGE"));
 	LoadLabel->SetText(GStrings.GetString("PICKER_FILELOADING"));
 	GeneralLabel->SetText(GStrings.GetString("PICKER_GENERAL"));
