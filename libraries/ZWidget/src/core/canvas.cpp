@@ -674,10 +674,10 @@ void BitmapCanvas::fillTile(float left, float top, float width, float height, Co
 	int dwidth = this->width;
 	uint32_t* dest = this->pixels.data();
 
-	int x0 = (int)left;
-	int x1 = (int)(left + width);
-	int y0 = (int)top;
-	int y1 = (int)(top + height);
+	int x0 = (int)std::lround(left);
+	int x1 = (int)std::lround(left + width);
+	int y0 = (int)std::lround(top);
+	int y1 = (int)std::lround(top + height);
 
 	x0 = std::max(x0, getClipMinX());
 	y0 = std::max(y0, getClipMinY());

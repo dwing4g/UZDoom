@@ -141,7 +141,7 @@ SettingsPage::SettingsPage(LauncherWindow* launcher, const FStartupSelectionInfo
 	{
 		LoadLabel = new TextLabel(this);
 		LoadList = new Dropdown(this);
-		LoadList->SetMaxDisplayItems(2);
+		LoadList->SetMaxDisplayItems(4);
 		LoadList->SetDropdownDirection(false);
 		int opts = sizeof(FILELOAD_OPTS)/sizeof(FILELOAD_OPTS[0]), selected = opts-1;
 		for (int i = 0; i < opts; i++)
@@ -201,6 +201,11 @@ void SettingsPage::UpdateLanguage()
 	OpenGLCheckbox->SetText(GStrings.GetString("OPTVAL_OPENGL"));
 	GLESCheckbox->SetText(GStrings.GetString("OPTVAL_OPENGLES"));
 #endif
+
+	for (int i = 0; i < sizeof(FILELOAD_OPTS) / sizeof(*FILELOAD_OPTS); i++)
+	{
+		LoadList->UpdateItem(GStrings.GetString(FILELOAD_OPTS[i].string), i);
+	}
 }
 
 void SettingsPage::OnLanguageChanged(int i)
@@ -209,6 +214,7 @@ void SettingsPage::OnLanguageChanged(int i)
 	UpdateLanguage();
 	Update();
 	Launcher->UpdateLanguage();
+	OnGeometryChanged();
 }
 
 void SettingsPage::OnGeometryChanged()
@@ -300,4 +306,6 @@ void SettingsPage::OnGeometryChanged()
 	y += LoadList->GetHeight();
 
 	Launcher->UpdatePlayButton();
+
+	LangList->ScrollToItem(LangList->GetSelectedItem());
 }
