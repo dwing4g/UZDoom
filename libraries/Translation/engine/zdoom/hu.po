@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-24 17:00+0000\n"
-"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
+"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
 "Language: hu\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
-"HeaderCode: hu\n"
+"X-Generator: Weblate 5.17-dev\n"
+"X-HeaderCode: hu\n"
 
 msgid "PRESSKEY"
 msgstr "Nyomjon meg egy gombot."
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Egy rejtekhely feltárva!"
 
 msgid "D_DEVSTR"
-msgstr "Haszontalan mód BE."
+msgstr "Haszontalan mód BE"
 
 msgid "QUITMSG"
 msgstr ""
@@ -34,26 +34,26 @@ msgid "LOADNET"
 msgstr ""
 "Nem tudsz betölteni miközben net játékban vagy!\n"
 "\n"
-"Nyomj meg egy gombot."
+"Nyomjon meg egy gombot."
 
 msgid "QLOADNET"
 msgstr ""
 "Nem tudsz gyorstölteni miközben net játékban vagy!\n"
 "\n"
-"Nyomj meg egy gombot."
+"Nyomjon meg egy gombot."
 
 msgid "QSAVESPOT"
 msgstr ""
 "Nem választottál ki egy gyorsmentés mezőt még!\n"
 "\n"
-"Nyomj meg egy gombot."
+"Nyomjon meg egy gombot."
 
 msgid "NEWGAME"
 msgstr ""
 "Nem tudsz egy új játékot kezdeni \n"
 "egy hálozatos játékban.\n"
 "\n"
-"Nyomj meg egy gombot."
+"Nyomjon meg egy gombot."
 
 msgid "NIGHTMARE"
 msgstr ""
@@ -68,13 +68,13 @@ msgstr ""
 "\n"
 "Rendeld meg az egész trilógiát!\n"
 "\n"
-"Nyomj meg egy gombot."
+"Nyomjon meg egy gombot."
 
 msgid "NETEND"
 msgstr ""
 "Nem tudsz befejezni egy netjátékot!\n"
 "\n"
-"Nyomj meg egy gombot."
+"Nyomjon meg egy gombot."
 
 msgid "ENDGAME"
 msgstr ""
@@ -93,10 +93,14 @@ msgid "DOSY"
 msgstr "(Nyomj Y-t a kilépéshez.)"
 
 msgid "QUITMSG1"
-msgstr "Kérlek ne lépj le, sok démon vár még arra, hogy felaprítsd!"
+msgstr ""
+"Kérlek ne lépj le, sok démon\n"
+"vár még arra, hogy felaprítsd!"
 
 msgid "QUITMSG2"
-msgstr "Tűnjünk innen, ebből vérfürdő lesz!"
+msgstr ""
+"Tűnjünk innen,\n"
+"ebből vérfürdő lesz!"
 
 msgid "QUITMSG3"
 msgstr ""
@@ -109,7 +113,9 @@ msgstr ""
 "a DOS jobb nálam?"
 
 msgid "QUITMSG5"
-msgstr "Még ne menj -- a sarkon túl még vár rád egy démon!"
+msgstr ""
+"Még ne menj—a sarkon\n"
+"túl még vár rád egy démon!"
 
 msgid "QUITMSG6"
 msgstr ""
@@ -129,8 +135,9 @@ msgstr ""
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
-"Ne menj most, egy dimenzióforgató \n"
-"vár a DOS parancssornál!"
+"Ne menj most, egy\n"
+"dimenzióforgató vár\n"
+"a DOS parancssornál!"
 
 msgid "QUITMSG10"
 msgstr ""
@@ -139,7 +146,8 @@ msgstr ""
 
 msgid "QUITMSG11"
 msgstr ""
-"Ha én lennék a főnököd, lejátszanék egy Deathmatch-et veled perceken belül!"
+"Ha én lennék a főnököd, lejátszanék\n"
+"egy Deathmatch-et veled perceken belül!"
 
 msgid "QUITMSG12"
 msgstr ""
@@ -152,7 +160,9 @@ msgstr ""
 "várni foglak egy ütővel."
 
 msgid "QUITMSG14"
-msgstr "Mákod van, hogy nem kapsz egy fülest amiért ki akartál lépni."
+msgstr ""
+"Mákod van, hogy nem kapsz egy\n"
+"fülest amiért ki akartál lépni."
 
 msgid "QUITMSG15"
 msgstr ""
@@ -161,27 +171,27 @@ msgstr ""
 
 msgid "QUITMSG16"
 msgstr ""
-"Carnage interruptus...\n"
+"Carnage interruptus…\n"
 "Micsoda fenyegetés!"
 
 msgid "QUITMSG17"
 msgstr ""
 "Te vagy a remény\n"
-"-- az egyetlen esélyem!"
+"—az egyetlen esélyem!"
 
 msgid "QUITMSG18"
-msgstr "Senki nem kezdhet ki a Feketerigóval!"
+msgstr "Senki nem kezdhet ki a Feketerigóval."
 
 msgid "QUITMSG19"
-msgstr "Azt hittem te más vagy..."
+msgstr "Azt hittem te más vagy…"
 
 msgid "QUITMSG20"
 msgstr "Oké! Csak ölj és fuss!"
 
 msgid "QUITMSG21"
 msgstr ""
-"Kiléphetsz...\n"
-"de nem bújhatsz el..."
+"Kiléphetsz…\n"
+"de nem bújhatsz el…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -189,10 +199,14 @@ msgstr ""
 "Anyuci szólt, hogy kész a vacsora?"
 
 msgid "QUITMSG23"
-msgstr "Ne lépj ki, még sok slejmoid van szabadon!"
+msgstr ""
+"Ne lépj ki, még sok\n"
+"slejmoid van szabadon!"
 
 msgid "QUITMSG24"
-msgstr "Ne add fel -- máskülönben slejmoidok győznek!"
+msgstr ""
+"Ne add fel—máskülönben\n"
+"slejmoidok győznek!"
 
 msgid "QUITMSG25"
 msgstr ""
@@ -201,8 +215,8 @@ msgstr ""
 
 msgid "QUITMSG26"
 msgstr ""
-"Remélem, hogy csak \n"
-"egy szünetet tartasz a Chex(R) parti mixhez."
+"Remélem, hogy csak egy\n"
+"szünetet tartasz a Chex® parti mixhez."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -216,32 +230,32 @@ msgstr ""
 
 msgid "QUITMSG29"
 msgstr ""
-"Az igazi Chex(R) Harcos \n"
+"Az igazi Chex® Harcos \n"
 "nem adná fel ilyen gyorsan!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
-msgstr "Felvettél egy tárgyat."
+msgstr "Felvettél egy tárgyat"
 
 msgid "PD_ANY"
-msgstr "Bármilyen kulcs kinyitja ezt az ajtót."
+msgstr "Bármilyen kulcs kinyitja ezt az ajtót"
 
 msgid "PD_ANYOBJ"
-msgstr "Bármilyen kulcs aktiválja ezt a tárgyat."
+msgstr "Bármilyen kulcs aktiválja ezt a tárgyat"
 
 msgid "PD_ALL3"
-msgstr "Mind a 3 kulcs szükséges, hogy kinyisd ezt az ajtót."
+msgstr "Mind a 3 kulcs szükséges, hogy kinyisd ezt az ajtót"
 
 msgid "PD_ALL3O"
-msgstr "Mind a 3 kulcs kell hogy aktiváld ezt a tárgyat."
+msgstr "Mind a 3 kulcs kell hogy aktiváld ezt a tárgyat"
 
 msgid "PD_ALL6"
-msgstr "Mind a 6 kulcsnak meg kell lennie az ajtó kinyitásához."
+msgstr "Mind a 6 kulcsnak meg kell lennie az ajtó kinyitásához"
 
 msgid "PD_ALL6O"
-msgstr "Mind a 6 kulcs kell, hogy aktiváld ezt az objektumot."
+msgstr "Mind a 6 kulcs kell, hogy aktiváld ezt az objektumot"
 
 msgid "PD_ALLKEYS"
-msgstr "Az összes kulcsra szükséged van."
+msgstr "Az összes kulcsra szükséged van"
 
 msgid "HUSTR_MSGU"
 msgstr "[Üzenet nincs elküldve]"
@@ -259,7 +273,7 @@ msgid "HUSTR_TALKTOSELF4"
 msgstr "Reszketni kezdesz"
 
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Eldobod az agyad..."
+msgstr "Eldobod az agyad…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Üzenet elküldve]"
@@ -317,10 +331,10 @@ msgstr "Képesség hozzáadva"
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
 msgid "STSTR_CHOPPERS"
-msgstr "... nem annyira gáz - GM"
+msgstr "… nem annyira gáz - GM"
 
 msgid "STSTR_CLEV"
-msgstr "Pályaváltás..."
+msgstr "Pályaváltás…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Buddha Mód BE"
@@ -356,7 +370,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Csalni akarsz, mi? Most meghalsz!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Csaló - nem érdemelsz fegyvert!"
+msgstr "Csaló—nem érdemelsz fegyvert"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Számláló BE"
@@ -380,7 +394,7 @@ msgid "TXT_FREEZEOFF"
 msgstr "Fagyasztás KI"
 
 msgid "TXT_STRANGE"
-msgstr "Furán érzed magad..."
+msgstr "Furán érzed magad…"
 
 msgid "TXT_STRANGER"
 msgstr "Még furábban érzed magad."
@@ -413,10 +427,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Ogre pajzs lejárt"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "követő kamera BE"
+msgstr "Követő kamera BE"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "követő kamera KI"
+msgstr "Követő kamera KI"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 rosszfiú kinyírva"
@@ -440,7 +454,7 @@ msgid "TXT_WHAT_KILL"
 msgstr "Mit tudnál megölni játékon kívül?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Fagyasztott játékos tulajdonságai kikapcsolva"
+msgstr "Fagyasztott játékos tulajdonságai KI"
 
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Követés mód KI"
@@ -476,7 +490,7 @@ msgid "SPREEKILLSELF"
 msgstr "%o jól nézett ki még mielőtt megölte magát!"
 
 msgid "SPREEOVER"
-msgstr "%o ámokfutását %k megállította."
+msgstr "%o ámokfutását %k megállította"
 
 msgid "SPREE5"
 msgstr "%o egy Ámokfutó!"
@@ -764,22 +778,22 @@ msgid "BETA_BONUS4"
 msgstr "Felvettél egy istentelen bibliát."
 
 msgid "PD_BLUEO"
-msgstr "Egy kék kulcs szükséges az tárgy aktiválásához."
+msgstr "Egy kék kulcs szükséges az tárgy aktiválásához"
 
 msgid "PD_REDO"
-msgstr "Piros kulcs kell, hogy aktiválhasd ezt a tárgyat."
+msgstr "Piros kulcs kell, hogy aktiválhasd ezt a tárgyat"
 
 msgid "PD_YELLOWO"
 msgstr "Egy sárga kulccsal aktiválható ez a tárgy"
 
 msgid "PD_BLUEK"
-msgstr "Az ajtót egy kék kulcs nyitja."
+msgstr "Az ajtót egy kék kulcs nyitja"
 
 msgid "PD_REDK"
-msgstr "Piros kulcs szükséges, hogy az ajtót kinyithasd."
+msgstr "Piros kulcs szükséges, hogy az ajtót kinyithasd"
 
 msgid "PD_YELLOWK"
-msgstr "Kell egy sárga kulcs hogy kinyisd ezt az ajtót."
+msgstr "Kell egy sárga kulcs hogy kinyisd ezt az ajtót"
 
 msgid "PD_BLUECO"
 msgstr "Egy kék kártya kell, hogy ezt a tárgyat aktiválhasd"
@@ -791,31 +805,31 @@ msgid "PD_YELLOWCO"
 msgstr "Kell egy sárga kártya hogy aktiváld ezt a tárgyat"
 
 msgid "PD_BLUESO"
-msgstr "Kell egy kék koponya hogy aktiváld ezt a tárgyat."
+msgstr "Kell egy kék koponya hogy aktiváld ezt a tárgyat"
 
 msgid "PD_REDSO"
-msgstr "Kell egy piros koponya hogy aktiváld ezt a tárgyat."
+msgstr "Kell egy piros koponya hogy aktiváld ezt a tárgyat"
 
 msgid "PD_YELLOWSO"
-msgstr "Kell egy sárga koponya hogy aktiváld ezt a tárgyat."
+msgstr "Kell egy sárga koponya hogy aktiváld ezt a tárgyat"
 
 msgid "PD_BLUEC"
-msgstr "Ez az ajtó egy kék kártyával nyílik."
+msgstr "Ez az ajtó egy kék kártyával nyílik"
 
 msgid "PD_REDC"
-msgstr "Ez az ajtó egy piros kártyával nyílik."
+msgstr "Ez az ajtó egy piros kártyával nyílik"
 
 msgid "PD_YELLOWC"
-msgstr "Ez az ajtó egy sárga kártyával nyílik."
+msgstr "Ez az ajtó egy sárga kártyával nyílik"
 
 msgid "PD_BLUES"
-msgstr "Ez az ajtó egy kék koponyával nyílik."
+msgstr "Ez az ajtó egy kék koponyával nyílik"
 
 msgid "PD_REDS"
-msgstr "Ez az ajtó egy piros koponyával nyílik."
+msgstr "Ez az ajtó egy piros koponyával nyílik"
 
 msgid "PD_YELLOWS"
-msgstr "Ez az ajtó egy sárga koponyával nyílik."
+msgstr "Ez az ajtó egy sárga koponyával nyílik"
 
 msgid "CC_ZOMBIE"
 msgstr "Zombi"
@@ -1746,10 +1760,10 @@ msgid "OB_FIREDEMON"
 msgstr "%o megkóstolta a Tűz Szellem parazsát."
 
 msgid "OB_DEMON1"
-msgstr "%o testét leforrázta egy Kígyó"
+msgstr "%o testét leforrázta egy Kígyó."
 
 msgid "OB_DEMON2"
-msgstr "%o vérébe mérget juttatott egy Kígyó"
+msgstr "%o vérébe mérget juttatott egy Kígyó."
 
 msgid "OB_ETTIN"
 msgstr "%o csillagokat lát az Ettin miatt."
@@ -1758,31 +1772,31 @@ msgid "OB_CENTAUR"
 msgstr "%o fel lett vágva a Kentaur jóvoltából."
 
 msgid "OB_SLAUGHTAURHIT"
-msgstr "%o nagyon felvágott és a Vágtaur is a játékost"
+msgstr "%o nagyon felvágott és a Vágtaur is a játékost."
 
 msgid "OB_SLAUGHTAUR"
 msgstr "%o másodfokú égési sérüléseket szenvedett el a Vágtaur tűzgolyójától."
 
 msgid "OB_BISHOP"
-msgstr "%o megadta magát a Püspök sötét erejének"
+msgstr "%o megadta magát a Püspök sötét erejének."
 
 msgid "OB_ICEGUY"
-msgstr "%o testét keményre fagyasztotta egy Wendigo"
+msgstr "%o testét keményre fagyasztotta egy Wendigo."
 
 msgid "OB_SERPENTHIT"
 msgstr "%o szét lett marcangolva egy Orhalász által."
 
 msgid "OB_SERPENT"
-msgstr "%o csontjairól a húst leolvasztotta egy Orvhalász"
+msgstr "%o csontjairól a húst leolvasztotta egy Orvhalász."
 
 msgid "OB_WRAITH"
 msgstr "%o testét egy Martalóc elszenesítette."
 
 msgid "OB_WRAITHHIT"
-msgstr "%o %p életét ellopta egy Martalóc"
+msgstr "%o %p életét ellopta egy Martalóc."
 
 msgid "OB_DRAGON"
-msgstr "%o testét porig égette egy Halálsárkány"
+msgstr "%o testét porig égette egy Halálsárkány."
 
 msgid "OB_KORAX"
 msgstr "%o el lett söpörve a tábláról Korax által."
@@ -1836,7 +1850,7 @@ msgid "OB_MPMWEAPFROST"
 msgstr "%o jégbaráttá alakult %k által."
 
 msgid "OB_MPMWEAPLIGHTNING"
-msgstr "%o kapott egy sokkoló relevációt %k-tól/től"
+msgstr "%o kapott egy sokkoló relevációt %k-tól/től."
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr "%o ki lett törölve az univerzumból %k Vérkorbácsának köszönhetően."
@@ -1896,7 +1910,7 @@ msgid "TXT_TARGETER"
 msgstr "Felvetted a Célzóberendezést."
 
 msgid "TXT_COMMUNICATOR"
-msgstr "Felvetted a Kommunikátort"
+msgstr "Felvetted a Kommunikátort."
 
 msgid "TXT_COIN"
 msgstr "Felvetted az érmét."
@@ -2058,61 +2072,61 @@ msgid "TXT_AMMOSATCHEL"
 msgstr "Felvetted a lőszeres táskát."
 
 msgid "MSG_TALISMANRED"
-msgstr "Úgy érzed azt nem kéne megérinteni..."
+msgstr "Úgy érzed azt nem kéne megérinteni…"
 
 msgid "MSG_TALISMANGREEN"
-msgstr "Bármi legyen ez, nem ebben a világban van a helye..."
+msgstr "Bármi legyen ez, nem ebben a világban van a helye…"
 
 msgid "MSG_TALISMANBLUE"
-msgstr "Valamit kell hogy csináljon..."
+msgstr "Valamit kell hogy csináljon…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Tied a Szuper Erő!"
 
 msgid "TXT_NEEDKEY"
-msgstr "Ehhez nincs kulcsod."
+msgstr "Ehhez nincs kulcsod"
 
 msgid "TXT_NEED_PASSCARD"
-msgstr "Belépőkártyára lesz szükséged."
+msgstr "Belépőkártyára lesz szükséged"
 
 msgid "TXT_NEED_PASSCARD_DOOR"
-msgstr "Belépőkártya nélkül nem nyílik ez az ajtó."
+msgstr "Belépőkártya nélkül nem nyílik ez az ajtó"
 
 msgid "TXT_NEED_IDCARD"
 msgstr "Igazolvány szükséges"
 
 msgid "TXT_NEED_PRISONKEY"
-msgstr "Nincs kulcsod a börtönhöz."
+msgstr "Nincs kulcsod a börtönhöz"
 
 msgid "TXT_NEED_HANDPRINT"
-msgstr "Azonosítatlan kézlenyomat."
+msgstr "Azonosítatlan kézlenyomat"
 
 msgid "TXT_NEED_GOLDKEY"
-msgstr "Aranykulcs szükséges."
+msgstr "Aranykulcs szükséges"
 
 msgid "TXT_NEED_IDBADGE"
-msgstr "Azonosító jelvény szükséges."
+msgstr "Azonosító jelvény szükséges"
 
 msgid "TXT_NEED_IDBADGE_DOOR"
-msgstr "Azonosító jelvény szükséges az ajtó kinyitásához."
+msgstr "Azonosító jelvény szükséges az ajtó kinyitásához"
 
 msgid "TXT_NEED_SILVERKEY"
-msgstr "Az ezüstkulcs szükséges."
+msgstr "Az ezüstkulcs szükséges"
 
 msgid "TXT_NEED_BRASSKEY"
-msgstr "A rézkulcs szükséges."
+msgstr "A rézkulcs szükséges"
 
 msgid "TXT_NEED_REDCRYSTAL"
-msgstr "A vörös kristályra lesz szükség itt."
+msgstr "A vörös kristályra lesz szükség itt"
 
 msgid "TXT_NEED_BLUECRYSTAL"
-msgstr "A kék kristályra lesz szükség itt."
+msgstr "A kék kristályra lesz szükség itt"
 
 msgid "TXT_RETAIL_ONLY"
 msgstr "Ez a terület kizárólag a Strife teljes verziójában érhető el"
 
 msgid "TXT_DOES_NOT_WORK"
-msgstr "Ez nem akar működni."
+msgstr "Ez nem akar működni"
 
 msgid "TXT_NEED_CHALICE"
 msgstr "A Kupára van szükséged!"
@@ -2523,7 +2537,7 @@ msgid "TXT_DESTROYED_CONVERTER"
 msgstr "Elpusztítottad a konvertálót!"
 
 msgid "TXT_COMPLETED_TRAINING"
-msgstr "Gratulálok! Elvégezted a gyakorló területet."
+msgstr "Gratulálok! Elvégezted a gyakorló területet"
 
 msgid "TXT_QUEST_14"
 msgstr "Szétrobbantottad a kristályt"
@@ -2550,7 +2564,7 @@ msgid "TXT_YOUFOOL"
 msgstr "Te barom! Beindítottad a riasztót."
 
 msgid "TXT_YOUREDEAD"
-msgstr "Beindult a riasztó. Halott vagy!"
+msgstr "Beindult a riasztó. Halott vagy."
 
 msgid "TXT_HAVEENOUGH"
 msgstr "Úgy néz ki eleged van már!"
@@ -2559,10 +2573,10 @@ msgid "TXT_GOAWAY"
 msgstr "Takarodj!"
 
 msgid "TXT_COMM0"
-msgstr "Bejövő Üzenet..."
+msgstr "Bejövő Üzenet…"
 
 msgid "TXT_COMM1"
-msgstr "Bejövő Üzenet Feketerigótól..."
+msgstr "Bejövő Üzenet Feketerigótól…"
 
 msgid "TXT_FINDHELP"
 msgstr "Keress segítséget"
@@ -2572,10 +2586,10 @@ msgid "TXT_TRADE"
 msgstr "%u számára"
 
 msgid "GOTCHEXARMOR"
-msgstr "Felvettél egy Chex(R) páncélt."
+msgstr "Felvettél egy Chex® páncélt."
 
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Felvettél egy szuper Chex(R) páncélt!"
+msgstr "Felvettél egy szuper Chex® páncélt!"
 
 msgid "GOTWATER"
 msgstr "Felvettél egy pohár vizet."
@@ -2611,28 +2625,28 @@ msgid "GOTCHEXMAP"
 msgstr "Felvettél egy Számítógépes Térképet"
 
 msgid "GOTZORCHRECHARGE"
-msgstr "Felvettél egy Mini Zorker Újratöltőt"
+msgstr "Felvettél egy Mini Zorker Újratöltőt."
 
 msgid "GOTMINIZORCHPACK"
-msgstr "Felvettél egy Mini Zorker Csomagot"
+msgstr "Felvettél egy Mini Zorker Csomagot."
 
 msgid "GOTPROPULSORRECHARGE"
-msgstr "Felvettél egy Zork Elhárító Újratöltőt"
+msgstr "Felvettél egy Zork Elhárító Újratöltőt."
 
 msgid "GOTPROPULSORPACK"
-msgstr "Felvettél egy Zork Elhárító Csomagot"
+msgstr "Felvettél egy Zork Elhárító Csomagot."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
 msgstr "Felvettél egy Fázis Zorker Újratöltőt"
 
 msgid "GOTPHASINGZORCHERPACK"
-msgstr "Felvettél egy Fázis Zorker Csomagot"
+msgstr "Felvettél egy Fázis Zorker Csomagot."
 
 msgid "GOTLARGEZORCHERRECHARGE"
-msgstr "Felvettél egy Nagy Zorker Újratöltőt"
+msgstr "Felvettél egy Nagy Zorker Újratöltőt."
 
 msgid "GOTLARGEZORCHERPACK"
-msgstr "Felvettél egy Nagy Zorker Csomagot"
+msgstr "Felvettél egy Nagy Zorker Csomagot."
 
 msgid "GOTZORCHPACK"
 msgstr "Felvettél egy Zorkpakkot!"
@@ -2760,7 +2774,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Nyomd meg az ESC gombot a folytatáshoz..."
+"Nyomd meg az Esc gombot a folytatáshoz…"
 
 msgid "CE2TEXT"
 msgstr "Megcsináltad!"
@@ -2769,13 +2783,13 @@ msgid "CE3TEXT"
 msgstr "Tökéletes munka!"
 
 msgid "CE4TEXT"
-msgstr "Fantasztikus!"
+msgstr "Fantasztikus"
 
 msgid "CLOADNET"
 msgstr ""
 "Nem tudsz mentést betölteni netes küldetés közben!\n"
 "\n"
-"Nyomj meg egy gombot."
+"Nyomjon meg egy gombot."
 
 msgctxt "chex"
 msgid "QSPROMPT"
@@ -2784,14 +2798,14 @@ msgstr ""
 "\n"
 "'%s'?\n"
 "\n"
-"Nyomj Y vagy N-t."
+"Nyomj Y-t vagy N-t."
 
 msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Nem tudsz gyorstölteni netes küldetés közben!\n"
 "\n"
-"Nyomj meg egy gombot."
+"Nyomjon meg egy gombot."
 
 msgctxt "chex"
 msgid "QLPROMPT"
@@ -2804,9 +2818,10 @@ msgstr ""
 
 msgid "CNEWGAME"
 msgstr ""
-"Nem tudsz új játékot indítani netes küldetés közben!\n"
+"Nem tudsz új játékot indítani\n"
+"netes küldetés közben!\n"
 "\n"
-"Nyomj meg egy gombot."
+"Nyomjon meg egy gombot."
 
 msgid "CNIGHTMARE"
 msgstr ""
@@ -2817,18 +2832,18 @@ msgstr ""
 
 msgid "CSWSTRING"
 msgstr ""
-"Ez a Chex(R) Quest. Keresd\n"
+"Ez a Chex® Quest. Keresd\n"
 "\n"
 "az új pályákat a www.chexquest.com-on.\n"
 "\n"
-"Nyomj egy gombot."
+"Nyomjon meg egy gombot."
 
 msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Nem tudsz kilépni a netes küldetésből!\n"
 "\n"
-"Nyomj egy gombot."
+"Nyomjon meg egy gombot."
 
 msgctxt "chex"
 msgid "ENDGAME"
@@ -2855,7 +2870,7 @@ msgstr "Szuper Szörcs feléve"
 
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "...egyél Chex(R)-et!"
+msgstr "…egyél Chex®-et!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -2896,22 +2911,22 @@ msgid "SKILL_BABY"
 msgstr "Kicsi vagyok még a halálhoz."
 
 msgid "SKILL_EASY"
-msgstr "Hé, ne túl erősen!"
+msgstr "Hé, ne túl erősen."
 
 msgid "SKILL_NORMAL"
-msgstr "Adjál bőven!"
+msgstr "Adjál bőven."
 
 msgid "SKILL_HARD"
-msgstr "Ultraerőszak!"
+msgstr "Ultraerőszak."
 
 msgid "SKILL_NIGHTMARE"
 msgstr "Rémálom!"
 
 msgid "CSKILL_BABY"
-msgstr "Csak gyengéden."
+msgstr "Csak gyengéden"
 
 msgid "CSKILL_EASY"
-msgstr "Ne túl ragadósan!"
+msgstr "Ne túl ragadósan"
 
 msgid "CSKILL_NORMAL"
 msgstr "Egy csomó trutymó"
@@ -2941,13 +2956,13 @@ msgid "MNU_WETNURSE"
 msgstr "Süldőgyermek"
 
 msgid "MNU_YELLOWBELLIES"
-msgstr "Ne bántsék kend!"
+msgstr "Ne bántsék kend"
 
 msgid "MNU_BRINGEST"
 msgstr "Ide velük hinnye"
 
 msgid "MNU_SMITE"
-msgstr "Csapjunk bele kend!"
+msgstr "Csapjunk bele kend"
 
 msgid "MNU_BLACKPLAGUE"
 msgstr "Ehun gyün a pestis"
@@ -3264,7 +3279,7 @@ msgid "CMPTMNU_ANYBOSSDEATH"
 msgstr "Főgonosz halála megengedett a speciális pályákon"
 
 msgid "CMPTMNU_NODOORLIGHT"
-msgstr "A BOOM ajtó fény effekt kikapcsolása "
+msgstr "A BOOM ajtó fény effekt kikapcsolása"
 
 msgid "CMPTMNU_LIGHT"
 msgstr "Szomszédos fényforrás keresése mint Doom-ban"
@@ -3337,9 +3352,6 @@ msgstr "Halk isntant mozgó padló"
 
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Center forrás használata a szektor hangoknál"
-
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "Hangok megszűnnek az eltűnéskor"
 
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Eredeti hang célpont kezelés"
@@ -3606,7 +3618,7 @@ msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Textúrázott térkép"
 
 msgid "AUTOMAPMNU_SHOWITEMS"
-msgstr "Tárgy számláló mutatása"
+msgstr "Tárgy számlálók mutatása"
 
 msgid "AUTOMAPMNU_SHOWMONSTERS"
 msgstr "Szörny számláló mutatása"
@@ -3812,9 +3824,6 @@ msgstr "Homályosodás effekt használata"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Klasszikus átlátszóság"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "Lost soul átlátszóság"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Hamis kontraszt használata"
 
@@ -3968,9 +3977,6 @@ msgstr "Hálózati Beállítások"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Helyi beállítások"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "Mozgás előrejelzés"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Előrejelzés vonal művelet"
 
@@ -3985,15 +3991,6 @@ msgstr "Host beállítások"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "Extra Tic-ek"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "Válaszidő balanszolás"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr "Eredeti"
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "Optimalizált"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Klasszikus (gyorsabb)"
@@ -4051,25 +4048,16 @@ msgid "OPTVAL_BOTH"
 msgstr "Mindkettő"
 
 msgid "OPTVAL_ZDOOM"
-msgstr ""
+msgstr "ZDoom"
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
 msgstr "Játékos"
 
 msgid "OPTVAL_MAP"
 msgstr "Pálya"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "640x480-hoz arányít"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "Pixel duplázás"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "Pixel négyszerezés"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Jelenlegi fegyver"
@@ -4164,15 +4152,6 @@ msgstr "Csak map orientált színek"
 msgid "OPTVAL_NODOORS"
 msgstr "Minden, kivétel az ajtók"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "Dupla"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "Tripla"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "Négyszeres"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Tárgy felvétele"
 
@@ -4189,19 +4168,19 @@ msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Csak szörnyeket"
 
 msgid "OPTVAL_HEXEN"
-msgstr ""
+msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr "Régi"
 
 msgid "OPTVAL_DOOM"
-msgstr ""
+msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (szigorú)"
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (szigorú)"
@@ -4220,9 +4199,6 @@ msgstr "MBF21 (szigorú)"
 
 msgid "OPTVAL_ZDOOM2063"
 msgstr ""
-
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Minden visszaigazolatlan"
 
 msgid "OPTVAL_ERRORS"
 msgstr "Hibák"
@@ -4245,12 +4221,6 @@ msgstr "Doom szoftveres renderer"
 msgid "OPTVAL_SWDOOMTC"
 msgstr ""
 
-msgid "OPTVAL_DEDICATED"
-msgstr "Nagy teljesítmény"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "Energia takarékos"
-
 msgid "OPTVAL_VANILLA"
 msgstr "Hagyományos"
 
@@ -4259,12 +4229,6 @@ msgstr "ZDoom (erőltetett)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Hagyományos (erőltettt)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "Automata (ZDoom preferált)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "Automata (Hagyományos preferált)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Kicsi"
@@ -4354,21 +4318,15 @@ msgid "C_TEAL"
 msgstr "\\cztürkiz"
 
 msgid "OPTSTR_HERETIC"
-msgstr ""
+msgstr "Heretic"
 
 msgid "OPTSTR_CHEX"
-msgstr ""
-
-msgid "OPTSTR_NOSOUND"
-msgstr "Hang nélkül"
+msgstr "Chex®"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Nincs interoláció"
 
 msgid "OPTSTR_SPLINE"
-msgstr ""
-
-msgid "OPTSTR_OPENAL"
 msgstr ""
 
 msgid "DSPLYMNU_GLOPT"
@@ -4383,12 +4341,6 @@ msgstr "Hardver Renderelő Beállítások"
 msgid "GLMNU_DYNLIGHT"
 msgstr "Dinamikus Fény Beállítások"
 
-msgid "GLMNU_PREFS"
-msgstr "Preferenciák"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "Sprite szél igazítása"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Textúra szerinti kirajzolási lista"
 
@@ -4397,9 +4349,6 @@ msgstr "Dinamikus Fények"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Dinamikus Fények (hardveres)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "Fény részletesség"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "A fény hatással van a sprite-okra"
@@ -4416,17 +4365,11 @@ msgstr "Shadowmap minőség"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Köd mód"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Köd Fullbright-ot erőltet ki"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Fegyver lövés fényerősség"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Környezeti mappolás a tükrökön"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Felerősített éjjellátó mód"
@@ -4451,9 +4394,6 @@ msgstr "Sprite alapú kamera"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Részecske stílusa"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Renderelés minősége"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4504,9 +4444,6 @@ msgstr ""
 msgid "OPTVAL_SOFTWARE"
 msgstr "Szoftver"
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "Optimális"
-
 msgid "OPTVAL_YAXIS"
 msgstr "Y tengely"
 
@@ -4518,9 +4455,6 @@ msgstr "Négyzet"
 
 msgid "OPTVAL_ROUND"
 msgstr "Kör"
-
-msgid "OPTVAL_RADIAL"
-msgstr "Sugaras"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Pixeles homály"
@@ -4585,9 +4519,6 @@ msgstr "TrueColor Beállítások"
 msgid "TCMNU_TITLE"
 msgstr "TrueColor Beállítások"
 
-msgid "TCMNU_TRUECOLOR"
-msgstr "Truecolor Kimenet"
-
 msgid "TCMNU_MINFILTER"
 msgstr "Lineáris filterezés leméretezésnél"
 
@@ -4600,33 +4531,18 @@ msgstr "Mipmap textúrák"
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dinamikus fények (szoftveres)"
 
-msgid "OS_TITLE"
-msgstr "Beállítás Keresés"
-
-msgid "OS_ANY"
-msgstr "Bármilyen szótagra keresés"
-
-msgid "OS_ALL"
-msgstr "Összes szótagra keresés"
-
-msgid "OS_NO_RESULTS"
-msgstr "Nincs keresési találat"
-
-msgid "OS_LABEL"
-msgstr "Keresés:"
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Kulcsokat mindig mutat"
 
 msgid "TXT_NO_TEAM_CHANGE"
-msgstr "Csapatváltás letiltva"
+msgstr "Csapatváltás letiltva!"
 
 # %s is the player and gender sensitive
 msgid "TXT_JOINED_TEAM"
 msgstr "%s belépett a %t csapatba"
 
 msgid "TXT_LONER"
-msgstr "%s immáron magányos útralépett"
+msgstr "%s immáron magányos útralépett."
 
 msgid "TXT_LEFTWITHFRAGS"
 msgstr "%s kilépett %d fraggel"
@@ -4652,7 +4568,7 @@ msgstr "A '%s' mentés egy másik ZDoom motorhoz való:"
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "A '%s' mentés egy túl régi verzióhoz való: %d (%e a legfrissebb támogatott "
-"verzió)"
+"verzió)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
@@ -4662,7 +4578,7 @@ msgstr ""
 msgid "TXT_TOONEWSG"
 msgstr ""
 "A '%s' mentés egy túl új verzióhoz való: %d (%e a legkorábbi támogatott "
-"verzió)"
+"verzió)."
 
 msgid "TXT_NOMAPSG"
 msgstr "A '%s' mentés hiányolja a jelenlegi pályát."
@@ -4671,7 +4587,7 @@ msgid "TXT_NOGLOBALSJSON"
 msgstr "A '%s' nem valós mentés: Hiányzó 'globals.json'."
 
 msgid "TXT_SGINFOERR"
-msgstr "A '%s' -ban nem található mentési információ."
+msgstr "A '%s' -ban nem található mentési információ"
 
 msgid "TXT_SAVEPENDING"
 msgstr "A mentés folyamatban."
@@ -4680,23 +4596,20 @@ msgid "TXT_NOTSAVEABLE"
 msgstr "Nem menthető játék."
 
 msgid "TXT_NOTINLEVEL"
-msgstr "Nem menthető pályán van."
+msgstr "Nem menthető pályán van"
 
 msgid "TXT_SPPLAYERDEAD"
-msgstr "Játékos meghalt egy egyjátékos módban."
+msgstr "Játékos meghalt egy egyjátékos módban"
 
 msgid "TXT_SAVEFAILED"
 msgstr "Mentés meghiusult"
 
 msgid "TXT_SCREENSHOTERR"
-msgstr "Képernyőmentés meghiusult"
+msgstr "Képernyőmentés meghiusult."
 
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr "%s által"
-
-msgid "TXT_QUITENDOOM"
-msgstr "Nyomjon egy billentyűt vagy kattintson bárhova a kilépéshez."
 
 msgid "HUDMNU_FLASH"
 msgstr "Képernyő Keverés Beállítások"
@@ -4709,9 +4622,6 @@ msgstr "Célkereszt"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "Feliratok"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "Szürke árnyákok megakadályozása"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Betű Beállítások"
@@ -4752,11 +4662,6 @@ msgstr "Arányosító faktor"
 
 msgid "SCALEMNU_RATIO"
 msgstr "Képarány"
-
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr ""
 
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
@@ -5070,9 +4975,6 @@ msgstr ""
 # Forces a cool down between chat messages for all players when playing
 # online.
 msgid "NETMNU_CHATSLOMO"
-msgstr ""
-
-msgid "JOYMNU_HAPTRIGGERS"
 msgstr ""
 
 msgid "OPTMNU_HAPTICS"
